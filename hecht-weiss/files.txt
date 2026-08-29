@@ -1,0 +1,33 @@
+ Volume in drive C is OS
+ Volume Serial Number is BC2D-D636
+
+ Directory of C:\Users\Suzanne\Documents\My Webs\family-tree\hecht-weiss
+
+08/30/2014  10:52 AM    <DIR>          .
+08/30/2014  10:52 AM    <DIR>          ..
+08/06/2006  09:24 PM             2,645 adele_schapira.htm
+08/06/2006  09:26 PM             3,769 chaim_beer_schapira.htm
+04/04/2010  02:12 PM             3,216 Clara Hecht.htm
+08/06/2006  09:27 PM             8,089 edmund_blau.htm
+08/06/2006  09:27 PM             2,527 ernestine_blau.htm
+08/30/2014  10:52 AM                 0 files.txt
+08/06/2006  09:27 PM             3,045 hersch_hecht.htm
+04/21/2012  05:09 PM    <DIR>          images
+08/06/2006  09:27 PM             4,269 jachel_hecht.htm
+08/06/2006  09:28 PM             4,181 Jacob Hecht.htm
+08/06/2006  09:28 PM             4,084 jakab_weiss.htm
+08/13/2006  06:31 PM             3,327 Joseph Hecht.htm
+08/06/2006  09:29 PM             1,611 moses_kneller.htm
+07/26/2006  04:46 PM            20,682 robert.pdf
+07/22/2006  03:18 PM             6,470 robert2.gif
+07/22/2006  03:18 PM             1,923 robert3.gif
+08/06/2006  09:29 PM             4,336 robert_weiss.htm
+07/22/2006  03:18 PM            12,034 rose_h1.gif
+08/06/2006  09:29 PM             4,538 rose_hecht.htm
+04/21/2012  05:09 PM    <DIR>          rose_hecht_files
+08/06/2006  09:29 PM             3,033 sadie_hecht.htm
+08/06/2006  09:30 PM             4,205 sammuel_blau_and_betti_fuchs.htm
+08/06/2006  09:30 PM             1,893 sigfried_hecht.htm
+07/26/2006  04:16 PM             7,974 test.GED
+              22 File(s)        107,851 bytes
+               4 Dir(s)  495,780,306,944 bytes free
