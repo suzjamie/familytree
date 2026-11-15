@@ -1,0 +1,4396 @@
+﻿0 HEAD
+1 SOUR FTM
+2 VERS 25.0.2.181
+2 NAME Family Tree Maker for Mac
+2 CORP The Software MacKiev Company
+3 ADDR 30 Union Wharf
+4 CONT Boston, MA 02109
+3 PHON (617) 227-6681
+1 DEST FTM
+1 DATE 12 NOV 2026
+1 CHAR UTF-8
+1 FILE paternal.ged
+1 SUBM @SUBM@
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+0 @SUBM@ SUBM
+1 NAME Not Given
+0 @I11055@ INDI
+1 NAME Jemima Elizabeth /Ford/
+2 SOUR @S510@
+2 SOUR @S42@
+3 PAGE Virginia Department of Health; Richmond, Virginia; Virginia, Marriages, 1936-2014; Roll: 101168997
+3 OBJE @M1543@
+2 SOUR @S1648@
+3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: Beckley, Raleigh, We
+3 OBJE @M3556@
+1 SEX F
+1 BIRT
+2 DATE 28 NOV 1900
+2 PLAC Huntington, Cabell, West Virginia
+3 MAP
+4 LATI N38.416107
+4 LONG W82.431038
+2 SOUR @S510@
+2 SOUR @S1648@
+3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: Beckley, Raleigh, We
+3 OBJE @M3556@
+1 RESI
+2 DATE 1948
+2 PLAC Beckley, Raleigh, West Virginia
+3 MAP
+4 LATI N37.778164
+4 LONG W81.188179
+2 SOUR @S155@
+3 OBJE @M1541@
+1 DEAT
+2 DATE 21 DEC 1981
+2 PLAC Annandale, Fairfax, Virginia
+3 MAP
+4 LATI N38.830395
+4 LONG W77.196381
+1 RESI
+2 DATE 1930
+2 PLAC Ashland, Boyd, Kentucky
+3 MAP
+4 LATI N38.478413
+4 LONG W82.637932
+2 SOUR @S23@
+3 PAGE Year: 1930; Census Place: Ashland, Boyd, Kentucky; Page: 6A; Enumeration District: 0028; FHL microfilm: 2340469
+3 OBJE @M1533@
+1 RESI
+2 DATE 1935
+2 PLAC Beckley, Raleigh, West Virginia
+3 MAP
+4 LATI N37.778164
+4 LONG W81.188179
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Beckley, Raleigh, West Virginia; Roll: m-t0627-04442; Page: 5A; Enumeration District: 41-29
+3 OBJE @M1530@
+1 RESI
+2 DATE 1940
+2 PLAC Beckley, Raleigh, West Virginia
+3 MAP
+4 LATI N37.778164
+4 LONG W81.188179
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Beckley, Raleigh, West Virginia; Roll: m-t0627-04442; Page: 5A; Enumeration District: 41-29
+3 OBJE @M1530@
+1 RESI
+2 DATE 1910
+2 PLAC Bluefield, Mercer, West Virginia
+3 MAP
+4 LATI N37.252617
+4 LONG W81.271202
+2 SOUR @S37@
+3 PAGE Year: 1910; Census Place: Bluefield Ward 1, Mercer, West Virginia; Roll: T624_1689; Page: 15A; Enumeration District: 0120; FHL microfilm: 1375702
+1 RESI
+2 DATE 1920
+2 PLAC House #32, Guthrie, Kanawha, West Virginia
+2 SOUR @S24@
+3 PAGE Year: 1920; Census Place: Guthrie, Kanawha, West Virginia; Roll: T625_1957; Page: 3B; Enumeration District: 134
+3 OBJE @M1524@
+1 RESI Relation to Head: Wife; Marital Status: Mar
+2 DATE 1950
+2 PLAC Beckley, Raleigh, West Virginia
+3 MAP
+4 LATI N37.778164
+4 LONG W81.188179
+2 SOUR @S1648@
+3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: Beckley, Raleigh, We
+3 OBJE @M3556@
+1 OBJE @M4612@
+1 FAMS @F4179@
+1 FAMC @F4302@
+0 @I11181@ INDI
+1 NAME Howard Alexander /Saunders/
+1 SEX M
+1 BIRT
+2 DATE 3 APR 1898
+2 PLAC London, Kanawha, West Virginia
+3 MAP
+4 LATI N38.194439
+4 LONG W81.368889
+1 DEAT
+2 DATE 24 JUL 1898
+2 PLAC London, Kanawha, West Virginia
+3 MAP
+4 LATI N38.194439
+4 LONG W81.368889
+1 _PHOTO @M648@
+1 FAMC @F4463@
+0 @I11291@ INDI
+1 NAME Janet Dabney /Saunders/
+2 SOUR @S178@
+3 PAGE Database online. Year: 1910; Census Place: Roe, Kanawha, West Virginia; Roll: T624_1684; Page: 7B; Enumeration District: 54; Image: 454.
+3 DATA
+4 TEXT Record for Nettie C Saunders
+2 SOUR @S738@
+3 PAGE Will Record, 1847-1968; Author: West Virginia. County Court (Putnam County); Probate Place: Putnam
+3 OBJE @M1589@
+2 SOUR @S2659@
+3 PAGE Genealogies of Virginia Families From the William and Mary College Quarterly Vol Iii Heale-Muscoe
+3 DATA
+4 TEXT (null)
+3 OBJE @M5177@
+1 SEX F
+1 BIRT
+2 DATE 20 OCT 1902
+2 PLAC London, Kanawha, West Virginia
+3 MAP
+4 LATI N38.194439
+4 LONG W81.368889
+2 SOUR @S178@
+3 PAGE Database online. Year: 1910; Census Place: Roe, Kanawha, West Virginia; Roll: T624_1684; Page: 7B; Enumeration District: 54; Image: 454.
+3 DATA
+4 TEXT Record for Nettie C Saunders
+1 RESI
+2 DATE 1910
+2 PLAC Kanawha, West Virginia
+3 MAP
+4 LATI N38.342354
+4 LONG W81.525703
+2 SOUR @S178@
+3 PAGE Database online. Year: 1910; Census Place: Roe, Kanawha, West Virginia; Roll: T624_1684; Page: 7B; Enumeration District: 54; Image: 454.
+3 DATA
+4 TEXT Record for Nettie C Saunders
+1 DEAT
+2 DATE 30 JAN 1996
+2 PLAC Chesterfield, Virginia
+3 MAP
+4 LATI N37.378204
+4 LONG W77.588394
+2 SOUR @S736@
+3 PAGE Virginia Department of Health; Richmond, Virginia; Virginia Deaths, 1912-2014
+1 RESI
+2 DATE 1930
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+2 SOUR @S23@
+3 PAGE Year: 1930; Census Place: Dunbar, Kanawha, West Virginia; Page: 3B; Enumeration District: 0079; FHL microfilm: 2342273
+1 RESI
+2 DATE 1935
+2 PLAC Washington, District of Columbia
+3 MAP
+4 LATI N38.895000
+4 LONG W77.036697
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Fairmont, Marion, West Virginia; Roll: m-t0627-04424; Page: 14A; Enumeration District: 25-23
+3 OBJE @M1585@
+1 RESI
+2 DATE 1940
+2 PLAC Fairmont, Marion, West Virginia
+3 MAP
+4 LATI N39.485081
+4 LONG W80.142586
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Fairmont, Marion, West Virginia; Roll: m-t0627-04424; Page: 14A; Enumeration District: 25-23
+3 OBJE @M1585@
+1 RESI
+2 DATE 1920
+2 PLAC Cabin Creek, Kanawha, West Virginia
+3 MAP
+4 LATI N38.195831
+4 LONG W81.477806
+2 SOUR @S24@
+3 PAGE Year: 1920; Census Place: Cabin Creek, Kanawha, West Virginia; Roll: T625_1957; Page: 10A; Enumeration District: 79
+1 NOTE @N4310@
+1 _PHOTO @M2203@
+1 FAMS @F4418@
+1 FAMC @F4463@
+0 @I11361@ INDI
+1 NAME Walter Mann /Saunders/
+2 SOUR @S456@
+3 PAGE Database online. Cabin Creek, Kanawha, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Robert G Saunders
+2 SOUR @S53@
+3 PAGE Virginia Department of Health; Richmond, Virginia
+2 SOUR @S96@
+3 PAGE Publication Date: 29/ Dec/ 1954; Publication Place: Santa Rosa, California, USA; URL: https://www.newspapers.com/image/348461631/?article=2dd8613f-d9da-45d8-be9c-21880721af27&focus=0.14524534,0.2778544,0.2667588,0.41681874&xid=3398
+2 SOUR @S66@
+3 PAGE The Sacramento Bee; Publication Date: 21 Sep 2016; Publication Place: Sacramento, California, USA; URL: https://www.newspapers.com/image/644542006/?article=819f4a72-2947-40fa-9bef-1b69019c0b89&focus=0.49366376,0.1353119,0.63999677,0.63314927&xid=3355
+2 SOUR @S1648@
+3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: Oakland, Alameda, Ca
+3 OBJE @M3559@
+1 SEX M
+2 SOUR @S456@
+3 PAGE Database online. Cabin Creek, Kanawha, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Robert G Saunders
+1 BIRT
+2 DATE 27 AUG 1892
+2 PLAC Buckingham, Virginia
+3 MAP
+4 LATI N37.568550
+4 LONG W78.525352
+2 SOUR @S456@
+3 PAGE Database online. Cabin Creek, Kanawha, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Robert G Saunders
+2 SOUR @S53@
+3 PAGE Virginia Department of Health; Richmond, Virginia
+2 SOUR @S1648@
+3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: Oakland, Alameda, Ca
+3 OBJE @M3559@
+1 RESI
+2 DATE 1900
+2 PLAC Cabin Creek, Kanawha, West Virginia
+3 MAP
+4 LATI N38.195831
+4 LONG W81.477806
+2 SOUR @S456@
+3 PAGE Database online. Cabin Creek, Kanawha, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Robert G Saunders
+1 EVEN Moving from WV to Denver.
+2 TYPE Departure
+2 DATE 11 DEC 1921
+2 PLAC Charleston, Kanawha, West Virginia
+3 MAP
+4 LATI N38.349819
+4 LONG W81.632614
+2 SOUR
+3 OBJE @M5063@
+1 DEAT
+2 DATE 10 SEP 1966
+2 PLAC San Antonio, Bexar, Texas
+3 MAP
+4 LATI N29.424120
+4 LONG W98.493622
+2 SOUR @S1099@
+3 OBJE @M1642@
+1 RESI
+2 DATE 1930
+2 PLAC Oakland, Alameda, California
+3 MAP
+4 LATI N37.804375
+4 LONG W122.270798
+2 SOUR @S23@
+3 PAGE Year: 1930; Census Place: Oakland, Alameda, California; Page: 20A; Enumeration District: 0182; FHL microfilm: 2339843
+1 RESI
+2 DATE 1935
+2 PLAC Oakland, Alameda, California
+3 MAP
+4 LATI N37.804375
+4 LONG W122.270798
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Oakland, Alameda, California; Roll: m-t0627-00437; Page: 11B; Enumeration District: 61-226
+3 OBJE @M1606@
+1 RESI
+2 DATE 1940
+2 PLAC Oakland, Alameda, California
+3 MAP
+4 LATI N37.804375
+4 LONG W122.270798
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Oakland, Alameda, California; Roll: m-t0627-00437; Page: 11B; Enumeration District: 61-226
+3 OBJE @M1606@
+1 RESI Relation to Head: Head; Marital Status: D
+2 DATE 1950
+2 PLAC Oakland, Alameda, California
+3 MAP
+4 LATI N37.804375
+4 LONG W122.270798
+2 SOUR @S1648@
+3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: Oakland, Alameda, Ca
+3 OBJE @M3559@
+1 NOTE @N4347@
+1 _PHOTO @M2199@
+1 OBJE @M220@
+1 OBJE @M3108@
+1 FAMS @F4052@
+1 FAMS @F4053@
+1 FAMC @F4463@
+0 @I11677@ INDI
+1 NAME Margaret Buchanon /Ford/
+2 SOUR @S456@
+3 PAGE Year: 1900; Census Place: Plymouth, Mercer, West Virginia; Roll: 1766; Page: 23B; Enumeration District: 0084; FHL microfilm: 1241766
+3 DATA
+4 TEXT Record for George M Ford
+3 OBJE @M1742@
+1 SEX F
+2 SOUR @S456@
+3 PAGE Year: 1900; Census Place: Plymouth, Mercer, West Virginia; Roll: 1766; Page: 23B; Enumeration District: 0084; FHL microfilm: 1241766
+3 DATA
+4 TEXT Record for George M Ford
+3 OBJE @M1742@
+1 BIRT
+2 DATE 9 MAR 1899
+2 PLAC Huntington, Cabell, West Virginia
+3 MAP
+4 LATI N38.416107
+4 LONG W82.431038
+2 SOUR @S456@
+3 PAGE Year: 1900; Census Place: Plymouth, Mercer, West Virginia; Roll: 1766; Page: 23B; Enumeration District: 0084; FHL microfilm: 1241766
+3 DATA
+4 TEXT Record for George M Ford
+3 OBJE @M1742@
+1 RESI
+2 DATE 1900
+2 PLAC Plymouth, Mercer, West Virginia
+3 MAP
+4 LATI N38.515732
+4 LONG W81.844673
+2 SOUR @S456@
+3 PAGE Year: 1900; Census Place: Plymouth, Mercer, West Virginia; Roll: 1766; Page: 23B; Enumeration District: 0084; FHL microfilm: 1241766
+3 DATA
+4 TEXT Record for George M Ford
+3 OBJE @M1742@
+1 BURI
+2 PLAC Ford Family section, Athens Cemetery, 507 Cemetery Rd, Princeton, Mercer, West Virginia
+2 NOTE @N4892@
+1 DEAT
+2 DATE 23 FEB 1995
+2 PLAC 122 Granville Ave, Beckley, Raleigh, West Virginia
+1 RESI
+2 DATE 1930
+2 PLAC 907 Myres Ave, Dunbar, Kanawha, West Virginia
+2 SOUR @S23@
+3 OBJE @M1240@
+1 RESI
+2 DATE 1935
+2 PLAC 122 Granville Ave, Beckley, Raleigh, West Virginia
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Beckley, Raleigh, West Virginia; Roll: m-t0627-04442; Page: 14A; Enumeration District: 41-30
+3 OBJE @M1237@
+1 RESI
+2 DATE 1940
+2 PLAC 122 Granville Ave, Beckley, Raleigh, West Virginia
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Beckley, Raleigh, West Virginia; Roll: m-t0627-04442; Page: 14A; Enumeration District: 41-30
+3 OBJE @M1237@
+1 RESI
+2 DATE 1910
+2 PLAC Bluefield, Mercer, West Virginia
+3 MAP
+4 LATI N37.252617
+4 LONG W81.271202
+2 SOUR @S37@
+3 PAGE Year: 1910; Census Place: Bluefield Ward 1, Mercer, West Virginia; Roll: T624_1689; Page: 15A; Enumeration District: 0120; FHL microfilm: 1375702
+1 RESI
+2 DATE 1920
+2 PLAC House #32, Guthrie, Kanawha, West Virginia
+2 SOUR @S24@
+3 PAGE Year: 1920; Census Place: Guthrie, Kanawha, West Virginia; Roll: T625_1957; Page: 3B; Enumeration District: 134
+3 OBJE @M1524@
+1 RESI
+2 DATE 1950
+2 PLAC 122 Granville Ave, Beckley, Raleigh, West Virginia
+2 SOUR @S1648@
+3 OBJE @M4387@
+1 FAMS @F4338@
+1 FAMC @F4302@
+0 @I12025@ INDI
+1 NAME George Michael /Ford/
+2 SOUR @S23@
+3 PAGE Database online. Year: 1930; Census Place: Dunbar, Kanawha, West Virginia; Roll: 2539; Page: 8A; Enumeration District: 79; Image: 209.0.
+3 DATA
+4 TEXT Record for Linn Ford
+3 OBJE @M1795@
+2 SOUR @S456@
+3 PAGE Year: 1900; Census Place: Plymouth, Mercer, West Virginia; Roll: 1766; Page: 23B; Enumeration District: 0084; FHL microfilm: 1241766
+3 DATA
+4 TEXT Record for George M Ford
+3 OBJE @M1742@
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Dunbar, Kanawha, West Virginia; Roll: T627_4416; Page: 13A; Enumeration District: 20-115
+3 DATA
+4 TEXT Record for George M Ford
+3 OBJE @M1800@
+2 SOUR @S902@
+3 DATA
+4 TEXT Record for George M. Ford
+2 SOUR @S955@
+3 DATA
+4 TEXT Record for George M Ford
+3 OBJE @M1806@
+2 SOUR @S956@
+3 PAGE Wills; Author: West Virginia. County Court (Kanawha County); Probate Place: Kanawha, West Virginia
+3 DATA
+4 TEXT Record for George M. Ford
+3 OBJE @M1810@
+2 SOUR @S44@
+2 SOUR @S510@
+2 SOUR @S613@
+2 SOUR @S96@
+3 PAGE West Virginia Argus; Publication Date: 13/ Jan/ 1898; Publication Place: Kingwood, West Virginia, USA; URL: https://www.newspapers.com/image/827923553/?article=fe56667c-ae97-499b-b8bb-b70a054e13df&focus=0.8329118,0.52088517,0.9708006,0.6938467&xid=3398
+3 _LINK https://www.newspapers.com/image/827923553/?article=fe56667c-ae97-499b-b8bb-b70a054e13df&focus=0.8329118,0.52088517,0.9708006,0.6938467&xid=3398
+3 NOTE https://www.newspapers.com/image/827923553/?article=fe56667c-ae97-499b
+4 CONC -b8bb-b70a054e13df&focus=0.8329118,0.52088517,0.9708006,0.6938467&xid=
+4 CONC 3398
+2 SOUR @S2648@
+3 PAGE Bluefield Daily Telegraph; Publication Date: 3 Mar 1912; Publication Place: Bluefield, West Virginia, USA; URL: https://www.newspapers.com/image/12908476/?article=27f27996-4fcd-4442-bd1b-a83878c2987b&xid=4636 &terms=Geo_._M._Ford
+3 _LINK https://www.newspapers.com/image/12908476/?article=27f27996-4fcd-4442-bd1b-a83878c2987b&xid=4636 &terms=Geo_._M._Ford
+3 NOTE https://www.newspapers.com/image/12908476/?article=27f27996-4fcd-4442-
+4 CONC bd1b-a83878c2987b&xid=4636 &terms=Geo_._M._Ford
+2 SOUR @S66@
+3 PAGE Covington Virginian; Publication Date: 21 Aug 1941; Publication Place: Covington, Virginia, USA; URL: https://www.newspapers.com/image/797364157/?article=8a97e3d3-6a95-4206-9ce7-55619284c4d4&focus=0.85264033,0.3199105,0.97746444,0.55816805&xid=3355
+3 _LINK https://www.newspapers.com/image/797364157/?article=8a97e3d3-6a95-4206-9ce7-55619284c4d4&focus=0.85264033,0.3199105,0.97746444,0.55816805&xid=3355
+3 NOTE https://www.newspapers.com/image/797364157/?article=8a97e3d3-6a95-4206
+4 CONC -9ce7-55619284c4d4&focus=0.85264033,0.3199105,0.97746444,0.55816805&xi
+4 CONC d=3355
+2 SOUR @S45@
+3 PAGE Year: 1880; Census Place: Cove, Barbour, West Virginia; Roll: 1399; Page: 14c; Enumeration District: 069
+3 OBJE @M5084@
+1 SEX M
+2 SOUR @S456@
+3 PAGE Year: 1900; Census Place: Plymouth, Mercer, West Virginia; Roll: 1766; Page: 23B; Enumeration District: 0084; FHL microfilm: 1241766
+3 DATA
+4 TEXT Record for George M Ford
+3 OBJE @M1742@
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Dunbar, Kanawha, West Virginia; Roll: T627_4416; Page: 13A; Enumeration District: 20-115
+3 DATA
+4 TEXT Record for George M Ford
+3 OBJE @M1800@
+1 RESI
+2 DATE 1900
+2 PLAC Plymouth, Mercer, West Virginia
+3 MAP
+4 LATI N38.515732
+4 LONG W81.844673
+2 SOUR @S510@
+1 BIRT
+2 DATE 7 JAN 1871
+2 PLAC Cove, Barbour, West Virginia
+3 MAP
+4 LATI N36.982086
+4 LONG W78.745544
+2 SOUR @S23@
+3 PAGE Database online. Year: 1930; Census Place: Dunbar, Kanawha, West Virginia; Roll: 2539; Page: 8A; Enumeration District: 79; Image: 209.0.
+3 DATA
+4 TEXT Record for Linn Ford
+3 OBJE @M1795@
+2 SOUR @S456@
+3 PAGE Year: 1900; Census Place: Plymouth, Mercer, West Virginia; Roll: 1766; Page: 23B; Enumeration District: 0084; FHL microfilm: 1241766
+3 DATA
+4 TEXT Record for George M Ford
+3 OBJE @M1742@
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Dunbar, Kanawha, West Virginia; Roll: T627_4416; Page: 13A; Enumeration District: 20-115
+3 DATA
+4 TEXT Record for George M Ford
+3 OBJE @M1800@
+2 SOUR @S44@
+2 SOUR @S66@
+3 PAGE Covington Virginian; Publication Date: 21 Aug 1941; Publication Place: Covington, Virginia, USA; URL: https://www.newspapers.com/image/797364157/?article=8a97e3d3-6a95-4206-9ce7-55619284c4d4&focus=0.85264033,0.3199105,0.97746444,0.55816805&xid=3355
+3 _LINK https://www.newspapers.com/image/797364157/?article=8a97e3d3-6a95-4206-9ce7-55619284c4d4&focus=0.85264033,0.3199105,0.97746444,0.55816805&xid=3355
+3 NOTE https://www.newspapers.com/image/797364157/?article=8a97e3d3-6a95-4206
+4 CONC -9ce7-55619284c4d4&focus=0.85264033,0.3199105,0.97746444,0.55816805&xi
+4 CONC d=3355
+2 SOUR @S45@
+3 PAGE Year: 1880; Census Place: Cove, Barbour, West Virginia; Roll: 1399; Page: 14c; Enumeration District: 069
+3 OBJE @M5084@
+1 BURI Athens Cemetery, Athens, West Virginia
+2 PLAC Ford Family section, Athens Cemetery, 507 Cemetery Rd, Princeton, Mercer, West Virginia
+2 NOTE @N4888@
+2 SOUR @S902@
+3 DATA
+4 TEXT Record for George M. Ford
+2 SOUR @S955@
+3 DATA
+4 TEXT Record for George M Ford
+3 OBJE @M1806@
+2 SOUR @S44@
+1 PROB
+2 DATE 28 AUG 1941
+2 PLAC Kanawha, West Virginia
+3 MAP
+4 LATI N38.342354
+4 LONG W81.525703
+2 SOUR @S956@
+3 PAGE Wills; Author: West Virginia. County Court (Kanawha County); Probate Place: Kanawha, West Virginia
+3 DATA
+4 TEXT Record for George M. Ford
+3 OBJE @M1810@
+1 OCCU Professor at Marshall College.
+2 DATE 5 MAR 1901
+2 PLAC Huntington, Cabell, West Virginia
+3 MAP
+4 LATI N38.416107
+4 LONG W82.431038
+2 SOUR @S2649@
+3 OBJE @M5070@
+1 EVEN
+2 TYPE GM Ford - Running for Office
+2 DATE 23 JAN 1920
+2 PLAC Charleston, Kanawha, West Virginia
+3 MAP
+4 LATI N38.349819
+4 LONG W81.632614
+2 SOUR @S2651@
+3 PAGE 23 Jan 1920
+3 _LINK https://www.newspapers.com/article/the-charleston-daily-mail/182724669/?xid=637
+3 NOTE https://www.newspapers.com/article/the-charleston-daily-mail/182724669
+4 CONC /?xid=637
+1 DEAT
+2 DATE 21 AUG 1941
+2 PLAC Huntington, Cabell, West Virginia
+3 MAP
+4 LATI N38.416107
+4 LONG W82.431038
+2 SOUR @S902@
+3 DATA
+4 TEXT Record for George M. Ford
+2 SOUR @S955@
+3 DATA
+4 TEXT Record for George M Ford
+3 OBJE @M1806@
+2 SOUR @S44@
+2 SOUR @S66@
+3 PAGE Covington Virginian; Publication Date: 21 Aug 1941; Publication Place: Covington, Virginia, USA; URL: https://www.newspapers.com/image/797364157/?article=8a97e3d3-6a95-4206-9ce7-55619284c4d4&focus=0.85264033,0.3199105,0.97746444,0.55816805&xid=3355
+3 _LINK https://www.newspapers.com/image/797364157/?article=8a97e3d3-6a95-4206-9ce7-55619284c4d4&focus=0.85264033,0.3199105,0.97746444,0.55816805&xid=3355
+3 NOTE https://www.newspapers.com/image/797364157/?article=8a97e3d3-6a95-4206
+4 CONC -9ce7-55619284c4d4&focus=0.85264033,0.3199105,0.97746444,0.55816805&xi
+4 CONC d=3355
+1 OCCU School Teacher
+2 DATE 1900
+2 SOUR @S456@
+3 PAGE Year: 1900; Census Place: Plymouth, Mercer, West Virginia; Roll: 1766; Page: 23B; Enumeration District: 0084; FHL microfilm: 1241766
+3 DATA
+4 TEXT Record for George M Ford
+3 OBJE @M1742@
+1 RESI
+2 DATE 1910
+2 PLAC Bluefield, Mercer, West Virginia
+3 MAP
+4 LATI N37.252617
+4 LONG W81.271202
+2 SOUR @S37@
+3 PAGE Year: 1910; Census Place: Bluefield Ward 1, Mercer, West Virginia; Roll: T624_1689; Page: 15A; Enumeration District: 0120; FHL microfilm: 1375702
+1 RESI
+2 DATE 1920
+2 PLAC House #32, Guthrie, Kanawha, West Virginia
+2 SOUR @S24@
+3 PAGE Year: 1920; Census Place: Guthrie, Kanawha, West Virginia; Roll: T625_1957; Page: 3B; Enumeration District: 134
+3 OBJE @M1524@
+1 RESI
+2 DATE 1930
+2 PLAC 809 West Virginia Ave, Dunbar, Kanawha, West Virginia
+2 SOUR @S23@
+3 PAGE Database online. Year: 1930; Census Place: Dunbar, Kanawha, West Virginia; Roll: 2539; Page: 8A; Enumeration District: 79; Image: 209.0.
+3 DATA
+4 TEXT Record for Linn Ford
+3 OBJE @M1795@
+1 RESI
+2 DATE 1935
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Dunbar, Kanawha, West Virginia; Roll: T627_4416; Page: 13A; Enumeration District: 20-115
+3 DATA
+4 TEXT Record for George M Ford
+3 OBJE @M1800@
+1 RESI Age: 69. Married. Relation to Head of House: Head
+2 DATE 1 APR 1940
+2 PLAC 811 West Virginia Ave, Dunbar, Kanawha, West Virginia
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Dunbar, Kanawha, West Virginia; Roll: T627_4416; Page: 13A; Enumeration District: 20-115
+3 DATA
+4 TEXT Record for George M Ford
+3 OBJE @M1800@
+1 OCCU Attorney, Professor at Marshall College
+2 DATE 13 JUL 1905
+2 PLAC Huntington, Cabell, West Virginia
+3 MAP
+4 LATI N38.416107
+4 LONG W82.431038
+2 SOUR @S2649@
+3 OBJE @M5068@
+1 RESI Occupation: State Superintendent of Schools
+2 DATE 1924
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+2 SOUR @S613@
+1 RESI
+2 DATE 3 MAR 1912
+2 PLAC Bluefield, Mercer, West Virginia
+3 MAP
+4 LATI N37.252617
+4 LONG W81.271202
+2 SOUR @S2648@
+3 PAGE Bluefield Daily Telegraph; Publication Date: 3 Mar 1912; Publication Place: Bluefield, West Virginia, USA; URL: https://www.newspapers.com/image/12908476/?article=27f27996-4fcd-4442-bd1b-a83878c2987b&xid=4636 &terms=Geo_._M._Ford
+3 _LINK https://www.newspapers.com/image/12908476/?article=27f27996-4fcd-4442-bd1b-a83878c2987b&xid=4636 &terms=Geo_._M._Ford
+3 NOTE https://www.newspapers.com/image/12908476/?article=27f27996-4fcd-4442-
+4 CONC bd1b-a83878c2987b&xid=4636 &terms=Geo_._M._Ford
+1 RESI Occupation: Homeworker; Marital Status: Single
+2 DATE 1880
+2 PLAC Cove, Barbour, West Virginia
+3 MAP
+4 LATI N36.982086
+4 LONG W78.745544
+2 SOUR @S45@
+3 PAGE Year: 1880; Census Place: Cove, Barbour, West Virginia; Roll: 1399; Page: 14c; Enumeration District: 069
+3 OBJE @M5084@
+1 NOTE @N4662@
+1 _PHOTO @M2192@
+1 OBJE @M8@
+1 OBJE @M1524@
+1 OBJE @M1795@
+1 OBJE @M5050@
+1 FAMS @F4302@
+1 FAMC @F4348@
+0 @I12044@ INDI
+1 NAME Thomas "Davis" /Saunders/
+2 SOUR @S456@
+3 PAGE Database online. Cabin Creek, Kanawha, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Robert G Saunders
+2 SOUR @S178@
+3 PAGE Database online. Year: 1910; Census Place: Roe, Kanawha, West Virginia; Roll: T624_1684; Page: 7B; Enumeration District: 54; Image: 454.
+3 DATA
+4 TEXT Record for Nettie C Saunders
+1 SEX M
+2 SOUR @S456@
+3 PAGE Database online. Cabin Creek, Kanawha, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Robert G Saunders
+1 BIRT
+2 DATE 21 MAY 1896
+2 PLAC London, Kanawha, West Virginia
+3 MAP
+4 LATI N38.194439
+4 LONG W81.368889
+2 SOUR @S456@
+3 PAGE Database online. Cabin Creek, Kanawha, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Robert G Saunders
+2 SOUR @S178@
+3 PAGE Database online. Year: 1910; Census Place: Roe, Kanawha, West Virginia; Roll: T624_1684; Page: 7B; Enumeration District: 54; Image: 454.
+3 DATA
+4 TEXT Record for Nettie C Saunders
+2 SOUR @S713@
+1 RESI
+2 DATE 1900
+2 PLAC Cabin Creek, Kanawha, West Virginia
+3 MAP
+4 LATI N38.195831
+4 LONG W81.477806
+2 SOUR @S456@
+3 PAGE Database online. Cabin Creek, Kanawha, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Robert G Saunders
+2 SOUR @S178@
+3 PAGE Database online. Year: 1910; Census Place: Roe, Kanawha, West Virginia; Roll: T624_1684; Page: 7B; Enumeration District: 54; Image: 454.
+3 DATA
+4 TEXT Record for Nettie C Saunders
+1 DEAT
+2 DATE 24 APR 1982
+2 PLAC Mauldin, Greenville, South Carolina
+3 MAP
+4 LATI N34.778725
+4 LONG W82.310143
+1 RESI
+2 DATE 1935
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Dunbar, Kanawha, West Virginia; Roll: m-t0627-04416; Page: 3A; Enumeration District: 20-117
+3 OBJE @M1591@
+1 RESI
+2 DATE 1940
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Dunbar, Kanawha, West Virginia; Roll: m-t0627-04416; Page: 3A; Enumeration District: 20-117
+3 OBJE @M1591@
+1 RESI
+2 DATE 1930
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+2 SOUR @S23@
+3 PAGE Year: 1930; Census Place: Dunbar, Kanawha, West Virginia; Page: 2A; Enumeration District: 0081; FHL microfilm: 2342273
+1 NOTE @N4666@
+1 _PHOTO @M2201@
+1 OBJE @M577@
+1 OBJE @M220@
+1 FAMS @F4309@
+1 FAMC @F4463@
+0 @I12046@ INDI
+1 NAME George Douglas /Saunders/
+2 SOUR @S456@
+3 PAGE Database online. Cabin Creek, Kanawha, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Robert G Saunders
+2 SOUR @S23@
+3 PAGE Year: 1930; Census Place: Hammond, Lake, Indiana; Page: 3A; Enumeration District: 0136; FHL microfilm: 2340337
+2 SOUR @S967@
+3 PAGE Will Record, 1847-1968; Author: West Virginia. County Court (Putnam County); Probate Place: Putnam
+3 OBJE @M1589@
+2 SOUR @S66@
+3 PAGE The Tampa Tribune; Publication Date: 23 May 1958; Publication Place: Tampa, Florida, USA; URL: https://www.newspapers.com/image/328119894/?article=aebf89b0-040c-4aa6-b0a9-84bf648cc5a5&focus=0.03441639,0.53144276,0.15605421,0.66552836&xid=3355
+2 SOUR @S24@
+3 PAGE Year: 1920; Census Place: Whiting Ward 3, Lake, Indiana; Roll: T625_445; Page: 20A; Enumeration District: 84
+1 SEX M
+2 SOUR @S456@
+3 PAGE Database online. Cabin Creek, Kanawha, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Robert G Saunders
+1 BIRT
+2 DATE 16 OCT 1889
+2 PLAC London, Kanawha, West Virginia
+3 MAP
+4 LATI N38.194439
+4 LONG W81.368889
+2 SOUR @S456@
+3 PAGE Database online. Cabin Creek, Kanawha, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Robert G Saunders
+2 SOUR @S23@
+3 PAGE Year: 1930; Census Place: Hammond, Lake, Indiana; Page: 3A; Enumeration District: 0136; FHL microfilm: 2340337
+2 SOUR @S66@
+3 PAGE The Tampa Tribune; Publication Date: 23 May 1958; Publication Place: Tampa, Florida, USA; URL: https://www.newspapers.com/image/328119894/?article=aebf89b0-040c-4aa6-b0a9-84bf648cc5a5&focus=0.03441639,0.53144276,0.15605421,0.66552836&xid=3355
+2 SOUR @S24@
+3 PAGE Year: 1920; Census Place: Whiting Ward 3, Lake, Indiana; Roll: T625_445; Page: 20A; Enumeration District: 84
+1 RESI Marital Status: Married; Relation to Head: Head
+2 DATE 1920
+2 PLAC Whiting, Lake, Indiana
+3 MAP
+4 LATI N41.679756
+4 LONG W87.494492
+2 SOUR @S24@
+3 PAGE Year: 1920; Census Place: Whiting Ward 3, Lake, Indiana; Roll: T625_445; Page: 20A; Enumeration District: 84
+1 BURI May 1991, plot B169 1-2; no marker found but on burial roles.
+2 PLAC Grandview Memorial Park, Dunbar, Kanawha, West Virginia
+1 DEAT
+2 DATE 22 MAY 1958
+2 PLAC Pinellas, Florida
+3 MAP
+4 LATI N27.902615
+4 LONG W82.738945
+2 SOUR @S66@
+3 PAGE The Tampa Tribune; Publication Date: 23 May 1958; Publication Place: Tampa, Florida, USA; URL: https://www.newspapers.com/image/328119894/?article=aebf89b0-040c-4aa6-b0a9-84bf648cc5a5&focus=0.03441639,0.53144276,0.15605421,0.66552836&xid=3355
+1 RESI
+2 DATE 1935
+2 PLAC Hammond, Lake, Indiana
+3 MAP
+4 LATI N41.583328
+4 LONG W87.499992
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Hammond, Lake, Indiana; Roll: m-t0627-01066; Page: 15B; Enumeration District: 45-68
+3 OBJE @M1874@
+1 RESI
+2 DATE 1940
+2 PLAC Hammond, Lake, Indiana
+3 MAP
+4 LATI N41.583328
+4 LONG W87.499992
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Hammond, Lake, Indiana; Roll: m-t0627-01066; Page: 15B; Enumeration District: 45-68
+3 OBJE @M1874@
+1 RESI Marital Status: married relation to Head: Head
+2 DATE 1930
+2 PLAC Hammond, Lake, Indiana
+3 MAP
+4 LATI N41.583328
+4 LONG W87.499992
+2 SOUR @S23@
+3 PAGE Year: 1930; Census Place: Hammond, Lake, Indiana; Page: 3A; Enumeration District: 0136; FHL microfilm: 2340337
+1 RESI
+2 DATE 1900
+2 PLAC Cabin Creek, Kanawha, West Virginia
+3 MAP
+4 LATI N38.195831
+4 LONG W81.477806
+2 SOUR @S456@
+3 PAGE Database online. Cabin Creek, Kanawha, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Robert G Saunders
+1 _PHOTO @M2235@
+1 OBJE @M1139@
+1 OBJE @M220@
+1 OBJE @M3013@
+1 FAMS @F4310@
+1 FAMS @F4311@
+1 FAMC @F4463@
+0 @I12048@ INDI
+1 NAME Annie Laurie /Linn/
+2 SOUR @S23@
+3 PAGE Database online. Year: 1930; Census Place: Dunbar, Kanawha, West Virginia; Roll: 2539; Page: 8A; Enumeration District: 79; Image: 209.0.
+3 DATA
+4 TEXT Record for Linn Ford
+3 OBJE @M1795@
+2 SOUR @S456@
+3 PAGE Year: 1900; Census Place: Plymouth, Mercer, West Virginia; Roll: 1766; Page: 23B; Enumeration District: 0084; FHL microfilm: 1241766
+3 DATA
+4 TEXT Record for George M Ford
+3 OBJE @M1742@
+2 SOUR @S611@
+3 PAGE Year: 1880; Census Place: Keyser, Mineral, West Virginia; Roll: 1408; Page: 118C; Enumeration District: 033
+3 OBJE @M1506@
+2 SOUR @S44@
+2 SOUR @S287@
+2 SOUR @S727@
+3 PAGE Presbyterian Historical Society; Philadelphia, Pennsylvania; U.S., Presbyterian Church Records, 1701-1907; Book Title: Register 1861-1873; Accession Number: Vault BX 9211 .M31539 F52 v.1
+3 OBJE @M1784@
+2 SOUR @S967@
+3 PAGE Wills, 1850-1969; Author: West Virginia. County Court (Raleigh County); Probate Place: Raleigh, West Virginia
+3 OBJE @M1786@
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Dunbar, Kanawha, West Virginia; Roll: T627_4416; Page: 13B; Enumeration District: 20-115
+3 DATA
+4 TEXT Record for George M Ford
+3 OBJE @M1788@
+2 SOUR @S902@
+3 DATA
+4 TEXT Record for George M. Ford
+2 SOUR @S67@
+3 PAGE Database online. District 16, Allegany, Maryland, post office Lonaconing, roll 567, page 449, image 404.
+3 DATA
+4 TEXT Record for Annie Linn
+2 SOUR @S510@
+2 SOUR @S96@
+3 PAGE West Virginia Argus; Publication Date: 13/ Jan/ 1898; Publication Place: Kingwood, West Virginia, USA; URL: https://www.newspapers.com/image/827923553/?article=fe56667c-ae97-499b-b8bb-b70a054e13df&focus=0.8329118,0.52088517,0.9708006,0.6938467&xid=3398
+3 _LINK https://www.newspapers.com/image/827923553/?article=fe56667c-ae97-499b-b8bb-b70a054e13df&focus=0.8329118,0.52088517,0.9708006,0.6938467&xid=3398
+3 NOTE https://www.newspapers.com/image/827923553/?article=fe56667c-ae97-499b
+4 CONC -b8bb-b70a054e13df&focus=0.8329118,0.52088517,0.9708006,0.6938467&xid=
+4 CONC 3398
+1 SEX F
+2 SOUR @S456@
+3 PAGE Year: 1900; Census Place: Plymouth, Mercer, West Virginia; Roll: 1766; Page: 23B; Enumeration District: 0084; FHL microfilm: 1241766
+3 DATA
+4 TEXT Record for George M Ford
+3 OBJE @M1742@
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Dunbar, Kanawha, West Virginia; Roll: T627_4416; Page: 13B; Enumeration District: 20-115
+3 DATA
+4 TEXT Record for George M Ford
+3 OBJE @M1788@
+1 RESI
+2 DATE 1900
+2 PLAC Plymouth, Mercer, West Virginia
+3 MAP
+4 LATI N38.515732
+4 LONG W81.844673
+2 SOUR @S510@
+1 BIRT
+2 DATE 21 JAN 1871
+2 PLAC Lonaconing, Allegany, Maryland
+3 MAP
+4 LATI N39.565918
+4 LONG W78.980286
+2 SOUR @S23@
+3 PAGE Database online. Year: 1930; Census Place: Dunbar, Kanawha, West Virginia; Roll: 2539; Page: 8A; Enumeration District: 79; Image: 209.0.
+3 DATA
+4 TEXT Record for Linn Ford
+3 OBJE @M1795@
+2 SOUR @S456@
+3 PAGE Year: 1900; Census Place: Plymouth, Mercer, West Virginia; Roll: 1766; Page: 23B; Enumeration District: 0084; FHL microfilm: 1241766
+3 DATA
+4 TEXT Record for George M Ford
+3 OBJE @M1742@
+2 SOUR @S611@
+3 PAGE Year: 1880; Census Place: Keyser, Mineral, West Virginia; Roll: 1408; Page: 118C; Enumeration District: 033
+3 OBJE @M1506@
+2 SOUR @S44@
+2 SOUR @S287@
+2 SOUR @S727@
+3 PAGE Presbyterian Historical Society; Philadelphia, Pennsylvania; U.S., Presbyterian Church Records, 1701-1907; Book Title: Register 1861-1873; Accession Number: Vault BX 9211 .M31539 F52 v.1
+3 OBJE @M1784@
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Dunbar, Kanawha, West Virginia; Roll: T627_4416; Page: 13B; Enumeration District: 20-115
+3 DATA
+4 TEXT Record for George M Ford
+3 OBJE @M1788@
+2 SOUR @S67@
+3 PAGE Database online. District 16, Allegany, Maryland, post office Lonaconing, roll 567, page 449, image 404.
+3 DATA
+4 TEXT Record for Annie Linn
+1 BAPM 1st Presbyterian Church
+2 DATE 14 APR 1871
+2 PLAC Lonaconing, Allegany, Maryland
+3 MAP
+4 LATI N39.565918
+4 LONG W78.980286
+2 SOUR @S727@
+3 PAGE Presbyterian Historical Society; Philadelphia, Pennsylvania; U.S., Presbyterian Church Records, 1701-1907; Book Title: Register 1861-1873; Accession Number: Vault BX 9211 .M31539 F52 v.1
+3 OBJE @M1784@
+1 BURI
+2 PLAC Ford Family section, Athens Cemetery, 507 Cemetery Rd, Princeton, Mercer, West Virginia
+2 NOTE @N4889@
+2 SOUR @S44@
+1 PROB
+2 DATE 25 MAR 1966
+2 PLAC Raleigh, West Virginia
+3 MAP
+4 LATI N37.775948
+4 LONG W81.255676
+2 SOUR @S967@
+3 PAGE Wills, 1850-1969; Author: West Virginia. County Court (Raleigh County); Probate Place: Raleigh, West Virginia
+3 OBJE @M1786@
+1 DEAT
+2 DATE 21 MAR 1966
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+2 SOUR @S44@
+2 SOUR @S967@
+3 PAGE Wills, 1850-1969; Author: West Virginia. County Court (Raleigh County); Probate Place: Raleigh, West Virginia
+3 OBJE @M1786@
+1 RESI
+2 DATE 1910
+2 PLAC Bluefield, Mercer, West Virginia
+3 MAP
+4 LATI N37.252617
+4 LONG W81.271202
+2 SOUR @S37@
+3 PAGE Year: 1910; Census Place: Bluefield Ward 1, Mercer, West Virginia; Roll: T624_1689; Page: 15A; Enumeration District: 0120; FHL microfilm: 1375702
+1 RESI
+2 DATE 1920
+2 PLAC House #32, Guthrie, Kanawha, West Virginia
+2 SOUR @S24@
+3 PAGE Year: 1920; Census Place: Guthrie, Kanawha, West Virginia; Roll: T625_1957; Page: 3B; Enumeration District: 134
+3 OBJE @M1524@
+1 RESI Marital Status: Single; Relation to Head: Daughter
+2 DATE 1880
+2 PLAC Keyser, Mineral, West Virginia
+3 MAP
+4 LATI N39.440926
+4 LONG W78.973923
+1 RESI
+2 DATE 1930
+2 PLAC 809 West Virginia Ave, Dunbar, Kanawha, West Virginia
+2 SOUR @S23@
+3 PAGE Database online. Year: 1930; Census Place: Dunbar, Kanawha, West Virginia; Roll: 2539; Page: 8A; Enumeration District: 79; Image: 209.0.
+3 DATA
+4 TEXT Record for Linn Ford
+3 OBJE @M1795@
+1 RESI
+2 DATE 1950
+2 PLAC 122 Granville Ave, Beckley, Raleigh, West Virginia
+2 SOUR @S1648@
+3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: Beckley, Raleigh, We
+3 OBJE @M4387@
+1 RESI Age: 69; Marital Status: Married; Relation to Head of House: Wife
+2 DATE 1 APR 1940
+2 PLAC 811 West Virginia Ave, Dunbar, Kanawha, West Virginia
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Dunbar, Kanawha, West Virginia; Roll: T627_4416; Page: 13A; Enumeration District: 20-115
+3 DATA
+4 TEXT Record for George M Ford
+3 OBJE @M1800@
+1 _PHOTO @M2204@
+1 OBJE @M958@
+1 OBJE @M1524@
+1 OBJE @M1795@
+1 OBJE @M5095@
+1 OBJE @M5096@
+1 FAMS @F4302@
+1 FAMC @F4421@
+0 @I12092@ INDI
+1 NAME Frederick Wayne /Ford/
+2 SOUR @S1648@
+3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: Alexandria, Alexandr
+3 OBJE @M4386@
+1 SEX M
+1 BIRT
+2 DATE 17 SEP 1909
+2 PLAC Huntington, Cabell, West Virginia
+3 MAP
+4 LATI N38.416107
+4 LONG W82.431038
+2 SOUR @S1648@
+3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: Alexandria, Alexandr
+3 OBJE @M4386@
+1 BURI Arlington Cem., Arlington, Fairfax County, Virginia
+2 PLAC Arlington, Virginia
+3 MAP
+4 LATI N38.878727
+4 LONG W77.101898
+2 SOUR @S721@
+1 RESI
+2 DATE 1930
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+2 SOUR @S23@
+3 PAGE Year: 1930; Census Place: Dunbar, Kanawha, West Virginia; Page: 8A; Enumeration District: 0079; FHL microfilm: 2342273
+3 OBJE @M1795@
+1 OCCU Appointed as Chairman of the FCC by President Eisenhower
+2 DATE MAR 1960
+2 PLAC Washington, District of Columbia
+3 MAP
+4 LATI N38.895000
+4 LONG W77.036697
+1 EDUC Law Degree from WVU
+2 DATE 1934
+2 PLAC Morgantown, Monongalia, West Virginia
+3 MAP
+4 LATI N39.629524
+4 LONG W79.955917
+1 DEAT
+2 DATE 26 JUL 1986
+2 PLAC Hinsdale, Cook, Illinois
+3 MAP
+4 LATI N41.798706
+4 LONG W87.912865
+2 SOUR @S721@
+1 RESI
+2 DATE 16 OCT 1940
+2 PLAC Arlington, Virginia
+3 MAP
+4 LATI N38.878727
+4 LONG W77.101898
+2 SOUR @S811@
+3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Missouri; WWII Draft Registration Cards for Virginia, 10/16/1940-03/31/1947; Record Group: Records of the Selective Service System, 147; Box: 254
+3 OBJE @M1851@
+1 RESI
+2 DATE 1910
+2 PLAC Bluefield, Mercer, West Virginia
+3 MAP
+4 LATI N37.252617
+4 LONG W81.271202
+2 SOUR @S37@
+3 PAGE Year: 1910; Census Place: Bluefield Ward 1, Mercer, West Virginia; Roll: T624_1689; Page: 15A; Enumeration District: 0120; FHL microfilm: 1375702
+1 RESI
+2 DATE 1920
+2 PLAC House #32, Guthrie, Kanawha, West Virginia
+2 SOUR @S24@
+3 PAGE Year: 1920; Census Place: Guthrie, Kanawha, West Virginia; Roll: T625_1957; Page: 3B; Enumeration District: 134
+3 OBJE @M1524@
+1 RESI Relation to Head: Head; Married
+2 DATE 1950
+2 PLAC Alexandria, Virginia
+3 MAP
+4 LATI N38.801922
+4 LONG W77.621803
+2 SOUR @S1648@
+3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: Alexandria, Alexandr
+3 OBJE @M4386@
+1 EDUC A.B. from WVU
+2 DATE 1931
+2 PLAC Morgantown, Monongalia, West Virginia
+3 MAP
+4 LATI N39.629524
+4 LONG W79.955917
+1 OBJE @M318@
+1 OBJE @M4591@
+1 OBJE @M1524@
+1 OBJE @M1795@
+1 FAMS @F4333@
+1 FAMS @F4334@
+1 FAMC @F4302@
+0 @I12108@ INDI
+1 NAME Jemima Elizabeth /Hebb/
+2 SOUR @S67@
+3 PAGE Database online. Cove, Barbour, West Virginia, post office Philippi, roll 1684, page 30, image 60.
+3 DATA
+4 TEXT Record for Jemima E Ford
+3 OBJE @M1849@
+2 SOUR @S456@
+3 PAGE Database online. Grafton Ward 4, Taylor, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Frederick G Ford
+3 OBJE @M1436@
+2 SOUR @S611@
+3 PAGE Database online. Year: 1880; Census Place: Portland, Preston, West Virginia; Roll: T9_1411; Family History Film: 1255411; Page: 281.1000; Enumeration District: 60; Image: .
+3 DATA
+4 TEXT Record for Jemima E. Ford
+3 OBJE @M1852@
+2 SOUR @S902@
+3 DATA
+4 TEXT Record for George M. Ford
+2 SOUR @S729@
+2 SOUR @S44@
+2 SOUR @S152@
+3 PAGE Year: 1850; Census Place: District 5, Barbour, Virginia; Roll: 935; Page: 43a
+1 SEX F
+2 SOUR @S456@
+3 PAGE Database online. Grafton Ward 4, Taylor, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Frederick G Ford
+3 OBJE @M1436@
+1 BIRT
+2 DATE 22 DEC 1835
+2 PLAC Barbour, Orange, Virginia
+2 SOUR @S67@
+3 PAGE Database online. Cove, Barbour, West Virginia, post office Philippi, roll 1684, page 30, image 60.
+3 DATA
+4 TEXT Record for Jemima E Ford
+3 OBJE @M1849@
+2 SOUR @S456@
+3 PAGE Database online. Grafton Ward 4, Taylor, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Frederick G Ford
+3 OBJE @M1436@
+2 SOUR @S611@
+3 PAGE Database online. Year: 1880; Census Place: Portland, Preston, West Virginia; Roll: T9_1411; Family History Film: 1255411; Page: 281.1000; Enumeration District: 60; Image: .
+3 DATA
+4 TEXT Record for Jemima E. Ford
+3 OBJE @M1852@
+2 SOUR @S729@
+2 SOUR @S44@
+2 SOUR @S152@
+3 PAGE Year: 1850; Census Place: District 5, Barbour, Virginia; Roll: 935; Page: 43a
+1 RESI
+2 DATE 1850
+2 PLAC Preston County, West Virginia
+3 MAP
+4 LATI N39.469456
+4 LONG W79.668289
+2 SOUR @S152@
+3 PAGE Year: 1850; Census Place: District 5, Barbour, Virginia; Roll: 935; Page: 43a
+1 BURI
+2 PLAC Barbour, West Virginia
+3 MAP
+4 LATI N39.129848
+4 LONG W79.998375
+2 SOUR @S44@
+1 DEAT
+2 DATE 18 MAR 1903
+2 PLAC Barbour, West Virginia
+3 MAP
+4 LATI N39.129848
+4 LONG W79.998375
+2 SOUR @S44@
+1 RESI
+2 DATE 1870
+2 PLAC Cove, Barbour, West Virginia
+3 MAP
+4 LATI N36.982086
+4 LONG W78.745544
+2 SOUR @S67@
+3 PAGE Database online. Cove, Barbour, West Virginia, post office Philippi, roll 1684, page 30, image 60.
+3 DATA
+4 TEXT Record for Jemima E Ford
+3 OBJE @M1849@
+1 RESI
+2 DATE 1860
+2 PLAC Barbour, Orange, Virginia
+2 SOUR @S85@
+3 PAGE Year: 1860; Census Place: Barbour, Virginia; Page: 12
+1 RESI
+2 DATE 1900
+2 PLAC Grafton, Taylor, West Virginia
+3 MAP
+4 LATI N39.340927
+4 LONG W80.018944
+1 RESI
+2 DATE 1880
+2 PLAC Portland, Preston, West Virginia
+2 SOUR @S611@
+3 PAGE Database online. Year: 1880; Census Place: Portland, Preston, West Virginia; Roll: T9_1411; Family History Film: 1255411; Page: 281.1000; Enumeration District: 60; Image: .
+3 DATA
+4 TEXT Record for Jemima E. Ford
+3 OBJE @M1852@
+1 _PHOTO @M5180@
+1 FAMS @F4348@
+0 @I12122@ INDI
+1 NAME Frederick George Washington /Ford/
+2 SOUR @S611@
+3 PAGE Database online. Year: 1880; Census Place: Portland, Preston, West Virginia; Roll: T9_1411; Family History Film: 1255411; Page: 281.1000; Enumeration District: 60; Image: .
+3 DATA
+4 TEXT Record for Jemima E. Ford
+3 OBJE @M1852@
+2 SOUR @S902@
+3 DATA
+4 TEXT Record for George M. Ford
+2 SOUR @S874@
+3 DATA
+4 TEXT Record for Fredrick K. Ford
+2 SOUR @S1016@
+3 PAGE The National Cemetery Administration; Grafton National Cemetery, Burial Ledger, c. 1861-1992
+3 OBJE @M1887@
+2 SOUR @S1017@
+3 PAGE National Archives and Records Administration; Washington, D.C.; Record Group Title: Records of the AGO, 1780s-1917; Record Group #: 94; Series Number: M508; Roll #: 0247
+2 SOUR @S729@
+3 DATA
+4 TEXT (null)
+2 SOUR @S1018@
+3 PAGE Grafton National Cemetery; Section: F
+3 OBJE @M1892@
+2 SOUR @S178@
+3 PAGE Database online. Grafton Ward 5, Taylor, West Virginia, ED , roll T624_1693, part , page .
+3 DATA
+4 TEXT Record for Frederick G W Ford
+2 SOUR @S648@
+3 PAGE Database online. , Barbour, Virginia, post office Philippi, roll M653_1334, page 12, image 12.
+3 DATA
+4 TEXT Record for Frederick G W Ford
+2 SOUR @S44@
+1 SEX M
+2 SOUR @S456@
+3 PAGE Database online. Grafton Ward 4, Taylor, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Frederick G Ford
+3 OBJE @M1436@
+1 BIRT
+2 DATE 2 FEB 1833
+2 PLAC Hardy, Bedford, Virginia
+3 MAP
+4 LATI N37.231674
+4 LONG W79.810844
+2 SOUR @S456@
+3 PAGE Database online. Grafton Ward 4, Taylor, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Frederick G Ford
+3 OBJE @M1436@
+2 SOUR @S611@
+3 PAGE Database online. Year: 1880; Census Place: Portland, Preston, West Virginia; Roll: T9_1411; Family History Film: 1255411; Page: 281.1000; Enumeration District: 60; Image: .
+3 DATA
+4 TEXT Record for Jemima E. Ford
+3 OBJE @M1852@
+2 SOUR @S874@
+3 DATA
+4 TEXT Record for Fredrick K. Ford
+2 SOUR @S1017@
+3 PAGE National Archives and Records Administration; Washington, D.C.; Record Group Title: Records of the AGO, 1780s-1917; Record Group #: 94; Series Number: M508; Roll #: 0247
+2 SOUR @S729@
+3 DATA
+4 TEXT (null)
+2 SOUR @S1018@
+3 PAGE Grafton National Cemetery; Section: F
+3 OBJE @M1892@
+2 SOUR @S648@
+3 PAGE Database online. , Barbour, Virginia, post office Philippi, roll M653_1334, page 12, image 12.
+3 DATA
+4 TEXT Record for Frederick G W Ford
+2 SOUR @S44@
+1 BURI
+2 DATE 1 MAR 1921
+2 PLAC Grafton, Taylor, West Virginia
+3 MAP
+4 LATI N39.340927
+4 LONG W80.018944
+2 SOUR @S874@
+3 DATA
+4 TEXT Record for Fredrick K. Ford
+2 SOUR @S1016@
+3 PAGE The National Cemetery Administration; Grafton National Cemetery, Burial Ledger, c. 1861-1992
+3 OBJE @M1887@
+2 SOUR @S1018@
+3 PAGE Grafton National Cemetery; Section: F
+3 OBJE @M1892@
+2 SOUR @S44@
+2 OBJE @M1918@
+1 TITL Capt.
+1 PROB
+2 DATE 1 MAR 1921
+2 PLAC Taylor, West Virginia
+3 MAP
+4 LATI N39.340218
+4 LONG W80.047997
+2 SOUR @S738@
+3 PAGE Probate of Wills, Personal Representatives; Author: West Virginia. County Court (Taylor County); Probate Place: Taylor, West Virginia
+3 OBJE @M1916@
+1 RESI
+2 DATE 1920
+2 PLAC Court House, Taylor, West Virginia
+3 MAP
+4 LATI N38.888908
+4 LONG W77.083908
+2 SOUR @S24@
+3 OBJE @M1440@
+1 DEAT
+2 DATE 27 FEB 1921
+2 PLAC Barbour, West Virginia
+3 MAP
+4 LATI N39.129848
+4 LONG W79.998375
+2 SOUR @S874@
+3 DATA
+4 TEXT Record for Fredrick K. Ford
+2 SOUR @S1016@
+3 PAGE The National Cemetery Administration; Grafton National Cemetery, Burial Ledger, c. 1861-1992
+3 OBJE @M1887@
+2 SOUR @S1018@
+3 PAGE Grafton National Cemetery; Section: F
+3 OBJE @M1892@
+2 SOUR @S44@
+2 SOUR @S1019@
+3 OBJE @M527@
+3 OBJE @M1913@
+3 _LINK https://search.ancestry.com/cgi-bin/sse.dll?db=NEWS-DC-THEWASHINGTONPOST&h=482969603&ti=0&indiv=try&gss=pt
+3 NOTE https://search.ancestry.com/cgi-bin/sse.dll?db=NEWS-DC-THEWASHINGTONPO
+4 CONC ST&h=482969603&ti=0&indiv=try&gss=pt
+2 OBJE @M527@
+1 RESI
+2 DATE 1870
+2 PLAC Philippi, Barbour, West Virginia
+3 MAP
+4 LATI N39.152321
+4 LONG W80.040367
+2 SOUR @S67@
+3 PAGE Year: 1870; Census Place: Cove, Barbour, West Virginia; Roll: M593_1684; Page: 30A
+3 OBJE @M1849@
+1 RESI
+2 DATE 1860
+2 PLAC Barbour, Orange, Virginia
+2 SOUR @S648@
+3 PAGE Database online. , Barbour, Virginia, post office Philippi, roll M653_1334, page 12, image 12.
+3 DATA
+4 TEXT Record for Frederick G W Ford
+2 OBJE @M166@
+1 RESI
+2 DATE 1900
+2 PLAC Grafton, Taylor, West Virginia
+3 MAP
+4 LATI N39.340927
+4 LONG W80.018944
+2 SOUR @S456@
+3 PAGE Database online. Grafton Ward 4, Taylor, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Frederick G Ford
+3 OBJE @M1436@
+1 RESI
+2 DATE 1910
+2 PLAC 331 Warder Ave., Grafton, Taylor, West Virginia
+2 SOUR @S178@
+3 PAGE Database online. Grafton Ward 5, Taylor, West Virginia, ED , roll T624_1693, part , page .
+3 DATA
+4 TEXT Record for Frederick G W Ford
+1 RESI
+2 DATE 1880
+2 PLAC Portland, Preston, West Virginia
+2 SOUR @S611@
+3 PAGE Database online. Year: 1880; Census Place: Portland, Preston, West Virginia; Roll: T9_1411; Family History Film: 1255411; Page: 281.1000; Enumeration District: 60; Image: .
+3 DATA
+4 TEXT Record for Jemima E. Ford
+3 OBJE @M1852@
+1 NOTE @N4699@
+1 _PHOTO @M878@
+1 OBJE @M85@
+1 OBJE @M527@
+1 OBJE @M352@
+1 OBJE @M2190@
+1 OBJE @M166@
+1 OBJE @M1804@
+1 OBJE @M4584@
+1 OBJE @M4585@
+1 OBJE @M4601@
+1 FAMS @F4348@
+0 @I12151@ INDI
+1 NAME Mary "Welby" /Saunders/
+2 SOUR @S456@
+3 PAGE Database online. Cabin Creek, Kanawha, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Robert G Saunders
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Euclid, Cuyahoga, Ohio; Roll: m-t0627-03052; Page: 3B; Enumeration District: 18-128
+3 OBJE @M1859@
+2 SOUR @S44@
+2 SOUR @S164@
+1 SEX F
+2 SOUR @S456@
+3 PAGE Database online. Cabin Creek, Kanawha, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Robert G Saunders
+1 BIRT
+2 DATE 16 OCT 1890
+2 PLAC London, Kanawha, West Virginia
+3 MAP
+4 LATI N38.194439
+4 LONG W81.368889
+2 SOUR @S456@
+3 PAGE Database online. Cabin Creek, Kanawha, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Robert G Saunders
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Euclid, Cuyahoga, Ohio; Roll: m-t0627-03052; Page: 3B; Enumeration District: 18-128
+3 OBJE @M1859@
+2 SOUR @S44@
+1 BURI
+2 PLAC Mayfield Heights, Cuyahoga County, Ohio
+3 MAP
+4 LATI N41.519215
+4 LONG W81.457870
+2 SOUR @S44@
+1 RESI
+2 DATE 1910
+2 PLAC Eagle, Harrison, West Virginia
+3 MAP
+4 LATI N38.158035
+4 LONG W81.304031
+2 SOUR @S37@
+3 PAGE Year: 1910; Census Place: Eagle, Harrison, West Virginia; Roll: T624_1683; Page: 17B; Enumeration District: 0030; FHL microfilm: 1375696
+1 DEAT
+2 DATE 30 NOV 1967
+2 PLAC Euclid, Cuyahoga, Ohio
+3 MAP
+4 LATI N41.593109
+4 LONG W81.526794
+2 SOUR @S44@
+1 RESI
+2 DATE 1920
+2 PLAC Charleston, Kanawha, West Virginia
+3 MAP
+4 LATI N38.349819
+4 LONG W81.632614
+2 SOUR @S24@
+3 PAGE Year: 1920; Census Place: Charleston Ward 2, Kanawha, West Virginia; Roll: T625_1958; Page: 8B; Enumeration District: 88
+3 OBJE @M1644@
+1 RESI
+2 DATE 1930
+2 PLAC Grafton, Lorain, Ohio
+3 MAP
+4 LATI N41.272552
+4 LONG W82.054604
+2 SOUR @S23@
+3 PAGE Year: 1930; Census Place: Grafton, Lorain, Ohio; Page: 7A; Enumeration District: 0053; FHL microfilm: 2341565
+1 RESI
+2 DATE 1935
+2 PLAC Cleveland, Cuyahoga, Ohio
+3 MAP
+4 LATI N41.499496
+4 LONG W81.695412
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Euclid, Cuyahoga, Ohio; Roll: m-t0627-03052; Page: 3B; Enumeration District: 18-128
+3 OBJE @M1859@
+1 RESI
+2 DATE 1900
+2 PLAC Cabin Creek, Kanawha, West Virginia
+3 MAP
+4 LATI N38.195831
+4 LONG W81.477806
+2 SOUR @S456@
+3 PAGE Database online. Cabin Creek, Kanawha, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Robert G Saunders
+1 RESI Marital Status: married relation to Head: Wife
+2 DATE 1940
+2 PLAC Euclid, Cuyahoga, Ohio
+3 MAP
+4 LATI N41.593109
+4 LONG W81.526794
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Euclid, Cuyahoga, Ohio; Roll: m-t0627-03052; Page: 3B; Enumeration District: 18-128
+3 OBJE @M1859@
+1 OBJE @M220@
+1 OBJE @M2234@
+1 OBJE @M4619@
+1 FAMS @F4342@
+1 FAMC @F4463@
+0 @I12185@ INDI
+1 NAME Philip Arthur /Saunders/
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Cleveland, Cuyahoga, Ohio; Roll: T627_3229; Page: 6B; Enumeration District: 92-658
+3 DATA
+4 TEXT Record for Philip A Saunders
+2 SOUR @S1049@
+3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Missouri; Draft Registration Cards for Maryland, 10/16/1940 - 03/31/1947; Record Group: 147, Records of the Selective Service System; Box: 452
+3 DATA
+4 TEXT Record for Philip Arthur Saunders
+3 OBJE @M1994@
+2 SOUR @S23@
+3 PAGE Year: 1930; Census Place: Dunbar, Kanawha, West Virginia; Roll: 2539; Page: 1B; Enumeration District: 0081; Image: 258.0; FHL microfilm: 2342273
+3 DATA
+4 TEXT Record for Philip Saunders
+3 OBJE @M1910@
+2 SOUR @S613@
+3 OBJE @M1978@
+2 SOUR @S952@
+3 PAGE Database online.
+3 DATA
+4 TEXT Record for Philip A Saunders
+2 SOUR @S596@
+3 PAGE Database online.
+3 DATA
+4 TEXT Record for Philip Saunders
+2 SOUR @S178@
+3 PAGE Database online. Year: 1910; Census Place: Roe, Kanawha, West Virginia; Roll: T624_1684; Page: 7B; Enumeration District: 54; Image: 454.
+3 DATA
+4 TEXT Record for Philip O Saunders
+2 SOUR @S1648@
+3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: East Cleveland, Cuya
+2 SOUR IFI Claims; New Haven, CT, USA; Patent Database
+1 SEX M
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Cleveland, Cuyahoga, Ohio; Roll: T627_3229; Page: 6B; Enumeration District: 92-658
+3 DATA
+4 TEXT Record for Philip A Saunders
+2 SOUR @S23@
+3 PAGE Year: 1930; Census Place: Dunbar, Kanawha, West Virginia; Roll: 2539; Page: 1B; Enumeration District: 0081; Image: 258.0; FHL microfilm: 2342273
+3 DATA
+4 TEXT Record for Philip Saunders
+3 OBJE @M1910@
+2 SOUR @S952@
+3 PAGE Database online.
+3 DATA
+4 TEXT Record for Philip A Saunders
+1 BIRT
+2 DATE 14 JAN 1904
+2 PLAC London, Kanawha, West Virginia
+3 MAP
+4 LATI N38.194439
+4 LONG W81.368889
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Cleveland, Cuyahoga, Ohio; Roll: T627_3229; Page: 6B; Enumeration District: 92-658
+3 DATA
+4 TEXT Record for Philip A Saunders
+2 SOUR @S1049@
+3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Missouri; Draft Registration Cards for Maryland, 10/16/1940 - 03/31/1947; Record Group: 147, Records of the Selective Service System; Box: 452
+3 DATA
+4 TEXT Record for Philip Arthur Saunders
+3 OBJE @M1994@
+2 SOUR @S23@
+3 PAGE Year: 1930; Census Place: Dunbar, Kanawha, West Virginia; Roll: 2539; Page: 1B; Enumeration District: 0081; Image: 258.0; FHL microfilm: 2342273
+3 DATA
+4 TEXT Record for Philip Saunders
+3 OBJE @M1910@
+2 SOUR @S952@
+3 PAGE Database online.
+3 DATA
+4 TEXT Record for Philip A Saunders
+2 SOUR @S596@
+3 PAGE Database online.
+3 DATA
+4 TEXT Record for Philip Saunders
+2 SOUR @S178@
+3 PAGE Database online. Year: 1910; Census Place: Roe, Kanawha, West Virginia; Roll: T624_1684; Page: 7B; Enumeration District: 54; Image: 454.
+3 DATA
+4 TEXT Record for Philip O Saunders
+2 SOUR @S1648@
+3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: East Cleveland, Cuya
+1 EVEN Registration Age: 38. Did not serve in WWII because his engineering jo
+2 CONC b was delclared essential.
+2 TYPE Military
+2 DATE 1942
+2 PLAC Baltimore, Maryland
+3 MAP
+4 LATI N39.442402
+4 LONG W76.616890
+2 OBJE @M5033@
+1 BURI . 37.41654, -81.01475
+2 PLAC Ford Family section, Athens Cemetery, 507 Cemetery Rd, Princeton, Mercer, West Virginia
+2 NOTE @N4880@
+1 RESI Age 26. Single; Relation to Head of House: Brother.
+2 DATE 1930
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+2 SOUR @S23@
+3 PAGE Year: 1930; Census Place: Dunbar, Kanawha, West Virginia; Roll: 2539; Page: 1B; Enumeration District: 0081; Image: 258.0; FHL microfilm: 2342273
+3 DATA
+4 TEXT Record for Philip Saunders
+3 OBJE @M1910@
+1 OCCU While working as an engineer for General Electric, he developed and pa
+2 CONC tented a pinning machine for electric light-bulbs in lamps bases.
+2 DATE 2 JUN 1959
+2 PLAC Cleveland, Cuyahoga, Ohio
+3 MAP
+4 LATI N41.499496
+4 LONG W81.695412
+2 SOUR IFI Claims; New Haven, CT, USA; Patent Database
+1 DEAT
+2 DATE 14 DEC 1970
+2 PLAC Cleveland, Cuyahoga, Ohio
+3 MAP
+4 LATI N41.499496
+4 LONG W81.695412
+2 SOUR @S952@
+3 PAGE Database online.
+3 DATA
+4 TEXT Record for Philip A Saunders
+2 SOUR @S596@
+3 PAGE Database online.
+3 DATA
+4 TEXT Record for Philip Saunders
+1 RESI
+2 DATE 1910
+2 PLAC Kanawha, West Virginia
+3 MAP
+4 LATI N38.342354
+4 LONG W81.525703
+2 OBJE @M200@
+1 RESI
+2 DATE 1920
+2 PLAC Cabin Creek, Kanawha, West Virginia
+3 MAP
+4 LATI N38.195831
+4 LONG W81.477806
+2 SOUR @S24@
+3 PAGE Year: 1920; Census Place: Cabin Creek, Kanawha, West Virginia; Roll: T625_1957; Page: 10B; Enumeration District: 79
+1 RESI
+2 DATE 1935
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+1 RESI Age 36; Married; Head of House.
+2 DATE 1 APR 1940
+2 PLAC 1772 Victoria Rd, Cleveland, Cuyahoga, Ohio
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Cleveland, Cuyahoga, Ohio; Roll: T627_3229; Page: 6B; Enumeration District: 92-658
+3 DATA
+4 TEXT Record for Philip A Saunders
+1 RESI
+2 DATE 1934
+2 PLAC Charleston, Kanawha, West Virginia
+3 MAP
+4 LATI N38.349819
+4 LONG W81.632614
+2 SOUR @S613@
+3 OBJE @M1978@
+1 RESI Relation to Head: Head; Marital Status: Married
+2 DATE 1950
+2 PLAC 1866 Taylor Rd, East Cleveland, Cuyahoga, Ohio
+2 SOUR @S1648@
+3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: East Cleveland, Cuya
+1 RESI Worked at DuPont.
+2 DATE BET AUG 1940 AND FEB 1944
+2 PLAC 5001 Walther Ave, Baltimore, Maryland
+1 RESI Linn had Phlebitis and was pregnant with Dabney. They went to stay wit
+2 CONC h Linn's mother.
+2 DATE BET FEB AND JUN 1944
+2 PLAC 809 West Virginia Ave, Dunbar, Kanawha, West Virginia
+1 _PHOTO @M5030@
+1 OBJE @M16@
+1 OBJE @M5033@
+1 FAMS @F4381@
+1 FAMC @F4463@
+0 @I12187@ INDI
+1 NAME Robert "Withers" /Saunders/
+2 SOUR @S456@
+3 PAGE Database online. Cabin Creek, Kanawha, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Robert G Saunders
+2 SOUR @S178@
+3 PAGE Database online. Year: 1910; Census Place: Roe, Kanawha, West Virginia; Roll: T624_1684; Page: 7B; Enumeration District: 54; Image: 454.
+3 DATA
+4 TEXT Record for Nettie C Saunders
+2 SOUR @S1050@
+3 PAGE The National Archives at College Park; College Park, Maryland; Record Group Title: Records of the Office of the Quartermaster General, 1774-1985; Record Group Number: 92; Roll or Box Number: 580
+3 OBJE @M1907@
+2 SOUR @S1648@
+3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: Dunbar, Kanawha, Wes
+3 OBJE @M3584@
+2 SOUR @S640@
+3 PAGE Registration State: West Virginia; Registration County: Kanawha
+3 OBJE @M4388@
+2 SOUR @S24@
+3 PAGE Year: 1920; Census Place: Dunbar, Kanawha, West Virginia; Roll: T625_1957; Page: 9A; Enumeration District: 136
+3 OBJE @M4389@
+1 SEX M
+2 SOUR @S456@
+3 PAGE Database online. Cabin Creek, Kanawha, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Robert G Saunders
+1 BIRT
+2 DATE 25 MAR 1894
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+2 SOUR @S456@
+3 PAGE Database online. Cabin Creek, Kanawha, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Robert G Saunders
+2 SOUR @S178@
+3 PAGE Database online. Year: 1910; Census Place: Roe, Kanawha, West Virginia; Roll: T624_1684; Page: 7B; Enumeration District: 54; Image: 454.
+3 DATA
+4 TEXT Record for Nettie C Saunders
+2 SOUR @S1648@
+3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: Dunbar, Kanawha, Wes
+3 OBJE @M3584@
+2 SOUR @S640@
+3 PAGE Registration State: West Virginia; Registration County: Kanawha
+3 OBJE @M4388@
+2 SOUR @S24@
+3 PAGE Year: 1920; Census Place: Dunbar, Kanawha, West Virginia; Roll: T625_1957; Page: 9A; Enumeration District: 136
+3 OBJE @M4389@
+1 BURI Grandview Mem Ce, Dunbar, West Virginia
+1 EVEN
+2 TYPE Departure
+2 DATE 30 JAN 1918
+2 PLAC Hoboken, Hudson, New Jersey
+3 MAP
+4 LATI N40.743992
+4 LONG W74.032394
+2 SOUR @S1050@
+3 PAGE The National Archives at College Park; College Park, Maryland; Record Group Title: Records of the Office of the Quartermaster General, 1774-1985; Record Group Number: 92; Roll or Box Number: 580
+3 OBJE @M1907@
+1 RESI
+2 DATE 1935
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+2 SOUR @S18@
+3 OBJE @M1591@
+1 DEAT
+2 DATE 30 AUG 1962
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+1 RESI
+2 DATE 1940
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+2 SOUR @S18@
+3 OBJE @M1591@
+1 RESI
+2 DATE 1930
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+2 SOUR @S23@
+3 OBJE @M1910@
+1 RESI
+2 DATE 1900
+2 PLAC Cabin Creek, Kanawha, West Virginia
+3 MAP
+4 LATI N38.195831
+4 LONG W81.477806
+2 SOUR @S456@
+3 PAGE Database online. Cabin Creek, Kanawha, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Robert G Saunders
+1 RESI
+2 DATE 1910
+2 PLAC Kanawha, West Virginia
+3 MAP
+4 LATI N38.342354
+4 LONG W81.525703
+2 SOUR @S178@
+3 PAGE Database online. Year: 1910; Census Place: Roe, Kanawha, West Virginia; Roll: T624_1684; Page: 7B; Enumeration District: 54; Image: 454.
+3 DATA
+4 TEXT Record for Nettie C Saunders
+1 RESI
+2 DATE 1918
+2 PLAC London, Kanawha, West Virginia
+3 MAP
+4 LATI N38.194439
+4 LONG W81.368889
+2 SOUR @S1050@
+3 PAGE The National Archives at College Park; College Park, Maryland; Record Group Title: Records of the Office of the Quartermaster General, 1774-1985; Record Group Number: 92; Roll or Box Number: 580
+3 OBJE @M1907@
+1 RESI Relation to Head: Head; Marital Status: Mar
+2 DATE 1950
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+2 SOUR @S1648@
+3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: Dunbar, Kanawha, Wes
+3 OBJE @M3584@
+1 RESI Marital Status: Single; Relation to Head: Boarder
+2 DATE 1920
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+2 SOUR @S24@
+3 PAGE Year: 1920; Census Place: Dunbar, Kanawha, West Virginia; Roll: T625_1957; Page: 9A; Enumeration District: 136
+3 OBJE @M4389@
+1 RESI Marital Status: Single
+2 DATE BET 1917 AND 1918
+2 PLAC Charleston, Kanawha, West Virginia
+3 MAP
+4 LATI N38.349819
+4 LONG W81.632614
+2 SOUR @S640@
+3 PAGE Registration State: West Virginia; Registration County: Kanawha
+3 OBJE @M4388@
+1 NOTE @N4718@
+1 _PHOTO @M299@
+1 OBJE @M220@
+1 FAMS @F4382@
+1 FAMC @F4463@
+0 @I12218@ INDI
+1 NAME Annie Laurie Linn /Ford/
+2 SOUR @S178@
+3 PAGE Database online. Year: 1910; Census Place: Bluefield Ward 1, Mercer, West Virginia; Roll: T624_1689; Page: 15A; Enumeration District: 120; Image: 619.
+3 DATA
+4 TEXT Record for Annie L Ford
+2 SOUR @S23@
+3 PAGE Database online. Year: 1930; Census Place: Dunbar, Kanawha, West Virginia; Roll: 2539; Page: 8A; Enumeration District: 79; Image: 209.0.
+3 DATA
+4 TEXT Record for Linn Ford
+3 OBJE @M1795@
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Cleveland, Cuyahoga, Ohio; Roll: T627_3229; Page: 6B; Enumeration District: 92-658
+3 DATA
+4 TEXT Record for Philip A Saunders
+2 SOUR @S32@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: West Virginia University; Year: 1930
+3 OBJE @M1975@
+2 SOUR @S38@
+2 SOUR @S727@
+3 PAGE Presbyterian Historical Society; Philadelphia, Pennsylvania; U.S., Presbyterian Church Records, 1701-1907; Accession Number: 10-0925e 43B Box 3
+3 OBJE @M1965@
+2 SOUR @S106@
+3 DATA
+4 TEXT (null)
+2 SOUR @S613@
+3 OBJE @M1978@
+2 SOUR @S287@
+2 SOUR @S952@
+3 PAGE Database online.
+3 DATA
+4 TEXT Record for Linn F Saunders
+2 SOUR @S596@
+3 PAGE Database online.
+3 DATA
+4 TEXT Record for Linn F. Saunders
+2 SOUR @S32@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Central School of Practical Nursing; Year: 1965
+3 DATA
+4 TEXT (null)
+3 OBJE @M1988@
+2 SOUR @S1648@
+3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: East Cleveland, Cuya
+2 SOUR @S66@
+3 PAGE The Plain Dealer; Publication Date: 9 May 1988; Publication Place: Cleveland, Ohio, USA; URL: https://www.newspapers.com/image/1069505330/?article=8da10243-7cd3-47e9-8813-f102061355ac&focus=0.68916065,0.31507355,0.78190094,0.43973133&xid=3355
+3 DATA
+4 TEXT (null)
+3 _LINK https://www.newspapers.com/image/1069505330/?article=8da10243-7cd3-47e9-8813-f102061355ac&focus=0.68916065,0.31507355,0.78190094,0.43973133&xid=3355
+3 NOTE https://www.newspapers.com/image/1069505330/?article=8da10243-7cd3-47e
+4 CONC 9-8813-f102061355ac&focus=0.68916065,0.31507355,0.78190094,0.43973133&
+4 CONC xid=3355
+2 SOUR @S32@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: West Virginia University; Year: 1930
+3 DATA
+4 TEXT (null)
+2 SOUR @S2648@
+3 PAGE The Charleston Daily Mail; Publication Date: 10 May 1936; Publication Place: Charleston, West Virginia, USA; URL: https://www.newspapers.com/image/21546915/?article=e9e2e164-6aac-11ed-a732-c623994b5c63&xid=4636&terms=Linn_F._Saunders
+3 DATA
+4 TEXT (null)
+3 _LINK https://www.newspapers.com/image/21546915/?article=e9e2e164-6aac-11ed-a732-c623994b5c63&xid=4636&terms=Linn_F._Saunders
+3 NOTE https://www.newspapers.com/image/21546915/?article=e9e2e164-6aac-11ed-
+4 CONC a732-c623994b5c63&xid=4636&terms=Linn_F._Saunders
+2 SOUR @S32@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: West Virginia University; Year: 1928
+3 DATA
+4 TEXT (null)
+2 SOUR @S32@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: West Virginia University; Year: 1928
+3 DATA
+4 TEXT (null)
+2 SOUR @S32@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Brecksville High School; Year: 1964
+3 DATA
+4 TEXT (null)
+3 _LINK https://www.classmates.com/yearbooks/?page=1&s=81166&utm_source=ancestry&utm_medium=unpaid&utm_campaign=partnerships&utm_term=yearbook&utm_content=81166
+3 NOTE https://www.classmates.com/yearbooks/?page=1&s=81166&utm_source=ancest
+4 CONC ry&utm_medium=unpaid&utm_campaign=partnerships&utm_term=yearbook&utm_c
+4 CONC ontent=81166
+2 SOUR @S32@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: West Virginia University; Year: 1927
+3 DATA
+4 TEXT (null)
+2 SOUR @S32@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Brecksville High School; Year: 1962
+3 DATA
+4 TEXT (null)
+3 _LINK https://www.classmates.com/yearbooks/?page=1&s=81166&utm_source=ancestry&utm_medium=unpaid&utm_campaign=partnerships&utm_term=yearbook&utm_content=81166
+3 NOTE https://www.classmates.com/yearbooks/?page=1&s=81166&utm_source=ancest
+4 CONC ry&utm_medium=unpaid&utm_campaign=partnerships&utm_term=yearbook&utm_c
+4 CONC ontent=81166
+1 SEX F
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Cleveland, Cuyahoga, Ohio; Roll: T627_3229; Page: 6B; Enumeration District: 92-658
+3 DATA
+4 TEXT Record for Philip A Saunders
+2 SOUR @S952@
+3 PAGE Database online.
+3 DATA
+4 TEXT Record for Linn F Saunders
+1 BIRT
+2 DATE 28 FEB 1907
+2 PLAC Guyandotte, Cabell, West Virginia
+3 MAP
+4 LATI N38.426937
+4 LONG W82.385254
+2 SOUR @S178@
+3 PAGE Database online. Year: 1910; Census Place: Bluefield Ward 1, Mercer, West Virginia; Roll: T624_1689; Page: 15A; Enumeration District: 120; Image: 619.
+3 DATA
+4 TEXT Record for Annie L Ford
+2 SOUR @S23@
+3 PAGE Database online. Year: 1930; Census Place: Dunbar, Kanawha, West Virginia; Roll: 2539; Page: 8A; Enumeration District: 79; Image: 209.0.
+3 DATA
+4 TEXT Record for Linn Ford
+3 OBJE @M1795@
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Cleveland, Cuyahoga, Ohio; Roll: T627_3229; Page: 6B; Enumeration District: 92-658
+3 DATA
+4 TEXT Record for Philip A Saunders
+2 SOUR @S38@
+2 SOUR @S287@
+2 SOUR @S952@
+3 PAGE Database online.
+3 DATA
+4 TEXT Record for Linn F Saunders
+2 SOUR @S596@
+3 PAGE Database online.
+3 DATA
+4 TEXT Record for Linn F. Saunders
+2 SOUR @S1648@
+3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: East Cleveland, Cuya
+2 SOUR @S32@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: West Virginia University; Year: 1930
+3 DATA
+4 TEXT (null)
+2 SOUR @S32@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: West Virginia University; Year: 1928
+3 DATA
+4 TEXT (null)
+2 SOUR @S32@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Brecksville High School; Year: 1964
+3 DATA
+4 TEXT (null)
+3 _LINK https://www.classmates.com/yearbooks/?page=1&s=81166&utm_source=ancestry&utm_medium=unpaid&utm_campaign=partnerships&utm_term=yearbook&utm_content=81166
+3 NOTE https://www.classmates.com/yearbooks/?page=1&s=81166&utm_source=ancest
+4 CONC ry&utm_medium=unpaid&utm_campaign=partnerships&utm_term=yearbook&utm_c
+4 CONC ontent=81166
+2 SOUR @S32@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: West Virginia University; Year: 1927
+3 DATA
+4 TEXT (null)
+2 SOUR @S32@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Brecksville High School; Year: 1962
+3 DATA
+4 TEXT (null)
+3 _LINK https://www.classmates.com/yearbooks/?page=1&s=81166&utm_source=ancestry&utm_medium=unpaid&utm_campaign=partnerships&utm_term=yearbook&utm_content=81166
+3 NOTE https://www.classmates.com/yearbooks/?page=1&s=81166&utm_source=ancest
+4 CONC ry&utm_medium=unpaid&utm_campaign=partnerships&utm_term=yearbook&utm_c
+4 CONC ontent=81166
+1 BURI 37.41654, -81.01475
+2 PLAC Ford Family section, Athens Cemetery, 507 Cemetery Rd, Princeton, Mercer, West Virginia
+2 NOTE @N4878@
+1 RESI
+2 DATE BET 1978 AND 1988
+2 PLAC 10097 Independence Dr, North Royalton, Cuyahoga, Ohio
+2 SOUR @S106@
+3 DATA
+4 TEXT (null)
+1 EDUC Graduated from Union District High School
+2 DATE 23 MAY 1924
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+1 OCCU English Teacher at Brecksville High School
+2 DATE 1965
+2 PLAC Brecksville, Cuyahoga, Ohio
+3 MAP
+4 LATI N41.319771
+4 LONG W81.626778
+2 SOUR @S32@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Central School of Practical Nursing; Year: 1965
+3 DATA
+4 TEXT (null)
+3 OBJE @M1988@
+1 DEAT
+2 DATE 4 MAY 1988
+2 PLAC Middleburg Heights, Cuyahoga, Ohio
+3 MAP
+4 LATI N41.361439
+4 LONG W81.812927
+2 SOUR @S952@
+3 PAGE Database online.
+3 DATA
+4 TEXT Record for Linn F Saunders
+2 SOUR @S66@
+3 PAGE The Plain Dealer; Publication Date: 9 May 1988; Publication Place: Cleveland, Ohio, USA; URL: https://www.newspapers.com/image/1069505330/?article=8da10243-7cd3-47e9-8813-f102061355ac&focus=0.68916065,0.31507355,0.78190094,0.43973133&xid=3355
+3 DATA
+4 TEXT (null)
+3 _LINK https://www.newspapers.com/image/1069505330/?article=8da10243-7cd3-47e9-8813-f102061355ac&focus=0.68916065,0.31507355,0.78190094,0.43973133&xid=3355
+3 NOTE https://www.newspapers.com/image/1069505330/?article=8da10243-7cd3-47e
+4 CONC 9-8813-f102061355ac&focus=0.68916065,0.31507355,0.78190094,0.43973133&
+4 CONC xid=3355
+1 RESI
+2 DATE BET JUL 1907 AND 1910
+2 PLAC Bluefield, Mercer, West Virginia
+3 MAP
+4 LATI N37.252617
+4 LONG W81.271202
+1 RESI
+2 DATE BET 1919 AND 1920
+2 PLAC House #32, Guthrie, Kanawha, West Virginia
+2 SOUR @S24@
+3 PAGE Year: 1920; Census Place: Guthrie, Kanawha, West Virginia; Roll: T625_1957; Page: 3B; Enumeration District: 134
+3 OBJE @M1524@
+1 RESI Age: 33; Marital Status: Married; Relation to Head of House: Wife.
+2 DATE BET 1937 AND AUG 1940
+2 PLAC 1772 Victoria Rd, Cleveland, Cuyahoga, Ohio
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Cleveland, Cuyahoga, Ohio; Roll: T627_3229; Page: 6B; Enumeration District: 92-658
+3 DATA
+4 TEXT Record for Philip A Saunders
+1 RESI
+2 DATE BET 1927 AND 1937
+2 PLAC 809 West Virginia Ave, Dunbar, Kanawha, West Virginia
+2 SOUR @S23@
+3 PAGE Database online. Year: 1930; Census Place: Dunbar, Kanawha, West Virginia; Roll: 2539; Page: 8A; Enumeration District: 79; Image: 209.0.
+3 DATA
+4 TEXT Record for Linn Ford
+3 OBJE @M1795@
+2 SOUR @S32@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: West Virginia University; Year: 1930
+3 OBJE @M1975@
+2 SOUR @S32@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: West Virginia University; Year: 1927
+3 DATA
+4 TEXT (null)
+1 RESI
+2 DATE 1975
+2 PLAC Beckley, Raleigh, West Virginia
+3 MAP
+4 LATI N37.778164
+4 LONG W81.188179
+2 SOUR @S38@
+1 RESI
+2 DATE 4 MAY 1988
+2 PLAC Brook Park, Cuyahoga, Ohio
+3 MAP
+4 LATI N41.398384
+4 LONG W81.804565
+2 SOUR @S952@
+3 PAGE Database online.
+3 DATA
+4 TEXT Record for Linn F Saunders
+1 RESI
+2 DATE BET 1932 AND 1936
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+2 SOUR @S613@
+3 OBJE @M1978@
+1 RESI
+2 DATE BET JUN 1944 AND 1971
+2 PLAC 1866 Taylor Rd, East Cleveland, Cuyahoga, Ohio
+2 SOUR @S1648@
+3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: East Cleveland, Cuya
+1 RESI This is where she saw a car for the 1st time.
+2 DATE BET 1912 AND 1914
+2 PLAC Welch, McDowell, West Virginia
+3 MAP
+4 LATI N37.432892
+4 LONG W81.584549
+1 RESI
+2 DATE BET 1924 AND 1927
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+1 RESI
+2 DATE BET 1924 AND 1927
+2 PLAC Morgantown, Monongalia, West Virginia
+3 MAP
+4 LATI N39.629524
+4 LONG W79.955917
+1 RESI
+2 DATE BET 1927 AND 1928
+2 PLAC Chelyan, Kanawha, West Virginia
+3 MAP
+4 LATI N38.194710
+4 LONG W81.495743
+1 RESI
+2 DATE BET 1928 AND 1929
+2 PLAC Morgantown, Monongalia, West Virginia
+3 MAP
+4 LATI N39.629524
+4 LONG W79.955917
+2 SOUR @S32@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: West Virginia University; Year: 1928
+3 DATA
+4 TEXT (null)
+2 SOUR @S32@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: West Virginia University; Year: 1928
+3 DATA
+4 TEXT (null)
+1 RESI
+2 DATE BET 1929 AND 1931
+2 PLAC Nitro, Kanawha, West Virginia
+3 MAP
+4 LATI N38.420200
+4 LONG W81.835274
+2 OBJE @M5032@
+1 RESI
+2 DATE BET 1920 AND 1924
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+1 RESI
+2 DATE BET AUG 1940 AND FEB 1944
+2 PLAC 5001 Walther Ave, Baltimore, Maryland
+2 NOTE @N4879@
+1 RESI They stayed with Linn's mother as Linn had Phlebitis, was pregnant wit
+2 CONC h Dabney.
+2 DATE BET FEB AND JUN 1944
+2 PLAC 809 West Virginia Ave, Dunbar, Kanawha, West Virginia
+1 RESI
+2 DATE BET 1914 AND 1919
+2 PLAC Charleston, Kanawha, West Virginia
+3 MAP
+4 LATI N38.349819
+4 LONG W81.632614
+1 RESI
+2 DATE 1930
+2 PLAC Morgantown, Monongalia, West Virginia
+3 MAP
+4 LATI N39.629524
+4 LONG W79.955917
+2 SOUR @S32@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: West Virginia University; Year: 1930
+3 DATA
+4 TEXT (null)
+1 RESI
+2 DATE 10 MAY 1936
+2 PLAC Charleston, Kanawha, West Virginia
+3 MAP
+4 LATI N38.349819
+4 LONG W81.632614
+2 SOUR @S2648@
+3 PAGE The Charleston Daily Mail; Publication Date: 10 May 1936; Publication Place: Charleston, West Virginia, USA; URL: https://www.newspapers.com/image/21546915/?article=e9e2e164-6aac-11ed-a732-c623994b5c63&xid=4636&terms=Linn_F._Saunders
+3 DATA
+4 TEXT (null)
+3 _LINK https://www.newspapers.com/image/21546915/?article=e9e2e164-6aac-11ed-a732-c623994b5c63&xid=4636&terms=Linn_F._Saunders
+3 NOTE https://www.newspapers.com/image/21546915/?article=e9e2e164-6aac-11ed-
+4 CONC a732-c623994b5c63&xid=4636&terms=Linn_F._Saunders
+1 OCCU English Teacher at Brecksville High School
+2 DATE 1962
+2 PLAC Brecksville, Cuyahoga, Ohio
+3 MAP
+4 LATI N41.319771
+4 LONG W81.626778
+2 SOUR @S32@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Brecksville High School; Year: 1962
+3 DATA
+4 TEXT (null)
+3 _LINK https://www.classmates.com/yearbooks/?page=1&s=81166&utm_source=ancestry&utm_medium=unpaid&utm_campaign=partnerships&utm_term=yearbook&utm_content=81166
+3 NOTE https://www.classmates.com/yearbooks/?page=1&s=81166&utm_source=ancest
+4 CONC ry&utm_medium=unpaid&utm_campaign=partnerships&utm_term=yearbook&utm_c
+4 CONC ontent=81166
+1 OCCU English Teacher at Brecksville High School
+2 DATE 1964
+2 PLAC Brecksville, Cuyahoga, Ohio
+3 MAP
+4 LATI N41.319771
+4 LONG W81.626778
+2 SOUR @S32@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Brecksville High School; Year: 1964
+3 DATA
+4 TEXT (null)
+3 _LINK https://www.classmates.com/yearbooks/?page=1&s=81166&utm_source=ancestry&utm_medium=unpaid&utm_campaign=partnerships&utm_term=yearbook&utm_content=81166
+3 NOTE https://www.classmates.com/yearbooks/?page=1&s=81166&utm_source=ancest
+4 CONC ry&utm_medium=unpaid&utm_campaign=partnerships&utm_term=yearbook&utm_c
+4 CONC ontent=81166
+1 RESI 25841; L/L = 37°36'13.7"N 81°03'43.1"W
+2 DATE BET 1966 AND 1978
+2 PLAC 67 Fords Only Wy, Flat Top, Mercer, West Virginia
+3 MAP
+4 LATI N37.603806
+4 LONG W81.061974
+1 _PHOTO @M16@
+1 OBJE @M1988@
+1 OBJE @M1965@
+1 OBJE @M1795@
+1 OBJE @M1524@
+1 OBJE @M1978@
+1 OBJE @M1975@
+1 OBJE @M5032@
+1 FAMS @F4381@
+1 FAMC @F4302@
+0 @I12228@ INDI
+1 NAME Elizabeth "Betty" McCutcheon /Saunders/
+2 SOUR @S456@
+3 PAGE Database online. Cabin Creek, Kanawha, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Robert G Saunders
+2 SOUR @S178@
+3 PAGE Database online. Year: 1910; Census Place: Roe, Kanawha, West Virginia; Roll: T624_1684; Page: 7B; Enumeration District: 54; Image: 454.
+3 DATA
+4 TEXT Record for Nettie C Saunders
+2 SOUR @S111@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+2 SOUR @S23@
+3 PAGE Year: 1930; Census Place: Fredericksburg, Fredericksburg (Independent City), Virginia; Page: 18A; Enumeration District: 0002; FHL microfilm: 2342201
+2 SOUR @S613@
+3 OBJE @M1952@
+2 SOUR @S967@
+3 PAGE Will Record, 1847-1968; Author: West Virginia. County Court (Putnam County); Probate Place: Putnam
+3 OBJE @M1589@
+1 SEX F
+2 SOUR @S456@
+3 PAGE Database online. Cabin Creek, Kanawha, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Robert G Saunders
+1 BIRT
+2 DATE 3 NOV 1899
+2 PLAC London, Kanawha, West Virginia
+3 MAP
+4 LATI N38.194439
+4 LONG W81.368889
+2 SOUR @S946@
+3 PAGE Virginia Department of Health; Richmond, Virginia; Virginia Deaths, 1912-2014
+3 OBJE @M1993@
+2 SOUR @S456@
+3 PAGE Database online. Cabin Creek, Kanawha, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Robert G Saunders
+2 SOUR @S178@
+3 PAGE Database online. Year: 1910; Census Place: Roe, Kanawha, West Virginia; Roll: T624_1684; Page: 7B; Enumeration District: 54; Image: 454.
+3 DATA
+4 TEXT Record for Nettie C Saunders
+2 SOUR @S111@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+2 SOUR @S23@
+3 PAGE Year: 1930; Census Place: Fredericksburg, Fredericksburg (Independent City), Virginia; Page: 18A; Enumeration District: 0002; FHL microfilm: 2342201
+1 RESI
+2 DATE 1935
+2 PLAC Fredericksburg, Spotsylvania, Virginia
+3 MAP
+4 LATI N37.892906
+4 LONG W79.437790
+1 DEAT
+2 DATE 27 MAR 1975
+2 PLAC Fredericksburg, Spotsylvania, Virginia
+3 MAP
+4 LATI N37.892906
+4 LONG W79.437790
+2 SOUR @S946@
+3 PAGE Virginia Department of Health; Richmond, Virginia; Virginia Deaths, 1912-2014
+3 OBJE @M1993@
+2 SOUR @S111@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+1 RESI Marital Status: married relation to Head: Wife
+2 DATE 1940
+2 PLAC Fredericksburg, Spotsylvania, Virginia
+3 MAP
+4 LATI N37.892906
+4 LONG W79.437790
+1 RESI
+2 DATE 1900
+2 PLAC Cabin Creek, Kanawha, West Virginia
+3 MAP
+4 LATI N38.195831
+4 LONG W81.477806
+2 SOUR @S456@
+3 PAGE Database online. Cabin Creek, Kanawha, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Robert G Saunders
+1 RESI
+2 DATE 1910
+2 PLAC Kanawha, West Virginia
+3 MAP
+4 LATI N38.342354
+4 LONG W81.525703
+2 SOUR @S178@
+3 PAGE Database online. Year: 1910; Census Place: Roe, Kanawha, West Virginia; Roll: T624_1684; Page: 7B; Enumeration District: 54; Image: 454.
+3 DATA
+4 TEXT Record for Nettie C Saunders
+1 RESI Marital Status: married relation to Head: Wife
+2 DATE 1930
+2 PLAC Fredericksburg, Spotsylvania, Virginia
+3 MAP
+4 LATI N37.892906
+4 LONG W79.437790
+2 SOUR @S23@
+3 PAGE Year: 1930; Census Place: Fredericksburg, Fredericksburg (Independent City), Virginia; Page: 18A; Enumeration District: 0002; FHL microfilm: 2342201
+1 RESI
+2 DATE 1955
+2 PLAC Virginia
+3 MAP
+4 LATI N38.066669
+4 LONG W78.583344
+2 SOUR @S111@
+3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
+1 RESI
+2 DATE 1953
+2 PLAC Fredericksburg, Spotsylvania, Virginia
+3 MAP
+4 LATI N37.892906
+4 LONG W79.437790
+2 SOUR @S613@
+3 OBJE @M1952@
+1 NOTE @N4733@
+1 OBJE @M220@
+1 OBJE @M5028@
+1 OBJE @M5053@
+1 FAMS @F4415@
+1 FAMC @F4463@
+0 @I12281@ INDI
+1 NAME David Morrison /Linn/
+2 SOUR @S619@
+2 SOUR @S509@
+3 PAGE Parish: Old Monkland; ED: 20; Page: 15; Line: 9; Roll: CSSCT1851_171; Year: 1851
+2 SOUR @S696@
+3 DATA
+4 TEXT Record for David Morrison Linn
+2 SOUR @S874@
+3 DATA
+4 TEXT Record for David M Linn
+2 SOUR @S178@
+3 PAGE Year: 1910; Census Place: Cumberland Ward 6, Allegany, Maryland; Roll: T624_549; Page: 5A; Enumeration District: 0045; FHL microfilm: 1374562
+3 OBJE @M1502@
+2 SOUR @S67@
+3 PAGE Year: 1870; Census Place: District 16, Allegany, Maryland; Roll: M593_567; Page: 449B; Family History Library Film: 552066
+2 SOUR @S611@
+3 PAGE Year: 1880; Census Place: Keyser, Mineral, West Virginia; Roll: 1408; Page: 118C; Enumeration District: 033
+3 OBJE @M1506@
+2 SOUR @S456@
+3 PAGE Year: 1900; Census Place: Cumberland Ward 6, Allegany, Maryland; Page: 4; Enumeration District: 0121; FHL microfilm: 1240604
+3 OBJE @M1537@
+2 SOUR @S613@
+2 SOUR @S2652@
+3 PAGE West Dunbartonshire Council; West Dunbartonshire, Scotland; West Dunbartonshire Parish Records; Reference: 651/6
+1 SEX M
+2 SOUR @S696@
+3 DATA
+4 TEXT Record for David Morrison Linn
+1 BIRT Adaire, Scotland
+2 DATE 17 OCT 1839
+2 PLAC New Monkland, Lanarkshire, Scotland
+3 MAP
+4 LATI N55.883301
+4 LONG W4.000000
+2 SOUR @S509@
+3 PAGE Parish: Old Monkland; ED: 20; Page: 15; Line: 9; Roll: CSSCT1851_171; Year: 1851
+2 SOUR @S696@
+3 DATA
+4 TEXT Record for David Morrison Linn
+2 SOUR @S874@
+3 DATA
+4 TEXT Record for David M Linn
+2 SOUR @S178@
+3 PAGE Year: 1910; Census Place: Cumberland Ward 6, Allegany, Maryland; Roll: T624_549; Page: 5A; Enumeration District: 0045; FHL microfilm: 1374562
+3 OBJE @M1502@
+2 SOUR @S67@
+3 PAGE Year: 1870; Census Place: District 16, Allegany, Maryland; Roll: M593_567; Page: 449B; Family History Library Film: 552066
+2 SOUR @S611@
+3 PAGE Year: 1880; Census Place: Keyser, Mineral, West Virginia; Roll: 1408; Page: 118C; Enumeration District: 033
+3 OBJE @M1506@
+2 SOUR @S456@
+3 PAGE Year: 1900; Census Place: Cumberland Ward 6, Allegany, Maryland; Page: 4; Enumeration District: 0121; FHL microfilm: 1240604
+3 OBJE @M1537@
+1 RESI Relationship: Son
+2 DATE 1851
+2 PLAC Old Monkland, Lanarkshire, Scotland
+3 MAP
+4 LATI N55.833305
+4 LONG W4.016699
+2 SOUR @S509@
+3 PAGE Parish: Old Monkland; ED: 20; Page: 15; Line: 9; Roll: CSSCT1851_171; Year: 1851
+1 EVEN
+2 TYPE Arrival
+2 DATE 1868
+2 SOUR @S178@
+3 PAGE Year: 1910; Census Place: Cumberland Ward 6, Allegany, Maryland; Roll: T624_549; Page: 5A; Enumeration District: 0045; FHL microfilm: 1374562
+3 OBJE @M1502@
+1 OCCU Worked for the railroad and went from Chicago to Baltimore.
+1 EVEN Deserter from British army which is why they left the old world
+2 TYPE Military
+1 BAPM Age: 0
+2 DATE 3 NOV 1839
+2 PLAC New Monkland, Lanarkshire, Scotland
+3 MAP
+4 LATI N55.883301
+4 LONG W4.000000
+2 SOUR @S696@
+3 DATA
+4 TEXT Record for David Morrison Linn
+2 SOUR @S2652@
+3 PAGE West Dunbartonshire Council; West Dunbartonshire, Scotland; West Dunbartonshire Parish Records; Reference: 651/6
+1 BURI In family plot, center of main cemetery. 1991 photo from D. W. Garner.
+2 CONC /Queens Point Cemetery, Keyser, Mineral County, West Virginia
+2 SOUR @S874@
+3 DATA
+4 TEXT Record for David M Linn
+1 DEAT
+2 DATE 5 JUN 1917
+2 PLAC Keyser, Mineral, West Virginia
+3 MAP
+4 LATI N39.440926
+4 LONG W78.973923
+2 SOUR @S874@
+3 DATA
+4 TEXT Record for David M Linn
+1 EVEN
+2 TYPE Arrival
+2 DATE 1866
+2 PLAC St John, Saint John, New Brunswick, Canada
+3 MAP
+4 LATI N45.266670
+4 LONG W66.066681
+2 SOUR @S1073@
+3 PAGE Place: St. John, New Brunswick; Year: 1866; Page Number: 166
+1 RESI
+2 DATE 1841
+2 PLAC Airdrie, Lanarkshire, Scotland
+3 MAP
+4 LATI N55.865860
+4 LONG W3.980779
+2 SOUR @S651@
+3 PAGE Parish: Airdrie; ED: 2; Page: 13; Line: 1210; Year: 1841
+1 RESI Marital Status: Married; Relation to Head of House: Head
+2 DATE 1910
+2 PLAC Cumberland, Allegany, Maryland
+3 MAP
+4 LATI N39.652863
+4 LONG W78.762505
+1 RESI Marital Status: Married; Relation to Head: Head
+2 DATE 1900
+2 PLAC Cumberland, Allegany, Maryland
+3 MAP
+4 LATI N39.652863
+4 LONG W78.762505
+1 RESI Marital Status: Widower; Relation to Head: Self
+2 DATE 1880
+2 PLAC Keyser, Mineral, West Virginia
+3 MAP
+4 LATI N39.440926
+4 LONG W78.973923
+1 OCCU B&O Railroad Engineer per census
+2 DATE 1880
+2 PLAC Keyser, Mineral, West Virginia
+3 MAP
+4 LATI N39.440926
+4 LONG W78.973923
+1 RESI
+2 DATE 1870
+2 PLAC Lonaconing, Allegany, Maryland
+3 MAP
+4 LATI N39.565918
+4 LONG W78.980286
+2 SOUR @S67@
+3 PAGE Year: 1870; Census Place: District 16, Allegany, Maryland; Roll: M593_567; Page: 449B; Family History Library Film: 552066
+2 OBJE @M171@
+1 RESI Age: 21; Relation to Head of House: Head
+2 DATE 1861
+2 PLAC Cadder, Lanarkshire, Scotland
+3 MAP
+4 LATI N55.916668
+4 LONG W4.216666
+1 RESI Occupation: Engineer
+2 DATE 1899
+2 PLAC Cumberland, Allegany, Maryland
+3 MAP
+4 LATI N39.652863
+4 LONG W78.762505
+2 SOUR @S613@
+1 _PHOTO @M2195@
+1 FAMS @F4421@
+1 FAMS @F4420@
+0 @I12287@ INDI
+1 NAME Margaret Wilkie /Buchanan/
+2 SOUR @S874@
+3 DATA
+4 TEXT Record for Margaret Linn
+2 SOUR @S618@
+2 SOUR @S287@
+2 SOUR @S946@
+3 PAGE Virginia Department of Health; Richmond, Virginia; Virginia Deaths, 1912-2014
+3 OBJE @M1921@
+2 SOUR @S727@
+3 PAGE Presbyterian Historical Society; Philadelphia, Pennsylvania; U.S., Presbyterian Church Records, 1701-1907; Book Title: Register 1861-1883; Accession Number: Vault BX 9211 .M31539 F52 v.2
+3 OBJE @M1923@
+2 SOUR @S610@
+3 PAGE Parish: Cadder; ED: 3; Page: 15; Line: 20; Roll: CSSCT1861_93
+3 DATA
+4 TEXT Record for David Linn
+2 SOUR @S614@
+3 PAGE Parish: Glasgow Govan; ED: 21; Page: 12; Line: 22; Roll: CSSCT1871_139
+2 SOUR @S433@
+3 DATA
+4 TEXT Record for Margaret Linn
+2 SOUR @S698@
+2 SOUR @S697@
+3 DATA
+4 TEXT (null)
+1 SEX F
+1 BIRT
+2 DATE 14 APR 1841
+2 PLAC Cadder, Lanarkshire, Scotland
+3 MAP
+4 LATI N55.916668
+4 LONG W4.216666
+2 SOUR @S618@
+1 RESI Relation to Head of House: Daughter
+2 DATE 1871
+2 PLAC Govan, Lanarkshire, Scotland
+3 MAP
+4 LATI N55.849998
+4 LONG W4.317000
+2 SOUR @S614@
+3 PAGE Parish: Glasgow Govan; ED: 21; Page: 12; Line: 22; Roll: CSSCT1871_139
+1 BURI Buried in the Linn family section. Gravestone reads: "Mother, Margare
+2 CONC t wife of David M. Linn, died Jan 2 1878, 36 mo 19 days. Asleep in Jes
+2 CONC us".
+2 PLAC Queens Point Cemetery, Keyser, Mineral, West Virginia
+2 SOUR @S874@
+3 DATA
+4 TEXT Record for Margaret Linn
+2 SOUR @S433@
+3 DATA
+4 TEXT Record for Margaret Linn
+1 NATI She was a Scottish "Highlander"
+1 BAPM
+2 PLAC Cadder, Lanarkshire, Scotland
+3 MAP
+4 LATI N55.916668
+4 LONG W4.216666
+2 SOUR @S698@
+1 DEAT
+2 DATE 2 NOV 1878
+2 PLAC Keyser, Mineral, West Virginia
+3 MAP
+4 LATI N39.440926
+4 LONG W78.973923
+2 SOUR @S433@
+3 DATA
+4 TEXT Record for Margaret Linn
+1 RESI
+2 DATE 1870
+2 PLAC Lonaconing, Allegany, Maryland
+3 MAP
+4 LATI N39.565918
+4 LONG W78.980286
+2 SOUR @S67@
+3 PAGE Database online. District 16, Allegany, Maryland, post office Lonaconing, roll 567, page 449, image 404.
+3 DATA
+4 TEXT Record for Margaret Linn
+2 SOUR @S67@
+3 PAGE Year: 1870; Census Place: District 16, Allegany, Maryland; Roll: M593_567; Page: 449B
+1 RESI Age: 19; Relation to Head of House: Wife
+2 DATE 1861
+2 PLAC Cadder, Lanarkshire, Scotland
+3 MAP
+4 LATI N55.916668
+4 LONG W4.216666
+2 SOUR @S610@
+3 PAGE Parish: Cadder; ED: 3; Page: 15; Line: 20; Roll: CSSCT1861_93
+3 DATA
+4 TEXT Record for David Linn
+1 _PHOTO @M2198@
+1 FAMS @F4421@
+0 @I12317@ INDI
+1 NAME Annette Campbell 'Nettie' /Straughan/
+2 SOUR @S178@
+3 PAGE Database online. Year: 1910; Census Place: Roe, Kanawha, West Virginia; Roll: T624_1684; Page: 7B; Enumeration District: 54; Image: 454.
+3 DATA
+4 TEXT Record for Nettie C Saunders
+2 SOUR @S1105@
+3 DATA
+4 TEXT Record for Nettie C Slareyher
+2 SOUR @S53@
+3 PAGE Virginia Department of Health; Richmond, Virginia
+2 SOUR @S1106@
+2 SOUR @S611@
+3 PAGE Year: 1880; Census Place: Kanawha, Fayette, West Virginia; Roll: 1402; Page: 45A; Enumeration District: 028
+2 SOUR @S67@
+3 PAGE Year: 1870; Census Place: First Revenue Division, Chesterfield, Virginia; Roll: M593_1640; Page: 268A; Family History Library Film: 553139
+2 SOUR @S613@
+3 OBJE @M1995@
+2 SOUR @S738@
+3 PAGE Will Record, 1847-1968; Author: West Virginia. County Court (Putnam County); Probate Place: Putnam
+3 OBJE @M1589@
+2 SOUR @S2659@
+3 PAGE Genealogies of Virginia Families From the William and Mary College Quarterly Vol Iii Heale-Muscoe
+3 DATA
+4 TEXT (null)
+3 OBJE @M5177@
+1 SEX F
+2 SOUR @S1105@
+3 DATA
+4 TEXT Record for Nettie C Slareyher
+2 SOUR @S456@
+3 PAGE Database online. Cabin Creek, Kanawha, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Robert G Saunders
+1 BIRT
+2 DATE 19 AUG 1869
+2 PLAC Midlothian, Chesterfield, Virginia
+3 MAP
+4 LATI N37.505829
+4 LONG W77.649414
+2 SOUR @S178@
+3 PAGE Database online. Year: 1910; Census Place: Roe, Kanawha, West Virginia; Roll: T624_1684; Page: 7B; Enumeration District: 54; Image: 454.
+3 DATA
+4 TEXT Record for Nettie C Saunders
+2 SOUR @S1105@
+3 DATA
+4 TEXT Record for Nettie C Slareyher
+2 SOUR @S1106@
+2 SOUR @S611@
+3 PAGE Year: 1880; Census Place: Kanawha, Fayette, West Virginia; Roll: 1402; Page: 45A; Enumeration District: 028
+2 SOUR @S67@
+3 PAGE Year: 1870; Census Place: First Revenue Division, Chesterfield, Virginia; Roll: M593_1640; Page: 268A; Family History Library Film: 553139
+2 SOUR @S456@
+3 PAGE Database online. Cabin Creek, Kanawha, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Robert G Saunders
+2 SOUR @S874@
+3 DATA
+4 TEXT Record for Nettie C Saunders
+1 RESI
+2 DATE 1900
+2 PLAC Cabin Creek, Kanawha, West Virginia
+3 MAP
+4 LATI N38.195831
+4 LONG W81.477806
+1 BURI Gravestone "Mother Dear, Nettie C. Straughan, wife of Robert G. Saunde
+2 CONC rs 1870-1927.
+2 DATE 2 AUG 1927
+2 PLAC Grandview Memorial Cemetery, Dunbar, Kanawha, West Virginia
+2 SOUR @S874@
+3 DATA
+4 TEXT Record for Nettie C Saunders
+2 OBJE @M5046@
+1 DEAT Died at home of cancer of the stomach.
+2 DATE 1 AUG 1927
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+2 SOUR @S1106@
+2 SOUR @S874@
+3 DATA
+4 TEXT Record for Nettie C Saunders
+2 OBJE @M5045@
+1 RESI
+2 DATE 1920
+2 PLAC Cabin Creek, Kanawha, West Virginia
+3 MAP
+4 LATI N38.195831
+4 LONG W81.477806
+2 SOUR @S24@
+3 PAGE Year: 1920; Census Place: Cabin Creek, Kanawha, West Virginia; Roll: T625_1957; Page: 10A; Enumeration District: 79
+1 RESI
+2 DATE 1910
+2 PLAC Kanawha, West Virginia
+3 MAP
+4 LATI N38.342354
+4 LONG W81.525703
+1 RESI Marital Status: single relation to Head: Daughter
+2 DATE 1880
+2 PLAC Kanawha City, Fayette, West Virginia
+3 MAP
+4 LATI N38.315121
+4 LONG W81.583748
+2 SOUR @S611@
+3 PAGE Year: 1880; Census Place: Kanawha, Fayette, West Virginia; Roll: 1402; Page: 45A; Enumeration District: 028
+1 RESI Residence Post Office: Chester
+2 DATE 1870
+2 PLAC Chesterfield, Virginia
+3 MAP
+4 LATI N37.378204
+4 LONG W77.588394
+2 SOUR @S67@
+3 PAGE Year: 1870; Census Place: First Revenue Division, Chesterfield, Virginia; Roll: M593_1640; Page: 268A; Family History Library Film: 553139
+1 RESI
+2 DATE 1924
+2 PLAC Charleston, Kanawha, West Virginia
+3 MAP
+4 LATI N38.349819
+4 LONG W81.632614
+2 SOUR @S613@
+3 OBJE @M1995@
+1 OBJE @M373@
+1 OBJE @M220@
+1 OBJE @M5046@
+1 OBJE @M5045@
+1 FAMS @F4463@
+0 @I12354@ INDI
+1 NAME Robert George /Saunders/
+2 SOUR @S1105@
+3 DATA
+4 TEXT Record for Nettie C Slareyher
+2 SOUR @S874@
+3 DATA
+4 TEXT Record for Nettie C Saunders
+2 SOUR @S1106@
+2 SOUR @S1050@
+3 PAGE The National Archives at College Park; College Park, Maryland; Record Group Title: Records of the Office of the Quartermaster General, 1774-1985; Record Group Number: 92; Roll or Box Number: 580
+3 OBJE @M1907@
+2 SOUR @S613@
+3 OBJE @M1995@
+2 SOUR @S648@
+3 PAGE Database online. District 1, Buckingham, Virginia, post office Buckingham Court House, roll M653_1337, page 877, image 420.
+3 DATA
+4 TEXT Record for Robert G Saunders
+2 SOUR @S738@
+3 PAGE Will Record, 1847-1968; Author: West Virginia. County Court (Putnam County); Probate Place: Putnam, West Virginia
+3 OBJE @M1589@
+2 SOUR @S2658@
+3 PAGE Library of Virginia; Richmond, Va, Usa; Virginia, Birth Registers, 1853-1911
+3 DATA
+4 TEXT (null)
+3 OBJE @M5176@
+3 _LINK https://familysearch.org/ark:/61903/1:1:6Z5C-MFBD
+3 NOTE https://familysearch.org/ark:/61903/1:1:6Z5C-MFBD
+2 SOUR @S2659@
+3 PAGE Genealogies of Virginia Families From the William and Mary College Quarterly Vol Iii Heale-Muscoe
+3 DATA
+4 TEXT (null)
+3 OBJE @M5177@
+1 SEX M
+2 SOUR @S1105@
+3 DATA
+4 TEXT Record for Nettie C Slareyher
+2 SOUR @S456@
+3 PAGE Database online. Cabin Creek, Kanawha, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Robert G Saunders
+2 SOUR @S648@
+3 PAGE Database online. District 1, Buckingham, Virginia, post office Buckingham Court House, roll M653_1337, page 877, image 420.
+3 DATA
+4 TEXT Record for Robert G Saunders
+1 BIRT
+2 DATE 25 MAR 1860
+2 PLAC Buckingham, Virginia
+3 MAP
+4 LATI N37.568550
+4 LONG W78.525352
+2 SOUR @S178@
+3 PAGE Database online. Year: 1910; Census Place: Roe, Kanawha, West Virginia; Roll: T624_1684; Page: 7B; Enumeration District: 54; Image: 454.
+3 DATA
+4 TEXT Record for Nettie C Saunders
+2 SOUR @S1105@
+3 DATA
+4 TEXT Record for Nettie C Slareyher
+2 SOUR @S874@
+3 DATA
+4 TEXT Record for Nettie C Saunders
+2 SOUR @S1106@
+2 SOUR @S456@
+3 PAGE Database online. Cabin Creek, Kanawha, West Virginia, ED , roll , page .
+3 DATA
+4 TEXT Record for Robert G Saunders
+2 SOUR @S648@
+3 PAGE Database online. District 1, Buckingham, Virginia, post office Buckingham Court House, roll M653_1337, page 877, image 420.
+3 DATA
+4 TEXT Record for Robert G Saunders
+2 SOUR @S738@
+3 PAGE Will Record, 1847-1968; Author: West Virginia. County Court (Putnam County); Probate Place: Putnam, West Virginia
+3 OBJE @M1589@
+2 SOUR @S2658@
+3 PAGE Library of Virginia; Richmond, Va, Usa; Virginia, Birth Registers, 1853-1911
+3 DATA
+4 TEXT (null)
+3 OBJE @M5176@
+3 _LINK https://familysearch.org/ark:/61903/1:1:6Z5C-MFBD
+3 NOTE https://familysearch.org/ark:/61903/1:1:6Z5C-MFBD
+1 PROB
+2 DATE 16 JAN 1947
+2 PLAC Putnam, West Virginia
+3 MAP
+4 LATI N38.509357
+4 LONG W81.905922
+2 SOUR @S738@
+3 PAGE Will Record, 1847-1968; Author: West Virginia. County Court (Putnam County); Probate Place: Putnam, West Virginia
+3 OBJE @M1589@
+1 BURI Wife's grave is adjacent.
+2 DATE 19 MAR 1946
+2 PLAC Grandview Mem Cemetery, Dunbar, Kanawha, West Virginia
+2 SOUR @S874@
+3 DATA
+4 TEXT Record for Nettie C Saunders
+2 SOUR @S1106@
+1 RESI Candidate for President of the Union District's Board of Education
+2 DATE 30 JUL 1922
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+2 SOUR
+3 OBJE @M5067@
+1 EVEN Daddy Rob
+2 TYPE Nickname
+1 DEAT
+2 DATE 17 MAR 1946
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+2 SOUR @S874@
+3 DATA
+4 TEXT Record for Nettie C Saunders
+2 SOUR @S1106@
+2 SOUR @S738@
+3 PAGE Will Record, 1847-1968; Author: West Virginia. County Court (Putnam County); Probate Place: Putnam, West Virginia
+3 OBJE @M1589@
+1 RESI
+2 DATE 1935
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Dunbar, Kanawha, West Virginia; Roll: m-t0627-04416; Page: 3A; Enumeration District: 20-117
+3 OBJE @M1591@
+1 RESI
+2 DATE 1940
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Dunbar, Kanawha, West Virginia; Roll: m-t0627-04416; Page: 3A; Enumeration District: 20-117
+3 OBJE @M1591@
+1 RESI
+2 DATE 1930
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+2 SOUR @S23@
+3 PAGE Year: 1930; Census Place: Dunbar, Kanawha, West Virginia; Page: 1B; Enumeration District: 0081; FHL microfilm: 2342273
+3 OBJE @M1910@
+1 RESI
+2 DATE 1880
+2 PLAC Francisco, Buckingham, Virginia
+2 SOUR @S45@
+3 OBJE @M1474@
+1 RESI
+2 DATE 1870
+2 PLAC Francisco, Buckingham, Virginia
+2 SOUR @S67@
+1 RESI
+2 DATE 1920
+2 PLAC Cabin Creek, Kanawha, West Virginia
+3 MAP
+4 LATI N38.195831
+4 LONG W81.477806
+2 SOUR @S24@
+3 PAGE Year: 1920; Census Place: Cabin Creek, Kanawha, West Virginia; Roll: T625_1957; Page: 10A; Enumeration District: 79
+1 RESI
+2 DATE 1910
+2 PLAC Kanawha, West Virginia
+3 MAP
+4 LATI N38.342354
+4 LONG W81.525703
+1 RESI
+2 DATE 1900
+2 PLAC Cabin Creek, Kanawha, West Virginia
+3 MAP
+4 LATI N38.195831
+4 LONG W81.477806
+1 RESI
+2 DATE 1924
+2 PLAC Charleston, Kanawha, West Virginia
+3 MAP
+4 LATI N38.349819
+4 LONG W81.632614
+2 SOUR @S613@
+3 OBJE @M1995@
+1 _PHOTO @M518@
+1 OBJE @M220@
+1 OBJE @M373@
+1 FAMS @F4463@
+0 @F4302@ FAM
+1 HUSB @I12025@
+1 WIFE @I12048@
+1 CHIL @I11677@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I11055@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I12218@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I12092@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 27 DEC 1897
+2 PLAC Mineral County, West Virginia
+3 MAP
+4 LATI N39.415230
+4 LONG W78.941612
+2 SOUR @S96@
+3 PAGE West Virginia Argus; Publication Date: 13/ Jan/ 1898; Publication Place: Kingwood, West Virginia, USA; URL: https://www.newspapers.com/image/827923553/?article=fe56667c-ae97-499b-b8bb-b70a054e13df&focus=0.8329118,0.52088517,0.9708006,0.6938467&xid=3398
+3 _LINK https://www.newspapers.com/image/827923553/?article=fe56667c-ae97-499b-b8bb-b70a054e13df&focus=0.8329118,0.52088517,0.9708006,0.6938467&xid=3398
+3 NOTE https://www.newspapers.com/image/827923553/?article=fe56667c-ae97-499b
+4 CONC -b8bb-b70a054e13df&focus=0.8329118,0.52088517,0.9708006,0.6938467&xid=
+4 CONC 3398
+2 SOUR @S96@
+3 PAGE West Virginia Argus; Publication Date: 13/ Jan/ 1898; Publication Place: Kingwood, West Virginia, USA; URL: https://www.newspapers.com/image/827923553/?article=fe56667c-ae97-499b-b8bb-b70a054e13df&focus=0.8329118,0.52088517,0.9708006,0.6938467&xid=3398
+3 _LINK https://www.newspapers.com/image/827923553/?article=fe56667c-ae97-499b-b8bb-b70a054e13df&focus=0.8329118,0.52088517,0.9708006,0.6938467&xid=3398
+3 NOTE https://www.newspapers.com/image/827923553/?article=fe56667c-ae97-499b
+4 CONC -b8bb-b70a054e13df&focus=0.8329118,0.52088517,0.9708006,0.6938467&xid=
+4 CONC 3398
+0 @F4179@ FAM
+1 WIFE @I11055@
+1 MARR
+2 DATE 1923
+2 PLAC Kanawha, West Virginia
+3 MAP
+4 LATI N38.342354
+4 LONG W81.525703
+2 SOUR @S783@
+2 SOUR @S783@
+0 @F4310@ FAM
+1 HUSB @I12046@
+1 MARR
+2 DATE 29 AUG 1913
+2 PLAC Gary, Lake, Indiana
+3 MAP
+4 LATI N41.593365
+4 LONG W87.346443
+0 @F4381@ FAM
+1 HUSB @I12185@
+1 WIFE @I12218@
+1 MARR Married at the Baptist Church. They met in 1922 in Dunbar.
+2 DATE 5 AUG 1930
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+2 OBJE @M16@
+0 @F4463@ FAM
+1 HUSB @I12354@
+1 WIFE @I12317@
+1 CHIL @I12046@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I12151@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I11361@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I12187@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I12044@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I11181@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I12228@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I11291@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I12185@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 8 MAY 1888
+2 PLAC Fayette, West Virginia
+3 MAP
+4 LATI N38.031132
+4 LONG W81.087166
+0 @F4053@ FAM
+1 HUSB @I11361@
+1 MARR
+2 DATE AFT 1950
+2 PLAC San Antonio, Bexar, Texas
+3 MAP
+4 LATI N29.424120
+4 LONG W98.493622
+0 @F4348@ FAM
+1 HUSB @I12122@
+1 WIFE @I12108@
+1 CHIL @I12025@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 10 APR 1856
+2 PLAC Barbour, Orange, Virginia
+2 SOUR @S729@
+0 @F4334@ FAM
+1 HUSB @I12092@
+1 MARR
+2 DATE 1933
+2 PLAC Tyler, West Virginia
+3 MAP
+4 LATI N39.465446
+4 LONG W80.879410
+0 @F4342@ FAM
+1 WIFE @I12151@
+1 MARR
+2 DATE JAN 1908
+2 PLAC London, Kanawha, West Virginia
+3 MAP
+4 LATI N38.194439
+4 LONG W81.368889
+2 SOUR @S783@
+0 @F4309@ FAM
+1 HUSB @I12044@
+1 MARR
+2 DATE 17 MAR 1920
+2 PLAC Parkersburg, Wood, West Virginia
+3 MAP
+4 LATI N39.266739
+4 LONG W81.561516
+2 SOUR @S783@
+0 @F4052@ FAM
+1 HUSB @I11361@
+1 DIV
+1 MARR
+2 DATE 22 JUL 1920
+2 PLAC Charleston, Kanawha, West Virginia
+3 MAP
+4 LATI N38.349819
+4 LONG W81.632614
+0 @F4421@ FAM
+1 HUSB @I12281@
+1 WIFE @I12287@
+1 CHIL @I12048@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 13 JUL 1860
+2 PLAC Barony, Lanarkshire, Scotland
+2 SOUR @S619@
+0 @F4418@ FAM
+1 WIFE @I11291@
+1 MARR
+2 DATE 7 MAR 1926
+2 PLAC Dunbar, Kanawha, West Virginia
+3 MAP
+4 LATI N38.360653
+4 LONG W81.737358
+0 @F4333@ FAM
+1 HUSB @I12092@
+1 DIV
+2 DATE 26 AUG 1981
+2 PLAC Virginia
+3 MAP
+4 LATI N38.066669
+4 LONG W78.583344
+2 SOUR @S11@
+3 PAGE Virginia Department of Health; Richmond, Virginia; Virginia Divorce Records, 1918-2014
+3 OBJE @M1228@
+2 SOUR @S11@
+3 PAGE Virginia Department of Health; Richmond, Virginia; Virginia Divorce Records, 1918-2014
+3 OBJE @M1228@
+1 MARR
+2 DATE 11 OCT 1959
+2 PLAC Alexandria, Virginia
+3 MAP
+4 LATI N38.801922
+4 LONG W77.621803
+2 SOUR @S10@
+3 PAGE Virginia Department of Health; Richmond, Virginia; Virginia, Marriages, 1936-2014; Roll: 101169161
+3 OBJE @M1222@
+2 SOUR @S10@
+3 PAGE Virginia Department of Health; Richmond, Virginia; Virginia, Marriages, 1936-2014; Roll: 101169161
+3 OBJE @M1222@
+0 @F4415@ FAM
+1 WIFE @I12228@
+1 MARR
+2 DATE 28 AUG 1920
+2 PLAC Fredericksburg, Spotsylvania, Virginia
+3 MAP
+4 LATI N37.892906
+4 LONG W79.437790
+2 SOUR @S92@
+0 @F4311@ FAM
+1 HUSB @I12046@
+1 MARR
+2 DATE ABT 1954
+2 PLAC Fredericksburg, Spotsylvania, Virginia
+3 MAP
+4 LATI N37.892906
+4 LONG W79.437790
+0 @F4382@ FAM
+1 HUSB @I12187@
+0 @F4338@ FAM
+1 WIFE @I11677@
+1 MARR
+2 DATE 16 SEP 1924
+2 PLAC Kanawha, West Virginia
+3 MAP
+4 LATI N38.342354
+4 LONG W81.525703
+0 @F4420@ FAM
+1 HUSB @I12281@
+1 MARR Mineral County Marriages 1882
+2 DATE 22 NOV 1882
+2 PLAC Keyser, Mineral, West Virginia
+3 MAP
+4 LATI N39.440926
+4 LONG W78.973923
+2 SOUR @S456@
+3 PAGE Year: 1900; Census Place: Cumberland Ward 6, Allegany, Maryland; Page: 4; Enumeration District: 0121; FHL microfilm: 1240604
+3 OBJE @M1537@
+2 SOUR @S783@
+2 SOUR @S783@
+2 SOUR Ancestry Family Tree
+2 SOUR Ancestry Family Tree
+0 @S10@ SOUR
+1 AUTH Ancestry.com
+1 TITL Virginia, U.S., Marriage Records, 1936-2014
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2
+2 CONC 015;
+1 REPO @R20@
+1 NOTE
+2 CONC Virginia, Marriages, 1936-2014. Virginia Department of Health, Richmon
+3 CONC d, Virginia.
+0 @S11@ SOUR
+1 AUTH Ancestry.com
+1 TITL Virginia, U.S., Divorce Records, 1918-2014
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2
+2 CONC 015;
+1 REPO @R20@
+1 NOTE
+2 CONC Virginia Divorce Records, 1918–2014. Virginia Department of Health, Ri
+3 CONC chmond, Virginia.
+0 @S18@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1940 United States Federal Census
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+0 @S23@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1930 United States Federal Census
+1 PUBL Name: Ancestry.com Operations Inc;
+1 REPO @R20@
+0 @S24@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1920 United States Federal Census
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2
+2 CONC 010;
+1 REPO @R20@
+1 NOTE
+2 CONC Fourteenth Census of the United States, 1920. (NARA microfilm publicat
+3 CONC ion T625, 2076 rolls). Records of the Bureau of the Census, Record Gro
+3 CONC up 29. National Archives, Washington, D.C. For details on the content
+3 CONC s of the film numbers, visit the following NARA web page: <a href="htt
+3 CONC ps://www.archives.gov/research/census/publications-microfilm-catalogs-
+3 CONC census/1920/part-07.html" target="_blank">NARA</a>. Note: Enumeratio
+3 CONC n Districts 819-839 are on roll 323 (Chicago City).
+0 @S32@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., School Yearbooks, 1900-1999
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+0 @S37@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1910 United States Federal Census
+1 PUBL Name: Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date: 2006
+2 CONC ;
+1 REPO @R20@
+1 NOTE
+2 CONC Thirteenth Census of the United States, 1910 (NARA microfilm publicati
+3 CONC on T624, 1,178 rolls). Records of the Bureau of the Census, Record Gro
+3 CONC up 29. National Archives, Washington, D.C. For details on the content
+3 CONC s of the film numbers, visit the following NARA web page: <a href="htt
+3 CONC p://www.archives.gov/research/census/publications-microfilm-catalogs-c
+3 CONC ensus/1910/index.html" target="_blank">NARA</a>.
+0 @S38@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S. Public Records Index, 1950-1993, Volume 2
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+0 @S42@ SOUR
+1 AUTH Ancestry.com
+1 TITL Virginia, Marriage Records, 1936-2014
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+0 @S44@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Find A Grave Index, 1600s-Current
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+0 @S45@ SOUR
+1 AUTH Ancestry.com and The Church of Jesus Christ of Latter-day Saints
+1 TITL 1880 United States Federal Census
+1 PUBL Name: Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date: 2010
+2 CONC ;
+1 REPO @R20@
+1 NOTE
+2 CONC Tenth Census of the United States, 1880. (NARA microfilm publication T
+3 CONC 9, 1,454 rolls). Records of the Bureau of the Census, Record Group 29
+3 CONC . National Archives, Washington, D.C.
+0 @S53@ SOUR
+1 AUTH Ancestry.com
+1 TITL Virginia, Birth Records, 1912-2016, Delayed Birth Records, 1854-1911
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+0 @S66@ SOUR
+1 AUTH Ancestry.com
+1 TITL Newspapers.com Obituary Index, 1800s-current
+1 PUBL Name: Ancestry.com Operations Inc;
+1 REPO @R20@
+0 @S67@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1870 United States Federal Census
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+0 @S85@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1860 United States Federal Census
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2
+2 CONC 009;
+1 REPO @R20@
+1 NOTE
+2 CONC 1860 U.S. census, population schedule. NARA microfilm publication M653
+3 CONC , 1,438 rolls. Washington, D.C.: National Archives and Records Adminis
+3 CONC tration, n.d.
+0 @S92@ SOUR
+1 AUTH Ancestry.com
+1 TITL Virginia, U.S., Select Marriages, 1785-1940
+1 PUBL Name: Ancestry.com Operations, Inc;
+1 REPO @R20@
+0 @S96@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Newspapers.com Marriage Index, 1800s-1999
+1 PUBL Name: Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date: 2020
+2 CONC ;
+1 REPO @R20@
+0 @S106@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S. Public Records Index, 1950-1993, Volume 1
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+0 @S111@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Social Security Death Index, 1935-2014
+1 PUBL Name: Ancestry.com Operations Inc;
+1 REPO @R20@
+0 @S152@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1850 United States Federal Census
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2
+2 CONC 009;
+1 REPO @R20@
+1 NOTE
+2 CONC Seventh Census of the United States, 1850; (National Archives Microfil
+3 CONC m Publication M432, 1009 rolls); Records of the Bureau of the Census
+3 CONC , Record Group 29; National Archives, Washington, D.C.
+0 @S155@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., City Directories, 1822-1995
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2
+2 CONC 011;
+1 REPO @R20@
+1 NOTE
+2 CONC Original sources vary according to directory. The title of the specifi
+3 CONC c directory being viewed is listed at the top of the image viewer page
+3 CONC . Check the directory title page image for full title and publicatio
+3 CONC n information.
+0 @S164@ SOUR
+1 AUTH Ancestry.com
+1 TITL Ohio, County Marriage Records, 1774-1993
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+0 @S178@ SOUR
+1 TITL 1910 United States Federal Census
+1 REPO @R10@
+1 NOTE
+2 CONC Source Medium: Ancestry.com
+0 @S287@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Social Security Applications and Claims Index, 1936-2007
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+0 @S433@ SOUR
+1 TITL Ancestry.com, U.S., Find A Grave Index, 1600s-Current (Name: Ancestry.
+2 CONC c om Operations, Inc.; Location: Provo, UT, USA; Date: 2 012;)
+1 REPO @R20@
+1 NOTE
+2 CONC _SUBQ: Ancestry.com, U.S., Find A Grave Index, 1600s-Current
+3 CONT _BIBL: Ancestry.com. U.S., Find A Grave Index, 1600s-Current. Name: An
+3 CONC cestry.c om Operations, Inc.; Location: Provo, UT, USA; Date: 2 012;.
+3 CONT _TMPLT:
+3 CONT
+3 CONT Find A Grave
+0 @S456@ SOUR
+1 TITL 1900 United States Federal Census
+1 REPO @R10@
+1 NOTE
+2 CONC Source Medium: Ancestry.com
+0 @S509@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1851 Scotland Census
+1 PUBL Name: Ancestry.com Operations Inc;
+1 REPO @R20@
+0 @S510@ SOUR
+1 AUTH Ancestry.com
+1 TITL West Virginia, Births Index, 1804-1938
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+0 @S596@ SOUR
+1 AUTH Ancestry.com
+1 TITL Social Security Death Index
+1 PUBL Name: The Generations Network, Inc.;
+1 REPO @R10@
+1 NOTE
+2 CONC Social Security Administration, Social Security Death Index, Master Fi
+3 CONC le, : Social Security Administration
+0 @S610@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1861 Scotland Census
+1 PUBL Name: Ancestry.com Operations Inc;
+1 REPO @R20@
+1 NOTE
+2 CONC Scotland. <i>1861 Scotland Census</i>. Reels 1-150. General Register O
+3 CONC ffice for Scotland, Edinburgh, Scotland.
+0 @S611@ SOUR
+1 AUTH Ancestry.com and The Church of Jesus Christ of Latter-day Saints
+1 TITL 1880 United States Federal Census
+1 PUBL Name: The Generations Network, Inc.;
+1 REPO @R10@
+1 NOTE
+2 CONC United States of America, Bureau of the Census, Tenth Census of the Un
+3 CONC ited States, 1880, Washington, D.C.: National Archives and Records Adm
+3 CONC inistration, 1880
+0 @S613@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S. City Directories, 1822-1995
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+0 @S614@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1871 Scotland Census
+1 PUBL Name: Ancestry.com Operations Inc;
+1 REPO @R20@
+0 @S618@ SOUR
+1 AUTH Ancestry.com
+1 TITL Scotland, Select Births and Baptisms, 1564-1950
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+0 @S619@ SOUR
+1 AUTH Ancestry.com
+1 TITL Scotland, Select Marriages, 1561-1910
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+0 @S640@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., World War I Draft Registration Cards, 1917-1918
+1 PUBL Name: Ancestry.com Operations Inc;
+1 REPO @R20@
+0 @S648@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1860 United States Federal Census
+1 PUBL Name: The Generations Network, Inc.;
+1 REPO @R10@
+1 NOTE
+2 CONC United States of America, Bureau of the Census, Eighth Census of the U
+3 CONC nited States, 1860, Washington, D.C.: National Archives and Records Ad
+3 CONC ministration, 1860
+0 @S651@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1841 Scotland Census
+1 PUBL Name: Ancestry.com Operations Inc;
+1 REPO @R20@
+0 @S696@ SOUR
+1 AUTH Ancestry.com
+1 TITL Scotland, Select Births and Baptisms, 1564-1950
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+1 NOTE
+2 CONC <i>Scotland, Births and Baptisms, 1564-1950</i>. Salt Lake City, Utah
+3 CONC : FamilySearch, 2013.
+0 @S697@ SOUR
+1 TITL Ancestry.com, Scotland, Select Marriages, 1561-1910 (Name: Ancestry.co
+2 CONC m O perations, Inc.; Location: Provo, UT, USA; Date: 2 014;)
+1 REPO @R20@
+1 NOTE
+2 CONC _SUBQ: Ancestry.com, Scotland, Select Marriages, 1561-1910
+3 CONT _BIBL: Ancestry.com. Scotland, Select Marriages, 1561-1910. Name: Ance
+3 CONC stry.com O perations, Inc.; Location: Provo, UT, USA; Date: 2 014;.
+3 CONT _TMPLT:
+0 @S698@ SOUR
+1 TITL Ancestry.com, Scotland, Select Births and Baptisms, 1564-1950 (Name: A
+2 CONC n cestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2 014;)
+1 REPO @R20@
+1 NOTE
+2 CONC _SUBQ: Ancestry.com, Scotland, Select Births and Baptisms, 1564-1950
+3 CONT _BIBL: Ancestry.com. Scotland, Select Births and Baptisms, 1564-1950
+3 CONC . Name: An cestry.com Operations, Inc.; Location: Provo, UT, USA; Date
+3 CONC : 2 014;.
+3 CONT _TMPLT:
+3 CONT
+3 CONT <i>Scotland, Births and Baptisms, 1564-1950</i>. Salt Lake City, Uta
+3 CONC h : F amilySearch, 2013.
+0 @S713@ SOUR
+1 AUTH Ancestry.com
+1 TITL West Virginia, U.S., Births Index, 1804-1938
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2
+2 CONC 011;
+1 REPO @R20@
+1 NOTE
+2 CONC <p>"West Virginia Births." Index. FamilySearch, Salt Lake City, Utah
+3 CONC , 2008, 2009. From digital images of copies of originals housed in Cou
+3 CONC nty Courthouses throughout West Virginia. Birth records.</p>
+0 @S721@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Find a Grave Index, 1600s-Current
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2
+2 CONC 012;
+1 REPO @R20@
+1 NOTE
+2 CONC <i>Find a Grave</i>. Find a Grave. http://www.findagrave.com/cgi-bin/f
+3 CONC g.cgi.
+0 @S727@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Presbyterian Church Records, 1701-1970
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+0 @S729@ SOUR
+1 AUTH Ancestry.com
+1 TITL West Virginia, Marriages Index, 1785-1971
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+0 @S736@ SOUR
+1 AUTH Ancestry.com
+1 TITL Virginia, U.S., Death Records, 1912-2014
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2
+2 CONC 015;
+1 REPO @R20@
+1 NOTE
+2 CONC Virginia, Deaths, 1912–2014. Virginia Department of Health, Richmond
+3 CONC , Virginia.
+0 @S738@ SOUR
+1 AUTH Ancestry.com
+1 TITL West Virginia, U.S., Wills and Probate Records, 1724-1985
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2
+2 CONC 015;
+1 REPO @R20@
+1 NOTE
+2 CONC West Virginia County, District and Probate Courts.
+0 @S783@ SOUR
+1 AUTH Ancestry.com
+1 TITL West Virginia, U.S., Marriages Index, 1785-1971
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2
+2 CONC 011;
+1 REPO @R20@
+1 NOTE
+2 CONC <p>"West Virginia Marriages, 1853–1970." Index. FamilySearch, Salt Lak
+3 CONC e City, Utah, 2008, 2009. Digital images of originals housed in Count
+3 CONC y Courthouses in various counties throughout West Virginia. Marriage r
+3 CONC ecords.</p>
+0 @S811@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., World War II Draft Cards Young Men, 1940-1947
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date: 20
+2 CONC 11;
+1 REPO @R20@
+1 NOTE
+2 CONC <p><a href="##SearchUrlPrefix##/search/dbextra.aspx?dbid=2238" target=
+3 CONC "_blank">View Sources</a>.</p>
+0 @S874@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Find A Grave Index, 1600s-Current
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+1 NOTE
+2 CONC <i>Find A Grave</i>. Find A Grave. http://www.findagrave.com/cgi-bin/f
+3 CONC g.cgi.
+0 @S902@ SOUR
+1 AUTH Ancestry.com
+1 TITL West Virginia, Deaths Index, 1853-1973
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+1 NOTE
+2 CONC <p>"West Virginia Deaths, 1853–1970." Index. FamilySearch, Salt Lake C
+3 CONC ity, Utah. From originals housed in county courthouses throughout Wes
+3 CONC t Virginia. "Death Records.".</p>
+0 @S946@ SOUR
+1 AUTH Ancestry.com
+1 TITL Virginia, Death Records, 1912-2014
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+0 @S952@ SOUR
+1 AUTH Ancestry.com and Ohio Department of Health
+1 TITL Ohio Deaths, 1908-1932, 1938-1944, and 1958-2002
+1 PUBL Name: The Generations Network, Inc.;
+1 REPO @R10@
+0 @S955@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Headstone Applications for Military Veterans, 1925-1963
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+1 NOTE
+2 CONC <i>Applications for Headstones for U.S. Military Veterans, 1925-1941.<
+3 CONC /i> Microfilm publication M1916, 134 rolls. ARC ID: <a href="http://re
+3 CONC search.archives.gov/description/596118">596118</a>. Records of the Off
+3 CONC ice of the Quartermaster General, Record Group 92. National Archives a
+3 CONC t Washington, D.C.<p><i>Applications for Headstones, compiled 01/01/19
+3 CONC 25 - 06/30/1970, documenting the period ca. 1776 - 1970</i> ARC: <a hr
+3 CONC ef="http://research.archives.gov/description/596118">596118</a>. Recor
+3 CONC ds of the Office of the Quartermaster General, 1774–1985, Record Grou
+3 CONC p 92. National Archives and Records Administration, Washington, D.C.</
+3 CONC p>
+0 @S956@ SOUR
+1 AUTH Ancestry.com
+1 TITL West Virginia, Wills and Probate Records, 1724-1985
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+1 NOTE
+2 CONC West Virginia County, District and Probate Courts.
+0 @S967@ SOUR
+1 AUTH Ancestry.com
+1 TITL West Virginia, U.S., Wills and Probate Records, 1724-1985
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+0 @S1016@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Burial Registers, Military Posts and National Cemeteries, 1862-1
+2 CONC 960
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+0 @S1017@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Union Soldiers Compiled Service Records, 1861-1865
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+0 @S1018@ SOUR
+1 AUTH Ancestry.com
+1 TITL Grafton, West Virginia, U.S., Grafton National Cemetery, 1867-2010
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+0 @S1019@ SOUR
+1 AUTH Ancestry.com
+1 TITL Washington Post, The (Washington, D.C.)
+1 PUBL Name: Online publication - Provo, UT, USA: Ancestry.com Operations Inc
+2 CONC , 2006.Original data - The Washington Post. Washington, D.C. Databas
+2 CONC e created from microfilm copies of the newspaper.Original data: The Wa
+2 CONC shington Post. Washington, D.C. Database created from ;
+1 REPO @R20@
+0 @S1049@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+1 NOTE
+2 CONC <p><a href="##SearchUrlPrefix##/search/dbextra.aspx?dbid=2238" target=
+3 CONC "_blank">View Sources</a>.</p>
+0 @S1050@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Army Transport Service Arriving and Departing Passenger Lists, 1
+2 CONC 910-1939
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+0 @S1073@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S. and Canada, Passenger and Immigration Lists Index, 1500s-1900s
+1 PUBL Name: Ancestry.com Operations, Inc; Location: Provo, UT, USA; Date: 20
+2 CONC 10;
+1 REPO @R20@
+1 NOTE
+2 CONC Filby, P. William, ed. <i>Passenger and Immigration Lists Index, 1500s
+3 CONC -1900s</i>. Farmington Hills, MI, USA: Gale Research, 2012.
+0 @S1099@ SOUR
+1 AUTH Ancestry.com
+1 TITL Texas, U.S., Death Certificates, 1903-1982
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Date: 2
+2 CONC 013;
+1 REPO @R20@
+1 NOTE
+2 CONC Texas Department of State Health Services. Texas Death Certificates, 1
+3 CONC 903–1982. Austin, Texas, USA.
+0 @S1105@ SOUR
+1 AUTH Ancestry.com
+1 TITL West Virginia, Marriages Index, 1785-1971
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+1 NOTE
+2 CONC <p>"West Virginia Marriages, 1853–1970." Index. FamilySearch, Salt Lak
+3 CONC e City, Utah, 2008, 2009. Digital images of originals housed in Count
+3 CONC y Courthouses in various counties throughout West Virginia. Marriage r
+3 CONC ecords.</p>
+0 @S1106@ SOUR
+1 AUTH Ancestry.com
+1 TITL West Virginia, Deaths Index, 1853-1973
+1 PUBL Name: Ancestry.com Operations, Inc.;
+1 REPO @R20@
+0 @S1648@ SOUR
+1 AUTH Ancestry.com
+1 TITL 1950 United States Federal Census
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date: 20
+2 CONC 22;
+1 REPO @R20@
+0 @S2648@ SOUR
+1 AUTH Ancestry.com
+1 TITL West Virginia, U.S., Newspapers.com™  Stories and Events Index, 1800's
+2 CONC -current
+1 PUBL Name: Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date: 2023
+2 CONC ;
+1 REPO @R20@
+0 @S2649@ SOUR
+1 AUTH Ancestry.com
+1 TITL Bluefield Daily Telegraph (Bluefield, West Virginia)
+1 PUBL Name: Ancestry.com Operations Inc; Location: Provo, UT, USA; Date: 200
+2 CONC 6;
+1 REPO @R20@
+0 @S2651@ SOUR
+1 TITL Newspapers.com - The Charleston Daily Mail - 23 Jan 1920 - Page 7
+1 PUBL Name: The Charleston Daily Mail; Location: Charleston, West Virginia
+2 CONC ; Date: 23 Jan 1920;
+1 REPO @R26@
+0 @S2652@ SOUR
+1 AUTH Ancestry.com
+1 TITL Select Counties, Scotland, Church of Scotland, Baptisms, 1615-1854
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date: 20
+2 CONC 25;
+1 REPO @R20@
+0 @S2658@ SOUR
+1 AUTH Ancestry.com
+1 TITL Virginia, U.S., Birth Registers, 1853-1911
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date: 20
+2 CONC 22;
+1 REPO @R20@
+0 @S2659@ SOUR
+1 AUTH Ancestry.com
+1 TITL U.S., Family History Books
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date: 20
+2 CONC 25;
+1 REPO @R20@
+0 @R10@ REPO
+1 NAME www.ancestry.com
+1 ADDR
+1 EMAIL
+1 PHON
+0 @R20@ REPO
+1 NAME Ancestry.com
+1 ADDR
+1 EMAIL
+1 PHON
+0 @R26@ REPO
+1 NAME www.newspapers.com
+1 ADDR
+1 EMAIL
+1 PHON
+0 @M8@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1971-GM-Ford-books.jpg
+2 FORM jpg
+2 TITL 1971-GM-Ford-books
+0 @M16@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1930-Linn-Ford-wedding.jpg
+2 FORM jpg
+2 TITL 1930-Linn-Ford-wedding
+0 @M85@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1864-FGW Ford-Shenandoah Campaign.jpg
+2 FORM jpg
+2 TITL fgw ford
+2 _TEXT Cedar Creek After Action Report, Commander, 15th West Virginia Volunte
+3 CONC ers, 3d Brigade, 1st Division, 8th Corps (OR, 43, 397-8)  HDQRS, THIR
+3 CONC D BRIGADE, FIRST INFANTRY DIVISION,  ARMY OF WEST VIRGINIA, Cedar Cree
+3 CONC k, Va., October 25,1864. LIEUTENANT: I have the honor to submit the fo
+3 CONC llowing report of the Fifteenth Regiment West Virginia Infantry durin
+3 CONC g the engagement of the 19th instant: Between the hours of 5 and 6 o'c
+3 CONC lock in the morning of the action my command was in line of battle i
+3 CONC n the breast-works in front of my camp, at which time the enemy were o
+3 CONC bserved approaching in force within a few rods of our works. I gave th
+3 CONC e order to fire, which was kept up until we were completely outflanke
+3 CONC d by the enemy on our left. I here lost several enlisted men killed, w
+3 CONC ounded, and captured. On falling back I reformed a portion of my comma
+3 CONC nd in rear of the original dine of works of the Nineteenth Army Corps
+3 CONC ; said corps giving way, my command was scattered somewhat, but afterw
+3 CONC ard were collected in squads, and about 12 o'clock the larger part o
+3 CONC f the command were reformed in line with other portions of the Third B
+3 CONC rigade, the brigade being its line with Sixth and Nineteenth Army Corp
+3 CONC s, from which position we moved to the left with the Army of West Virg
+3 CONC inia as a reserve and support to a battery. About 5 p. m. we were orde
+3 CONC red to advance, which was done in good order, but not without a loss i
+3 CONC n wounded. The conduct of my only field officer, and a portion of th
+3 CONC e line officers, I cannot commend very highly; but the conduct of som
+3 CONC e of them is commendable, especially that of Captain Gandy, of Compan
+3 CONC y E, Captain McCaskey, of Company C, Captain Porter and Lieutenant Laz
+3 CONC ear, of Company K, and Lieutenant Powers, of Company B. The conduct o
+3 CONC f the enlisted men who were present was highly commendable. The losse
+3 CONC s in my command were as follows: 5 enlisted men killed, 1 commissione
+3 CONC d officer and 11 enlisted men wounded, and 1 commissioned officer an
+3 CONC d 11 enlisted men captured. I forgot to mention among the officers wh
+3 CONC o performed their duty faithfully on that day was Lieut. F. G. W. Ford
+3 CONC , Company F. The above report I submit. I am, yours, respectfully MILT
+3 CONC ON WELLS
+0 @M166@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1860 Census FGW Ford.jpg
+2 FORM jpg
+2 TITL 1860 US Census-Frederick GW Ford
+0 @M171@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1870 Census David Linn.jpg
+2 FORM jpg
+2 TITL 1870 US Census David Linn
+0 @M200@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1910 Census Saunders.jpg
+2 FORM jpg
+2 TITL 1910 US Census PA Saunders
+0 @M220@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1900 Census RG Saunders.jpg
+2 FORM jpg
+2 TITL 1900 US Census Robert G Saunders
+0 @M299@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1910s-Withers-Saunders.jpg
+2 FORM jpg
+2 TITL 1910s-Withers-Saunders
+0 @M318@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1986-Frederick-Ford-obit.jpg
+2 FORM jpg
+2 TITL 1986-Frederick-Ford-obit
+0 @M352@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1915-FGW Ford Will.jpg
+2 FORM jpg
+2 TITL FGW Ford Will
+0 @M373@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Saunders/1901-Netti-Robert-Saunders.jpg
+2 FORM jpg
+2 TITL 1900s-RG Saunders-Annette Straughan
+0 @M518@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1901-Robert-George-Saunders.jpg
+2 FORM jpg
+2 TITL 1900s-RG Saunders
+0 @M527@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1921-FGW-Ford-Obit.jpg
+2 FORM jpg
+2 TITL 1921-FGW-Ford-Obit
+0 @M577@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1920-Davis Saunders-Roberts-Marriage.jpg
+2 FORM jpg
+2 TITL 1920-Davis Saunders-Roberts-Marriage
+2 _DATE MAR 17 1920
+0 @M648@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1898-Howard-Alexander-Saunders-died-at-3mo.jpg
+2 FORM jpg
+2 TITL 1898-Howard-Alexander-Saunders-died-at-3mo
+0 @M878@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Ford/up to 1919/1865-Frederick-GW-Ford-Union-civil-war.jpg
+2 FORM jpg
+2 TITL frederick-g-w-ford-union
+0 @M958@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Ford/Linn-Buchanon/1871-Elizabeth-Jennie-Margaret-Annie-Linn-1.JPG
+2 FORM jpg
+2 TITL 1871-Elizabeth-Jennie-Margaret-Annie-Linn
+0 @M1139@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1930 Census Geo Saunders.jpg
+2 FORM jpg
+2 TITL 1930 US Census Geo Saunders
+0 @M1222@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1959-Fredrick-Ford-Marriage.jpg
+2 FORM jpg
+2 TITL 1959-Fredrick-Ford-Marriage
+2 _TEXT Virginia Department of Health; Richmond, Virginia; Virginia, Marriages
+3 CONC , 1936-2014; Roll: 101169161
+0 @M1228@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1979-Frederick-Ford-Divorce.jpg
+2 FORM jpg
+2 TITL 1979-Frederick-Ford-Divorce
+2 _TEXT Virginia Department of Health; Richmond, Virginia; Virginia Divorce Re
+3 CONC cords, 1918-2014
+0 @M1237@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1940 United States Federal Census(28).jpg
+2 FORM jpg
+2 TITL 1940 US Census Harry Hall
+0 @M1240@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1930 Census Harrry Hall.jpg
+2 FORM jpg
+2 TITL 1930 US Census Harrry Hall
+2 _TEXT Year: 1930; Census Place: Dunbar, Kanawha, West Virginia; Page: 13A; E
+3 CONC numeration District: 0079; FHL microfilm: 2342273
+0 @M1436@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1900 Census FGW Ford.jpg
+2 FORM jpg
+2 TITL 1900 US Census FGW Ford
+0 @M1440@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1920 Census FGW Ford.jpg
+2 FORM jpg
+2 TITL 1920 US Census FGW Ford
+0 @M1474@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1880 Census Geo Saunders.jpg
+2 FORM jpg
+2 TITL 1880 US Census Geo Saunders
+0 @M1502@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1910 Census David Linn-1.jpg
+2 FORM jpg
+2 TITL 1910 US Census David Linn
+2 _TEXT Year: 1910; Census Place: Cumberland Ward 6, Allegany, Maryland; Roll
+3 CONC : T624_549; Page: 5A; Enumeration District: 0045; FHL microfilm: 13745
+3 CONC 62
+0 @M1506@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1880 Census David Linn.jpg
+2 FORM jpg
+2 TITL 1880 US Census David Linn
+2 _TEXT Year: 1880; Census Place: Keyser, Mineral, West Virginia; Roll: 1408
+3 CONC ; Page: 118C; Enumeration District: 033
+0 @M1524@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1920 Census George M Ford.jpg
+2 FORM jpg
+2 TITL 1920 US Census George M Ford
+2 _TEXT Year: 1920; Census Place: Guthrie, Kanawha, West Virginia; Roll: T625_
+3 CONC 1957; Page: 3B; Enumeration District: 134
+0 @M1530@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1940 United States Federal Census(52).jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: Beckley, Raleigh, West Virginia; Roll: m-t06
+3 CONC 27-04442; Page: 5A; Enumeration District: 41-29
+0 @M1533@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1930 Census Silas Ewing.jpg
+2 FORM jpg
+2 TITL 1930 US Census Silas Ewing
+2 _TEXT Year: 1930; Census Place: Ashland, Boyd, Kentucky; Page: 6A; Enumerati
+3 CONC on District: 0028; FHL microfilm: 2340469
+0 @M1537@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1900 Census David Linn.jpg
+2 FORM jpg
+2 TITL 1900 US Census David Linn
+2 _TEXT Year: 1900; Census Place: Cumberland Ward 6, Allegany, Maryland; Page
+3 CONC : 4; Enumeration District: 0121; FHL microfilm: 1240604
+0 @M1541@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/U.S., City Directories, 1822-1995(2).jpg
+2 FORM jpg
+2 TITL U.S., City Directories, 1822-1995
+0 @M1543@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1958-Silas-Ewing-jr-Marriage.jpg
+2 FORM jpg
+2 TITL 1958-Silas-Ewing-jr-Marriage
+2 _TEXT Virginia Department of Health; Richmond, Virginia; Virginia, Marriages
+3 CONC , 1936-2014; Roll: 101168997
+0 @M1585@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1940 United States Federal Census(58).jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: Fairmont, Marion, West Virginia; Roll: m-t06
+3 CONC 27-04424; Page: 14A; Enumeration District: 25-23
+0 @M1589@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1927-RG Saunders-Last Will.jpg
+2 FORM jpg
+2 TITL 1927-RG Saunders-Last Will
+2 _TEXT Will Record, 1847-1968; Author: West Virginia. County Court (Putnam Co
+3 CONC unty); Probate Place: Putnam
+0 @M1591@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1940 United States Federal Census(60).jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: Dunbar, Kanawha, West Virginia; Roll: m-t062
+3 CONC 7-04416; Page: 3A; Enumeration District: 20-117
+0 @M1606@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1940 United States Federal Census(61).jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+0 @M1642@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1966-Walter-Saunders-Death.jpg
+2 FORM jpg
+2 TITL 1966-Walter-Saunders-Death
+0 @M1644@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1920 Census Welby Saunders.jpg
+2 FORM jpg
+2 TITL 1920 US Census Welby Saunders
+0 @M1742@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1900 Census Geo Ford.jpg
+2 FORM jpg
+2 TITL 1900 US Census Geo Ford
+2 _TEXT Year: 1900; Census Place: Plymouth, Mercer, West Virginia; Roll: 1766
+3 CONC ; Page: 23B; Enumeration District: 0084; FHL microfilm: 1241766
+0 @M1784@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/U.S., Presbyterian Church Records, 1701-1970(6).jpg
+2 FORM jpg
+2 TITL U.S., Presbyterian Church Records, 1701-1970
+2 _TEXT Presbyterian Historical Society; Philadelphia, Pennsylvania; U.S., Pre
+3 CONC sbyterian Church Records, 1701-1907; Book Title: Register 1861-1873; A
+3 CONC ccession Number: Vault BX 9211 .M31539 F52 v.1
+0 @M1786@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1959-Annie LL Ford-Will.jpg
+2 FORM jpg
+2 TITL 1959-Annie LL Ford-Will
+2 _TEXT Wills, 1850-1969; Author: West Virginia. County Court (Raleigh County)
+3 CONC ; Probate Place: Raleigh, West Virginia
+0 @M1788@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1940 United States Federal Census(78).jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: Dunbar, Kanawha, West Virginia; Roll: T627_4
+3 CONC 416; Page: 13B; Enumeration District: 20-115
+0 @M1795@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1930-Linn_Ford_census.jpg
+2 FORM jpg
+2 TITL 1930 US Census Geo Ford
+2 _TEXT Year: 1930; Census Place: Dunbar, Kanawha, West Virginia; Page: 8A; En
+3 CONC umeration District: 0079; FHL microfilm: 2342273
+0 @M1800@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1940 Census Geo Ford.jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: Dunbar, Kanawha, West Virginia; Roll: T627_4
+3 CONC 416; Page: 13A; Enumeration District: 20-115
+0 @M1804@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1862-FGW Ford-Civil-War.jpg
+2 FORM jpg
+2 TITL 1862-FGW Ford-Civil-War
+0 @M1806@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1941-Geo-Ford-Vet-Headstone-App.jpg
+2 FORM jpg
+2 TITL 1941-Geo-M-Gord-Grave-Veteran
+0 @M1810@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1918-June-George M Ford-Will.jpg
+2 FORM jpg
+2 TITL George M Ford Will
+2 _TEXT Wills; Author: West Virginia. County Court (Kanawha County); Probate P
+3 CONC lace: Kanawha, West Virginia
+0 @M1849@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1870 Census FGW Ford.jpg
+2 FORM jpg
+2 TITL 1870 US Census FGW Ford
+2 _TEXT Database online. Cove, Barbour, West Virginia, post office Philippi, r
+3 CONC oll 1684, page 30, image 60.
+0 @M1851@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1940-Frederick-Ford-WWII.jpg
+2 FORM jpg
+2 TITL 1940-Frederick-Ford-WWII Draft Card
+2 _TEXT The National Archives in St. Louis, Missouri; St. Louis, Missouri; WWI
+3 CONC I Draft Registration Cards for Virginia, 10/16/1940-03/31/1947; Recor
+3 CONC d Group: Records of the Selective Service System, 147; Box: 254
+0 @M1852@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1880 Census FGW Ford.jpg
+2 FORM jpg
+2 TITL 1880 US Census FGW Ford
+2 _TEXT Database online. Year: 1880; Census Place: Portland, Preston, West Vir
+3 CONC ginia; Roll: T9_1411; Family History Film: 1255411; Page: 281.1000; En
+3 CONC umeration District: 60; Image: .
+0 @M1859@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1940 Census Baker.jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: Euclid, Cuyahoga, Ohio; Roll: m-t0627-03052
+3 CONC ; Page: 3B; Enumeration District: 18-128
+0 @M1874@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1940 Census GD Saunders.jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: Hammond, Lake, Indiana; Roll: m-t0627-01066
+3 CONC ; Page: 15B; Enumeration District: 45-68
+0 @M1887@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1921-FGW Ford-grave-Register.jpg
+2 FORM jpg
+2 TITL 1921-FGW Ford-Burial Register
+2 _TEXT The National Cemetery Administration; Grafton National Cemetery, Buria
+3 CONC l Ledger, c. 1861-1992
+0 @M1892@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1921-FGW-Ford-grave.jpg
+2 FORM jpg
+2 TITL 1921-FGW-Ford-grave
+2 _TEXT Grafton National Cemetery; Section: F
+0 @M1907@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1918-Withers-Saunders WWI.jpg
+2 FORM jpg
+2 TITL 1918-Withers-Saunders-Army
+2 _TEXT The National Archives at College Park; College Park, Maryland; Recor
+3 CONC d Group Title: Records of the Office of the Quartermaster General, 177
+3 CONC 4-1985; Record Group Number: 92; Roll or Box Number: 580
+0 @M1910@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1930 Census Withers Saunders.jpg
+2 FORM jpg
+2 TITL 1930 US Census Withers Saunders
+0 @M1913@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1921-FGW Ford-Obit.jpg
+2 FORM jpg
+2 TITL 1921-FGW Ford-Obit
+0 @M1916@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1921-Frederick GW Ford-Probate.jpg
+2 FORM jpg
+2 TITL 1921-Frederick GW Ford-Probate
+2 _TEXT Probate of Wills, Personal Representatives; Author: West Virginia. Cou
+3 CONC nty Court (Taylor County); Probate Place: Taylor, West Virginia
+0 @M1918@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1921-FGW-Ford-Cemetery-app.jpg
+2 FORM jpg
+2 TITL 1921-FGW-Ford-Cemetery-app
+0 @M1921@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1971-Sylvia-Linn-Death.jpg
+2 FORM jpg
+2 TITL 1971-Sylvia-Linn-Death
+2 _TEXT Virginia Department of Health; Richmond, Virginia; Virginia Deaths, 19
+3 CONC 12-2014
+0 @M1923@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/U.S., Presbyterian Church Records, 1701-1970(9).jpg
+2 FORM jpg
+2 TITL U.S., Presbyterian Church Records, 1701-1970
+2 _TEXT Presbyterian Historical Society; Philadelphia, Pennsylvania; U.S., Pre
+3 CONC sbyterian Church Records, 1701-1907; Book Title: Register 1861-1883; A
+3 CONC ccession Number: Vault BX 9211 .M31539 F52 v.2
+0 @M1952@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1953 U.S. City Directories, 1822-1995(11).jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+0 @M1965@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1945-Dabney-Presbyterian Record.jpg
+2 FORM jpg
+2 TITL U.S., Presbyterian Church Records, 1701-1970
+2 _TEXT Presbyterian Historical Society; Philadelphia, Pennsylvania; U.S., Pre
+3 CONC sbyterian Church Records, 1701-1907; Accession Number: 10-0925e 43B Bo
+3 CONC x 3
+0 @M1975@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1930-Linn Ford-UWV.jpg
+2 FORM jpg
+2 TITL 1930-Linn-Ford-College-Yearbook
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: West Virginia Univer
+3 CONC sity; Year: 1930
+0 @M1978@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1934 Directory Saunders.jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+0 @M1988@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1965-Linn-Saunders-teacher-Yearbook.jpg
+2 FORM jpg
+2 TITL 1965-Linn-Saunders-teacher-Yearbook
+0 @M1993@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1975-Bette-Saunders-Death.jpg
+2 FORM jpg
+2 TITL 1975-Bette-Saunders-Death
+2 _TEXT Virginia Department of Health; Richmond, Virginia; Virginia Deaths, 19
+3 CONC 12-2014
+0 @M1994@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1941-Phil-Saunders-WWII.jpg
+2 FORM jpg
+2 TITL 1941-Philip-Saunders-WWII Draft Card
+2 _TEXT The National Archives in St. Louis, Missouri; St. Louis, Missouri; Dra
+3 CONC ft Registration Cards for Maryland, 10/16/1940 - 03/31/1947; Record Gr
+3 CONC oup: 147, Records of the Selective Service System; Box: 452
+0 @M1995@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1924 Saunders U.S. City Directories, 1822-1995(15).jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+0 @M2190@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Ford/up to 1919/1900-Fredrick-GW-Ford-1.jpg
+2 FORM jpg
+2 TITL 1900-Fredrick-GW-Ford
+0 @M2192@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Ford/up to 1919/1916-George-M-Ford-San Antonio-1.jpg
+2 FORM jpg
+2 TITL 1914-George-M-Ford
+0 @M2195@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1910-David-M-Linn.jpg
+2 FORM jpg
+2 TITL 1910-David-M-Linn
+0 @M2198@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1876-Margaret-Buchanon-Linn.jpg
+2 FORM jpg
+2 TITL 1876-Margaret-Buchanon-Linn
+0 @M2199@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1941-Walter-Saunders-family.jpg
+2 FORM jpg
+2 TITL 1941-Walter-Saunders-family
+0 @M2201@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1918-Davis-Saunders.jpg
+2 FORM jpg
+2 TITL 1918-Davis-Saunders
+0 @M2203@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1948-Janet-Saunders-Miller-12-24.jpg
+2 FORM jpg
+2 TITL 1948-Janet-Saunders-Miller-12-24
+0 @M2204@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1920-Annie-Linn-Ford.jpg
+2 FORM jpg
+2 TITL 1920-Annie-Linn-Ford
+0 @M2234@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1905-Welby-with-uncle-Merritt-Saunders-1.jpg
+2 FORM jpg
+2 TITL 1915ish-Welby-with-uncle-Merritt-Saunders
+0 @M2235@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/george-davis-saunders.jpg
+2 FORM jpg
+2 TITL george-davis-saunders
+0 @M3013@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1920 Census Geo Saunders.jpg
+2 FORM jpg
+2 TITL 1920 US Census George Saunders
+2 _DATE 1/8/2022 2:32:04 PM
+0 @M3108@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1892-Walter-Saunders-Birth.jpg
+2 FORM jpg
+2 TITL 1892-Walter-Saunders-Birth
+2 _TEXT Virginia Department of Health; Richmond, Virginia; Virginia, Births, 1
+3 CONC 864-2016
+0 @M3556@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1950 United States Federal Census(24).jpg
+2 FORM jpg
+2 TITL 1950 United States Federal Census
+2 _TEXT United States of America, Bureau of the Census; Washington, D.C.; Seve
+3 CONC nteenth Census of the United States, 1950; Record Group: Records of th
+3 CONC e Bureau of the Census, 1790-2007; Record Group Number: 29; Residenc
+3 CONC e Date: 1950; Home in 1950: Beckley, Raleigh, We
+0 @M3559@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1950 United States Federal Census(27).jpg
+2 FORM jpg
+2 TITL 1950 United States Federal Census
+2 _TEXT United States of America, Bureau of the Census; Washington, D.C.; Seve
+3 CONC nteenth Census of the United States, 1950; Record Group: Records of th
+3 CONC e Bureau of the Census, 1790-2007; Record Group Number: 29; Residenc
+3 CONC e Date: 1950; Home in 1950: Oakland, Alameda, Ca
+0 @M3584@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1950 United States Federal Census(38).jpg
+2 FORM jpg
+2 TITL 1950 United States Federal Census
+2 _TEXT United States of America, Bureau of the Census; Washington, D.C.; Seve
+3 CONC nteenth Census of the United States, 1950; Record Group: Records of th
+3 CONC e Bureau of the Census, 1790-2007; Record Group Number: 29; Residenc
+3 CONC e Date: 1950; Home in 1950: Dunbar, Kanawha, Wes
+0 @M4386@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1950 United States Federal Census(23).jpg
+2 FORM jpg
+2 TITL 1950 United States Federal Census
+2 _TEXT United States of America, Bureau of the Census; Washington, D.C.; Seve
+3 CONC nteenth Census of the United States, 1950; Record Group: Records of th
+3 CONC e Bureau of the Census, 1790-2007; Record Group Number: 29; Residenc
+3 CONC e Date: 1950; Home in 1950: Alexandria, Alexandr
+0 @M4387@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1950 United States Federal Census(66).jpg
+2 FORM jpg
+2 TITL 1950 United States Federal Census
+0 @M4388@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/U.S., World War I Draft Registration Cards, 1917-1918.jpg
+2 FORM jpg
+2 TITL U.S., World War I Draft Registration Cards, 1917-1918
+2 _TEXT Registration State: West Virginia; Registration County: Kanawha
+0 @M4389@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1920 Census Withers Saunders.jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: Dunbar, Kanawha, West Virginia; Roll: T625_1
+3 CONC 957; Page: 9A; Enumeration District: 136
+0 @M4584@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1864-FGW Ford - Cedar Creek Battle.jpg
+2 FORM jpg
+2 TITL 1864-FGW Ford - Cedar Creek Battle
+2 _DATE 11/11/2022 2:35:04 PM
+0 @M4585@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/2003 Ford Cemetery Inventory.jpg
+2 FORM jpg
+2 TITL 2003 Ford Cemetery Inventory
+2 _DATE 11/11/2022 3:14:59 PM
+0 @M4591@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1986 Frederick W Ford.jpg
+2 FORM jpg
+2 TITL Frederick W Ford
+2 _DATE 11/13/2022 1:55:59 PM
+0 @M4601@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1921 Fred GW Ford-grave.jpg
+2 FORM jpg
+2 TITL Fred GW Ford
+2 _DATE 11/13/2022 4:01:59 PM
+0 @M4612@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/Virginia, U.S., Death Records, 1912-2014(8).jpg
+2 FORM jpg
+2 TITL Virginia, U.S., Death Records, 1912-2014(8)
+2 _DATE 11/13/2022 4:01:59 PM
+0 @M4619@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1905-Welby-with-uncle-Merritt-Saunders-1.jpg
+2 FORM jpg
+2 TITL 1923-Welby-Saunders-Baker
+2 _DATE 8/20/2012 9:16:43 PM
+0 @M5028@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1919-Elizabeth-Bette-McCutcheon-Saunders.jpg
+2 FORM jpg
+2 TITL 1919-Elizabeth-Bette-McCutcheon-Saunders
+2 _DATE 7/16/25, 10:31:23 AM
+0 @M5030@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1923-Phil Saunders.jpg
+2 FORM jpg
+2 TITL 1923-Phil Saunders
+2 _DATE 7/16/25, 11:58:33 AM
+0 @M5032@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1931-Linn Saunders at party Charleston.jpg
+2 FORM jpg
+2 TITL 1931-Linn Saunders at party Charleston
+2 _DATE 8/3/25, 12:06:34 PM
+0 @M5033@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1942-Phil Saunders-WWII Card.jpg
+2 FORM jpg
+2 TITL 1942-Phil Saunders-WWII Card
+2 _DATE 8/3/25, 12:55:45 PM
+0 @M5045@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1927-Nettie-Straughan-Saunders-death.jpg
+2 FORM jpg
+2 TITL 1927-Nettie-Straughan-Saunders-death
+2 _DATE 10/8/25, 5:08:36 PM
+0 @M5046@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1927-Nettie-Straughan-Saunders-grave.jpg
+2 FORM jpg
+2 TITL 1927-Nettie-Straughan-Saunders-grave
+2 _DATE 10/10/25, 2:27:02 PM
+0 @M5050@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Ford/up to 1919/1897-GeorgeM,ReubenHW,JamesL-Ford-1.jpg
+2 FORM jpg
+2 TITL 1897-GeorgeM,ReubenHW,JamesL-Ford
+2 _DATE 1897
+2 _TEXT Location and date are approximated.
+0 @M5053@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1919-Elizabeth-Bette-McCutcheon-Saunders.jpg
+2 FORM jpg
+2 TITL 1910s-Elizabeth McCutcheon Saunders
+0 @M5063@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1922-RG Saunders-candidate.jpg
+2 FORM jpg
+2 _DATE 11/12/25, 12:59:44 PM
+0 @M5067@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1922-RG Saunders-candidate.jpg
+2 FORM jpg
+2 _DATE 11/12/25, 12:59:44 PM
+0 @M5068@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/Bluefield Daily Telegraph Bluefield West Virginia.jpg
+2 FORM jpg
+2 TITL Bluefield Daily Telegraph (Bluefield, West Virginia)
+2 _DATE 11/12/25, 12:59:44 PM
+0 @M5070@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/Bluefield Daily Telegraph Bluefield West Virginia(1).jpg
+2 FORM jpg
+2 TITL Bluefield Daily Telegraph (Bluefield, West Virginia)
+2 _DATE 11/12/25, 12:59:44 PM
+0 @M5084@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1880 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1880 United States Federal Census
+2 _DATE 11/21/25, 9:58:19 AM
+2 _TEXT Year: 1880; Census Place: Cove, Barbour, West Virginia; Roll: 1399; Pa
+3 CONC ge: 14c; Enumeration District: 069
+0 @M5095@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Ford/Linn-Buchanon/Wm Buchanon/1937-Annie LL Ford w Buchanon Family in Texas-1.JPG
+2 FORM jpg
+2 TITL 1937-Annie LL Ford w Buchanon Family in Texas
+2 _DATE 1937
+2 _TEXT Annie Laurie Linn Ford in Texas visiting her mother's family: Aunt Mar
+3 CONC tha Buchanan McNeil, Uncle William Buchanan, 1st cousins: John M McNei
+3 CONC l, Bertha Buchanan Brace, back left might be Elizabeth McNeil Williams
+3 CONC on.
+3 CONT From the archives of Linn Ford Saunders - suzfamilytree.net
+0 @M5096@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1937-John M McNeil-Annie-LL Ford-1st cuz-Texas-1.JPG
+2 FORM jpg
+2 TITL 1937-John M McNeil-Annie-LL Ford-1st cuz-Texa
+2 _DATE 1937
+2 _TEXT John M McNeil with his maternal 1st cousin Annie Laurie Linn Ford. Fro
+3 CONC m the archives of Linn Ford Saunders - suzfamilytree.net
+0 @M5176@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/Virginia US Birth Registers 18531911.jpg
+2 FORM jpg
+2 TITL Virginia, U.S., Birth Registers, 1853-1911
+2 _DATE 4/30/26, 3:47:06 PM
+2 _TEXT Library of Virginia; Richmond, Va, Usa; Virginia, Birth Registers, 185
+3 CONC 3-1911
+0 @M5177@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/US Family History Books.jpg
+2 FORM jpg
+2 TITL U.S., Family History Books
+2 _DATE 4/30/26, 3:47:06 PM
+2 _TEXT Genealogies of Virginia Families From the William and Mary College Qua
+3 CONC rterly Vol Iii Heale-Muscoe
+0 @M5180@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media/1880s-Jemima-Hebb.jpg
+2 FORM jpg
+2 TITL 1880s-Jemima-Hebb
+2 _DATE 11/7/26, 3:53:42 PM
+0 @N4310@ NOTE
+1 CONC DAR: number 337020, Maj. Wm. Haymond Chapter-Fairmont.
+0 @N4347@ NOTE
+1 CONC Believe died of cancer. !BIRTH: family papers, while parents were on v
+2 CONC isit "home"; letter from dau., Annette. !SPOUSE1: Fern, per Annette, m
+2 CONC . 7/22/21, divorce: 1950-55 Moved to Oakland, CA. Worked for railroad
+2 CONC . No issue from second marriage: Mary.
+0 @N4662@ NOTE
+1 CONC George attended the rural schools in his district and Fairmont State N
+2 CONC ormal School; A.B., West Virginia State University, 1892 and Law degre
+2 CONC e, LL. B in 1896.
+2 CONT He had a commendable military career. He was a Cadet at West Virgini
+2 CONC a University, 1887-92, graduating 1st lieutenant. 191, a Major in th
+2 CONC e Adjutant General's Department, 1914. He then resigned major's commis
+2 CONC sion, 1916, to accept a commission of Captain in the 2nd West Virgini
+2 CONC a Infantry; and answered the call for Mexican Border service, April 19
+2 CONC 17, with the 38th division; discharged April 25, 1919. He served fro
+2 CONC m 1917-1919 during WWI, saw 6 months service overseas in command of Co
+2 CONC mpany B, 258th Infantry, 19th Division, which was on duty at Stenay wh
+2 CONC en the Armistice was signed. He then accompanied this division as par
+2 CONC t of the Army of Occupation to the Valley of the Moselle and later tra
+2 CONC nsferred to the 37th Division for homecoming commanding Company M, 145
+2 CONC th Infantry.
+2 CONT He was a Republican Mason (Knight Templar), and a Methodist. He was al
+2 CONC so an Honorary member of Spanish War Veterans; American Legion; Disabl
+2 CONC ed War Veterans; Veterans of Foreign Wars, Sigma Chi, and Scabbard an
+2 CONC d Blade.
+2 CONT He then had a long and distinguished career as an educator in West Vir
+2 CONC ginia. He was Principal of the Terra Alta graded schools, Preston Coun
+2 CONC ty; Principal of Grafton High School; Principal of Concord Normal Sch
+2 CONC ool; Head of the Department of Economics and American History, Marsha
+2 CONC ll College; Superintendent of Bluefield Schools; Superintendent of Bro
+2 CONC wn's Creek District Schools, McDowell County; Superintendent of the Du
+2 CONC nbar Schools; He was elected Superintendent of Free Schools in 1920 fo
+2 CONC r all of West Virginia; re-elected in 1924. President of the West Virg
+2 CONC inia State Education Association in 1921.
+0 @N4666@ NOTE
+1 CONC !MILITARY: US Army #1835926, Wagoneer, Battery A, 315th Field Art.; di
+2 CONC scharged. 10 June 1919 for medical reasons - slightly wounded by shel
+2 CONC l splinters at Montfaucon Oct. 6, 1918.
+2 CONT AKA: Uncle Davis. Lived in Dunbar, West Virginia until 1966
+0 @N4699@ NOTE
+1 CONC Documents include  from family bible, 1917 journal by FGWF which inclu
+2 CONC des brief description of his life-to-date.
+2 CONT G SERVICE.--At New Creek Station October 18-December 22. 1862. Moved t
+2 CONC o Sir John's Run December 22, and duty there guarding Baltimore & Ohi
+2 CONC o Railroad until June 16, 1863. Moved to New Creek June 16, thence t
+2 CONC o Cumberland, Md., and to Hancock, Md., July 4. To Fairview July 11, a
+2 CONC nd to Williamsport, Md., July 14. Operations against Lee until July 28
+2 CONC . At Mechanicsburg Gap, near Romney, August 5-November 5, and at Alpin
+2 CONC e until April, 1864. Bath March 19 Crook's Expedition against Virgini
+2 CONC a & Tennessee Railroad May 2-19. Battle of Cloyd's Mountain May 9. Ne
+2 CONC w River Bridge May 10. Cove Mountain or Grassy Lick, near Wytheville
+2 CONC , May 10. Salt Pond Mountain and Gap Mountain May 12-13. Meadow Bluf
+2 CONC f May 19. Hunter's Expedition to Lynchburg May 26-July 1. Middlebroo
+2 CONC k and Brownsville June 10. Lexington June 11-12. Otter Creek, near Lib
+2 CONC erty, June 16. Diamond Hill June 17. Lynchburg June 17-18. Retreat t
+2 CONC o Charleston June 18-July 1. Buford's Gap June 20. About Salem June 21
+2 CONC . Moved to Shenandoah Valley July 12-15. Snicker's Ferry or Gap July 1
+2 CONC 7-18. Battle of Kernstown - Winchester July 23-24. Sheridan's Shenando
+2 CONC ah Valley Campaign August 6-November 28. Berryville September 3. Battl
+2 CONC e of Opequan, Winchester, September 19. Fisher's Hill September 22. Sk
+2 CONC irmish at Cedar Creek October 13. Battle of Cedar Creek October 19. Du
+2 CONC ty at Camp Russell and in the Shenandoah Valley until December. Move
+2 CONC d to Washington, D.C., thence to Bermuda Hundred, Va., December 19-23
+2 CONC . Duty in the trenches before Richmond, Va., until March, 1865. Appoma
+2 CONC ttox Campaign March 28-April 9. Moved to front of Petersburg March 28-
+2 CONC 29. Hatcher's Run March 30-31 and April 1. Fall of Petersburg April 2
+2 CONC . Pursuit of Lee April 3-9. Rice's Station April 6. Appomattox Court H
+2 CONC ouse April 9. Surrender of Lee and his army. March to Lynchburg Apri
+2 CONC l 12-15, then to Farmville and Burkesville Junction April 15-19, and t
+2 CONC o Richmond, Va., April 22-25. Duty near Richmond until June. Mustere
+2 CONC d out June 14, 1865.
+2 CONT Burial Request letter to Jacob N. Yates on file. section f #1296. 15 R
+2 CONC egiment West Virginia, County F. gar Civil War FGW Ford, Capt. 183
+2 CONC 3 - 1921
+2 CONT Home 1916 was 331 Warder Ave. Grafton, Standing 5/91, picture taken.
+0 @N4718@ NOTE
+1 CONC Grave marker in family plot (M Eng (JG) 20 Engineers, WWI, dates), Kno
+2 CONC wn as Withers, no issue by spouse, illegitimate children rumored.
+0 @N4733@ NOTE
+1 CONC DWG (writer) has vacationed at her home as child.
+0 @N4878@ NOTE
+1 CONC The Ford headstone is framed by two overgrown evergreens that obscur
+2 CONC e the name. Buried there are: Geo M., Annie LL Ford; Harry Hall, Marga
+2 CONC ret Ford Hall. Linn Ford Saunders, Phil Saunders share a marker - Phi
+2 CONC l with a Masonic symbol; Linn with a Phi Beta Kappa one.
+0 @N4879@ NOTE
+1 CONC The family left Baltimore because of a conflict Phil’s job at DuPont
+2 CONC . He felt he should have a higher level, engineering job b/c of his de
+2 CONC gree in it, and his clearance was much higher than his coworkers.
+0 @N4880@ NOTE
+1 CONC While Linn Ford Saunders resided on “The Ridge" in Flat Top, WV, her h
+2 CONC usband, Phil’s, ashes were in a small in-ground vault on her property
+2 CONC . The urn returned with her when she moved back to Cleveland. It event
+2 CONC ually buried in the Ford Family section. The Ford headstone is frame
+2 CONC d by two overgrown evergreens that obscure the name. Linn Ford Saunder
+2 CONC s, Phil Saunders share a marker - Phil with a Masonic symbol; Linn wit
+2 CONC h a Phi Beta Kappa one.
+0 @N4888@ NOTE
+1 CONC The Ford headstone is framed by two overgrown evergreens that obscur
+2 CONC e the name. Buried there are: Geo M., Annie LL Ford; Harry Hall, Marga
+2 CONC ret Ford Hall. Linn Ford Saunders, Phil Saunders share a marker.
+0 @N4889@ NOTE
+1 CONC The Ford headstone is framed by two overgrown evergreens that obscur
+2 CONC e the name. Buried there are: Geo M., Annie LL Ford; Harry Hall, Marga
+2 CONC ret Ford Hall. Linn Ford Saunders, Phil Saunders share a marker.
+0 @N4892@ NOTE
+1 CONC The Ford headstone is framed by two overgrown evergreens that obscur
+2 CONC e the name. Buried there are: Geo M., Annie LL Ford; Harry Hall, Marga
+2 CONC ret Ford Hall. Linn Ford Saunders, Phil Saunders share a marker.
+0 TRLR

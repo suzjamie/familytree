@@ -1,0 +1,37 @@
+{
+  "site_title": "Suzanne's Family Tree",
+  "tagline": "Tracing my ancestors and their stories through time.",
+  "intro": "Welcome. This site collects the people, places and photographs from my family research.\n\nIf you spot a mistake or have a photo to add, please get in touch.",
+  "footer_note": "Corrections and additions are welcome.",
+  "contact_email": "suzjamie55@gmail.com",
+  "domain": "",
+  "copyright_text": "suzfamilytree.net",
+ "logo": "images/tree.png",
+ "gedcom": [
+    "paternal.ged",
+    "maternal.ged"
+  ],
+  "media_dir": [
+    "/Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media",
+    "/Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/Suzanne Tree Media"
+  ],
+  "output_dir": "docs",
+  "home_person": "",
+  "pedigree_generations": 4,
+  "descendant_generations": 3,
+  "web_image_px": 1600,
+  "thumb_px": 480,
+  "max_images_per_person": 0,
+  "exclude_images": [],
+  "hide_living": false,
+  "new_tab_links": "external",
+  "grandparents": [
+    "Philip Arthur Saunders",
+    {
+      "person": "Annie Laurie Linn Ford",
+      "label": "Linn Ford"
+    },
+    "Robert Weiss",
+    "Rose Hecht"
+  ]
+}

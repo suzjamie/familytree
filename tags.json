@@ -1,0 +1,185 @@
+{
+ "photos": {
+  "1925-blau-portrait-vienna.jpg": [
+   {
+    "id": "@I10809_2@",
+    "name": "Hildegard 'Hilde' E Weiss",
+    "x": 0.2915,
+    "y": 0.2409,
+    "r": 0.03
+   },
+   {
+    "id": "@I12112_2@",
+    "name": "Robert Weiss",
+    "x": 0.3657,
+    "y": 0.197,
+    "r": 0.03
+   },
+   {
+    "id": "@I12223_2@",
+    "name": "Edmund Blau",
+    "x": 0.5278,
+    "y": 0.2036,
+    "r": 0.03
+   },
+   {
+    "id": "@I10634_2@",
+    "name": "Samuel Blau",
+    "x": 0.495,
+    "y": 0.4012,
+    "r": 0.03
+   },
+   {
+    "id": "@I10584_2@",
+    "name": "Betti Borbola Fuchs",
+    "x": 0.6261,
+    "y": 0.3968,
+    "r": 0.03
+   },
+   {
+    "id": "@I10680_2@",
+    "name": "Richard Blau",
+    "x": 0.564,
+    "y": 0.0631,
+    "r": 0.03
+   },
+   {
+    "id": "@I10561_2@",
+    "name": "Josef Blau",
+    "x": 0.6295,
+    "y": 0.2409,
+    "r": 0.03
+   },
+   {
+    "id": "@I12468_2@",
+    "name": "Hermine 'Mina' Blau",
+    "x": 0.9417,
+    "y": 0.3222,
+    "r": 0.03
+   },
+   {
+    "id": "@I10657_2@",
+    "name": "Ilonka 'Helen' Blau",
+    "x": 0.4312,
+    "y": 0.511,
+    "r": 0.03
+   },
+   {
+    "id": "@I12847_2@",
+    "name": "Josef 'Joshi' Blau",
+    "x": 0.7175,
+    "y": 0.3046,
+    "r": 0.03
+   },
+   {
+    "id": "@I1989_2@",
+    "name": "Anna Maria Schepan",
+    "x": 0.4812,
+    "y": 0.1004,
+    "r": 0.03
+   },
+   {
+    "id": "@I12845_2@",
+    "name": "Scheindel 'Charlotte' Klinghoffer",
+    "x": 0.6692,
+    "y": 0.1026,
+    "r": 0.03
+   },
+   {
+    "id": "@I10553_2@",
+    "name": "Teresa Feldman",
+    "x": 0.7744,
+    "y": 0.2212,
+    "r": 0.03
+   },
+   {
+    "id": "@I12846_2@",
+    "name": "Kurt Blau",
+    "x": 0.0794,
+    "y": 0.3729,
+    "r": 0.0271
+   },
+   {
+    "id": "@I12848_2@",
+    "name": "Siegfried Blau",
+    "x": 0.1161,
+    "y": 0.4438,
+    "r": 0.0297
+   },
+   {
+    "id": "@I10688_2@",
+    "name": "Erika Blau",
+    "x": 0.7115,
+    "y": 0.3941,
+    "r": 0.0294
+   },
+   {
+    "id": "@I10944_2@",
+    "name": "Oskar Blau",
+    "x": 0.391,
+    "y": 0.0928,
+    "r": 0.0264
+   },
+   {
+    "id": "@I10995_2@",
+    "name": "Edith Weiss",
+    "x": 0.4255,
+    "y": 0.2289,
+    "r": 0.0291
+   },
+   {
+    "id": "@I12208_2@",
+    "name": "Ernestine Blau",
+    "x": 0.2173,
+    "y": 0.3755,
+    "r": 0.033
+   }
+  ],
+  "1930-erika-teres-ilonka-josef-blau.jpg": [
+   {
+    "id": "@I10561_2@",
+    "name": "Josef Blau",
+    "x": 0.7416,
+    "y": 0.1948,
+    "r": 0.03
+   },
+   {
+    "id": "@I10657_2@",
+    "name": "Ilonka 'Helen' Blau",
+    "x": 0.6455,
+    "y": 0.5395,
+    "r": 0.03
+   },
+   {
+    "id": "@I10553_2@",
+    "name": "Teresa Feldman",
+    "x": 0.5029,
+    "y": 0.32,
+    "r": 0.03
+   }
+  ],
+  "1930-spring-cuz-josef, aunt charlotte blau, robt-weiss-unk, vienna.jpg": [
+   {
+    "id": "@I12847_2@",
+    "name": "Josef 'Joshi' Blau",
+    "x": 0.3769,
+    "y": 0.1575,
+    "r": 0.03
+   },
+   {
+    "id": "@I12112_2@",
+    "name": "Robert Weiss",
+    "x": 0.5992,
+    "y": 0.0873,
+    "r": 0.03
+   },
+   {
+    "id": "@I12845_2@",
+    "name": "Scheindel 'Charlotte' Klinghoffer",
+    "x": 0.4814,
+    "y": 0.1948,
+    "r": 0.03
+   }
+  ]
+ }
+}

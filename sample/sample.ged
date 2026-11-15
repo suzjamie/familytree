@@ -1,0 +1,272 @@
+0 HEAD
+1 SOUR FTM
+2 NAME Family Tree Maker for Windows
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @M1@ OBJE
+1 FILE C:\Users\Sample\Pictures\Family\hartwell_farm.jpg
+2 FORM jpg
+1 TITL The Hartwell farm near Ashford, about 1900
+0 @S1@ SOUR
+1 TITL 1900 U.S. Federal Census, Kent County
+0 @S2@ SOUR
+1 TITL Kent County marriage register, 1884
+0 @N1@ NOTE Thomas kept a daily diary from 1879 until his death. The diaries are held by his great-grandson.
+1 CONT
+1 CONT The 1884 entry reads only: "Married today. Rain after."
+0 @I1@ INDI
+1 NAME Thomas /Hartwell/
+2 GIVN Thomas
+2 SURN Hartwell
+1 SEX M
+1 BIRT
+2 DATE 3 MAR 1858
+2 PLAC Ashford, Kent, England
+1 EMIG
+2 DATE 1881
+2 PLAC Liverpool, England
+1 IMMI
+2 DATE 1881
+2 PLAC New York, New York, USA
+1 OCCU Farmer
+2 DATE ABT 1900
+2 PLAC Kent County, Delaware, USA
+2 SOUR @S1@
+3 PAGE Sheet 4B, line 22
+1 DEAT
+2 DATE 11 NOV 1931
+2 PLAC Dover, Delaware, USA
+1 BURI
+2 PLAC Dover Cemetery, Delaware, USA
+1 NOTE @N1@
+1 OBJE
+2 FILE C:\Users\Sample\Pictures\Family\portraits\thomas_hartwell.jpg
+3 FORM jpg
+2 TITL Thomas Hartwell, about 1895
+2 _PRIM Y
+1 OBJE @M1@
+1 OBJE
+2 FILE C:\Users\Sample\Pictures\Family\missing_photo.jpg
+2 TITL This photo is not in the media folder
+1 FAMC @F7@
+1 FAMS @F3@
+0 @I2@ INDI
+1 NAME Eleanor /Marsh/
+1 SEX F
+1 BIRT
+2 DATE 14 JUN 1861
+2 PLAC Canterbury, Kent, England
+1 DEAT
+2 DATE 2 FEB 1940
+2 PLAC Dover, Delaware, USA
+1 OBJE
+2 FILE C:\Users\Sample\Pictures\Family\portraits\eleanor_marsh.jpg
+2 TITL Eleanor Marsh Hartwell
+2 _PRIM Y
+1 OBJE @M1@
+1 FAMS @F3@
+0 @I3@ INDI
+1 NAME William /Hartwell/
+1 SEX M
+1 BIRT
+2 DATE 9 SEP 1885
+2 PLAC Dover, Delaware, USA
+1 OCCU Schoolteacher
+2 PLAC Dover, Delaware, USA
+1 DEAT
+2 DATE 1962
+2 PLAC Dover, Delaware, USA
+1 OBJE @M1@
+1 OBJE
+2 FILE C:\Users\Sample\Pictures\Family\reunion_1962.jpg
+2 TITL Hartwell family reunion, 1962
+1 FAMC @F3@
+1 FAMS @F1@
+0 @I4@ INDI
+1 NAME Clara /Hartwell/
+1 SEX F
+1 BIRT
+2 DATE ABT 1888
+2 PLAC Dover, Delaware, USA
+1 DEAT
+2 DATE 1970
+1 OBJE
+2 FILE C:\Users\Sample\Pictures\Family\reunion_1962.jpg
+2 TITL Hartwell family reunion, 1962
+1 FAMC @F3@
+1 FAMS @F6@
+0 @I5@ INDI
+1 NAME Samuel /Bellamy/
+1 SEX M
+1 BIRT
+2 DATE 1860
+2 PLAC Wilmington, Delaware, USA
+1 DEAT
+2 DATE 1925
+1 FAMS @F4@
+0 @I6@ INDI
+1 NAME Ruth /Cobb/
+1 SEX F
+1 BIRT
+2 DATE 1864
+1 DEAT
+2 DATE 1949
+1 FAMS @F4@
+0 @I7@ INDI
+1 NAME Margaret /Bellamy/
+1 SEX F
+1 BIRT
+2 DATE 22 APR 1890
+2 PLAC Wilmington, Delaware, USA
+1 DEAT
+2 DATE 1975
+2 PLAC Dover, Delaware, USA
+1 OBJE
+2 FILE C:\Users\Sample\Pictures\Family\margaret_bellamy.png
+2 TITL Margaret Bellamy as a young woman
+2 _PRIM Y
+1 FAMC @F4@
+1 FAMS @F1@
+0 @I8@ INDI
+1 NAME George /Hartwell/
+1 SEX M
+1 BIRT
+2 DATE 1915
+2 PLAC Dover, Delaware, USA
+1 MILI U.S. Army, European Theater
+2 DATE 1943
+1 DEAT
+2 DATE 1989
+2 PLAC Dover, Delaware, USA
+1 OBJE
+2 FILE C:\Users\Sample\Pictures\Family\portraits\george_hartwell_1944.jpg
+2 TITL George in uniform, 1944
+2 _PRIM Y
+1 FAMC @F1@
+1 FAMS @F2@
+0 @I9@ INDI
+1 NAME Dorothy /Hartwell/
+1 SEX F
+1 BIRT
+2 DATE 1918
+1 DEAT
+2 DATE 2004
+1 FAMC @F1@
+0 @I10@ INDI
+1 NAME Alice /Turner/
+1 SEX F
+1 BIRT
+2 DATE 1920
+2 PLAC Newark, Delaware, USA
+1 DEAT
+2 DATE 2001
+1 FAMS @F2@
+0 @I11@ INDI
+1 NAME Robert /Hartwell/
+1 SEX M
+1 BIRT
+2 DATE 1946
+2 PLAC Dover, Delaware, USA
+1 FAMC @F2@
+1 FAMS @F5@
+0 @I12@ INDI
+1 NAME Susan /Hartwell/
+1 SEX F
+1 BIRT
+2 DATE 1949
+1 DEAT
+2 DATE 2019
+1 FAMC @F2@
+0 @I13@ INDI
+1 NAME Linda /Reyes/
+1 SEX F
+1 BIRT
+2 DATE 1950
+1 FAMS @F5@
+0 @I14@ INDI
+1 NAME Emma /Hartwell/
+1 SEX F
+1 BIRT
+2 DATE 1978
+1 FAMC @F5@
+0 @I15@ INDI
+1 NAME Henry /Doyle/
+1 SEX M
+1 BIRT
+2 DATE 1884
+1 DEAT
+2 DATE 1950
+1 FAMS @F6@
+0 @I16@ INDI
+1 NAME Frank /Doyle/
+1 SEX M
+1 BIRT
+2 DATE 1912
+1 DEAT
+2 DATE 1980
+1 FAMC @F6@
+0 @I17@ INDI
+1 NAME John /Hartwell/
+1 SEX M
+1 BIRT
+2 DATE 1830
+2 PLAC Ashford, Kent, England
+1 DEAT
+2 DATE 1899
+2 PLAC Ashford, Kent, England
+1 FAMS @F7@
+0 @I18@ INDI
+1 NAME Mary /Pike/
+1 SEX F
+1 BIRT
+2 DATE 1834
+2 PLAC Ashford, Kent, England
+1 DEAT
+2 DATE 1905
+1 FAMS @F7@
+0 @F1@ FAM
+1 HUSB @I3@
+1 WIFE @I7@
+1 CHIL @I8@
+1 CHIL @I9@
+1 MARR
+2 DATE 5 JUN 1912
+2 PLAC Wilmington, Delaware, USA
+0 @F2@ FAM
+1 HUSB @I8@
+1 WIFE @I10@
+1 CHIL @I11@
+1 CHIL @I12@
+1 MARR
+2 DATE 1945
+0 @F3@ FAM
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I3@
+1 CHIL @I4@
+1 MARR
+2 DATE 7 JUL 1884
+2 PLAC Canterbury, Kent, England
+2 SOUR @S2@
+1 OBJE
+2 FILE C:\Users\Sample\Pictures\Family\wedding_1884.jpg
+2 TITL Wedding of Thomas Hartwell and Eleanor Marsh, 1884
+0 @F4@ FAM
+1 HUSB @I5@
+1 WIFE @I6@
+1 CHIL @I7@
+0 @F5@ FAM
+1 HUSB @I11@
+1 WIFE @I13@
+1 CHIL @I14@
+0 @F6@ FAM
+1 HUSB @I15@
+1 WIFE @I4@
+1 CHIL @I16@
+0 @F7@ FAM
+1 HUSB @I17@
+1 WIFE @I18@
+1 CHIL @I1@
+0 TRLR
