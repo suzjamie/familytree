@@ -135,6 +135,43 @@
     "r": 0.033
    }
   ],
+  "1913-jochil_hecht-family.jpg": [
+   {
+    "id": "@I11906_2@",
+    "name": "Jochil Hecht",
+    "x": 0.6314,
+    "y": 0.1515,
+    "r": 0.0671
+   },
+   {
+    "id": "@I10880_2@",
+    "name": "Adele Schapira",
+    "x": 0.8337,
+    "y": 0.356,
+    "r": 0.0799
+   },
+   {
+    "id": "@I12024_2@",
+    "name": "Clara Hecht",
+    "x": 0.3066,
+    "y": 0.2333,
+    "r": 0.0592
+   },
+   {
+    "id": "@I12352_2@",
+    "name": "Rose Hecht",
+    "x": 0.1793,
+    "y": 0.4568,
+    "r": 0.0638
+   },
+   {
+    "id": "@I12292_2@",
+    "name": "Sigfried 'Fred' Hecht",
+    "x": 0.3777,
+    "y": 0.5041,
+    "r": 0.0659
+   }
+  ],
   "1930-erika-teres-ilonka-josef-blau.jpg": [
    {
     "id": "@I10561_2@",
@@ -156,6 +193,13 @@
     "x": 0.5029,
     "y": 0.32,
     "r": 0.03
+   },
+   {
+    "id": "@I10688_2@",
+    "name": "Erika Blau",
+    "x": 0.2819,
+    "y": 0.2997,
+    "r": 0.0662
    }
   ],
   "1930-spring-cuz-josef, aunt charlotte blau, robt-weiss-unk, vienna.jpg": [
@@ -179,6 +223,70 @@
     "x": 0.4814,
     "y": 0.1948,
     "r": 0.03
+   }
+  ],
+  "1901-netti-robert-saunders.jpg": [
+   {
+    "id": "@I12317@",
+    "name": "Annette Campbell 'Nettie' Straughan",
+    "x": 0.2785,
+    "y": 0.4094,
+    "r": 0.1184
+   },
+   {
+    "id": "@I12354@",
+    "name": "Robert George Saunders",
+    "x": 0.6845,
+    "y": 0.3556,
+    "r": 0.1309
+   }
+  ],
+  "1940-hilda weiss-jack-herman.jpg": [
+   {
+    "id": "@I10809_2@",
+    "name": "Hildegard 'Hilde' E Weiss",
+    "x": 0.3651,
+    "y": 0.3157,
+    "r": 0.0893
+   },
+   {
+    "id": "@I2244_2@",
+    "name": "Jacob Herman",
+    "x": 0.6354,
+    "y": 0.2811,
+    "r": 0.0966
+   }
+  ],
+  "1947-laura hecht-marvin-rosenfeld-wedding.jpg": [
+   {
+    "id": "@I11931_2@",
+    "name": "Joseph Elliot Hecht",
+    "x": 0.23,
+    "y": 0.1792,
+    "r": 0.0565
+   },
+   {
+    "id": "@I12140_2@",
+    "name": "Anna Rubinoff",
+    "x": 0.3862,
+    "y": 0.2388,
+    "r": 0.0498
+   }
+  ],
+  "1962-sadie-charlie-bodek.jpg": [
+   {
+    "id": "@I12029_2@",
+    "name": "Sadie Hecht",
+    "x": 0.3064,
+    "y": 0.208,
+    "r": 0.0982
+   },
+   {
+    "id": "@I12028_2@",
+    "name": "Charles Bodek",
+    "x": 0.6047,
+    "y": 0.3023,
+    "r": 0.0908
    }
   ]
  }

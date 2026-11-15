@@ -7,7 +7,7 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 DATE 14 NOV 2026
+1 DATE 15 NOV 2026
 1 CHAR UTF-8
 1 FILE maternal.ged
 1 SUBM @SUBM@
@@ -1008,17 +1008,11 @@
 0 @I10800@ INDI
 1 NAME Oscar /Blau/
 1 SEX M
-1 BIRT street renamed (see note) #166. https://www.familysearch.org/ark:/6190
-2 CONC 3/3:1:3Q9M-CS6M-TH8P?i=477&amp;cat=196164
+1 BIRT #166. https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS6M-TH8P?i=477
+2 CONC &amp;cat=196164
 2 DATE 24 MAR 1934
 2 PLAC 1200 Friedrich-Engels-Platz 9-16-18, Vienna, Austria
-2 NOTE @N4945@
 2 OBJE @M2422@
-1 RESI Street on Nazi records was Pater Abel Platz 9 but was renamed. See Not
-2 CONC e
-2 DATE 30 JUN 1938
-2 PLAC 1200 Friedrich-Engels-Platz 9-16-18, Vienna, Austria
-2 NOTE @N4946@
 1 EVEN https://www.myheritage.com/research/record-11018-483491/%D7%90%D7%95%D
 2 CONC 7%A1%D7%A7%D7%A8-%D7%91%D7%9C%D7%90%D7%95-in-israel-immigration-lists
 2 TYPE Arrival
@@ -1030,32 +1024,34 @@
 2 OBJE @M6387@
 1 EMIG per Austrian records obtained in the 1990s.
 2 DATE ABT 8 AUG 1938
-2 PLAC Brussels, Brussels (Bruxelles), Belgium
+2 PLAC Brussels (Bruxelles), Belgium
 3 MAP
 4 LATI N50.833340
 4 LONG E4.333333
-1 EVEN per Nazi records. https://www.digital.wienbibliothek.at/wbrobv/periodi
-2 CONC cal/pageview/271268
+1 RESI Evicted by Nazis. https://www.digital.wienbibliothek.at/wbrobv/periodi
+2 CONC cal/pageview/271268. https://www.digital.wienbibliothek.at/wbrobv/peri
+2 CONC odical/pageview/271268
+2 DATE BET 24 MAR 1934 AND 30 JUN 1938
+2 PLAC 1200 Friedrich-Engels-Platz 9-16-18, Vienna, Austria
+2 OBJE @M5538@
+2 OBJE @M5537@
+2 OBJE @M5539@
+1 EVEN per Nazi records.
 2 TYPE Nazi persecution
 2 DATE 16 MAY 1938
 2 PLAC 1200 Friedrich-Engels-Platz 9-16-18, Vienna, Austria
+2 OBJE @M6314@
+2 OBJE @M6315@
+2 OBJE @M6316@
 1 DEAT
 2 DATE 30 SEP 2026
 2 PLAC Ra`ananna, Hamerkaz, Israel
 3 MAP
 4 LATI N32.180832
 4 LONG E34.867222
-1 RESI Address per Vienna Phone book. Evicted by Nazis on 30 Jun 1938
-2 DATE 29 JUN 1938
-2 PLAC 1200 Friedrich-Engels-Platz 9-16-18, Vienna, Austria
-2 NOTE @N4952@
-2 OBJE @M5537@
-1 RESI Street was renamed/#'d. See note. https://www.digital.wienbibliothek.a
-2 CONC t/wbrobv/periodical/pageview/271268
-2 DATE 1936
-2 PLAC 1200 Friedrich-Engels-Platz 9-16-18, Vienna, Austria
-2 NOTE @N4957@
-2 OBJE @M5538@
+1 RESI https://www.memento.wien/person/51674/
+2 DATE 1 JUL 1938
+2 PLAC 1020 Schweidlgasse 13-7, Vienna, Austria
 1 _PHOTO @M555@
 1 OBJE @M2422@
 1 OBJE @M5537@
@@ -1413,10 +1409,10 @@
 2 SOUR @S128@
 2 SOUR @S128@
 2 OBJE @M949@
-1 RESI Occupation: Agent = Sales Agent. https://www.digital.wienbibliothek.at
-2 CONC /wbrobv/periodical/pageview/147835. https://www.digital.wienbibliothek
-2 CONC .at/wbrobv/periodical/pageview/181724. https://www.digital.wienbibliot
-2 CONC hek.at/wbrobv/periodical/pageview/2380644
+1 RESI In marriage record. Occupation: Agent = Sales Agent. https://www.digit
+2 CONC al.wienbibliothek.at/wbrobv/periodical/pageview/147835. https://www.di
+2 CONC gital.wienbibliothek.at/wbrobv/periodical/pageview/181724. https://www
+2 CONC .digital.wienbibliothek.at/wbrobv/periodical/pageview/2380644
 2 DATE BET 1914 AND 1930
 2 PLAC 1200 Rauscherstrasse 6, Apt. 23, Vienna, Austria
 2 SOUR @S127@
@@ -1458,8 +1454,6 @@
 1 RESI Per Edmund's birth record.
 2 DATE 8 JAN 1894
 2 PLAC 1020, Kleine Pfarrgasse 29, Vienna, Austria
-1 RESI per marriage record
-2 PLAC 1200 Rauscherstrasse 6, Apt. 23, Vienna, Austria
 1 RESI A witness at 1st cousin, Maragarethe Schwarz' wedding. Occupation: Ver
 2 CONC treter = Sales Agent/
 2 DATE 14 SEP 1919
@@ -1767,11 +1761,6 @@
 3 PAGE Year: 1940; Census Place: Cleveland, Cuyahoga, Ohio; Roll: T627_3233; Page: 61A; Enumeration District: 92-745
 3 DATA
 4 TEXT Record for Jochil Hecht
-1 RESI per son, Sigfried's ship manifest
-2 DATE 7 NOV 1933
-2 PLAC 1020, Othmargasse 44, Vienna, Austria
-2 SOUR @S50@
-3 PAGE Microfilm Serial: T715, 1897-1957; Line: 8; Page Number: 116
 1 BURI Section K Row 5
 2 DATE 22 APR 1952
 2 PLAC Glenville Cemetery, 13009 Shaw Ave, Cleveland, Cuyahoga, Ohio
@@ -1824,10 +1813,16 @@
 3 DATA
 4 TEXT Record for Jochil Hecht
 2 OBJE @M424@
+1 RESI Age: 72; Marital Status: Widowed; Relation to Head of House: Father-in
+2 CONC -law
+2 DATE 1 APR 1940
+2 PLAC 3264 East 139th St, Cleveland, Cuyahoga, Ohio
+2 SOUR @S18@
+3 PAGE Year: 1940; Census Place: Cleveland, Cuyahoga, Ohio; Roll: T627_3233; Page: 61A; Enumeration District: 92-745
+3 DATA
+4 TEXT Record for Jochil Hecht
+2 OBJE @M2898@
 1 FSID LT28-8QP
-1 ADDR per Adele's death record
-2 DATE 8 OCT 1928
-2 PLAC 1020, Othmargasse 44, Vienna, Austria
 1 DEAT
 2 DATE 20 APR 1952
 2 PLAC 3264 East 139th St, Cleveland, Cuyahoga, Ohio
@@ -1835,30 +1830,18 @@
 2 SOUR @S128@
 2 SOUR @S128@
 2 OBJE @M6446@
-1 RESI Age: 72; Marital Status: Widowed; Relation to Head of House: Father-in
-2 CONC -law
-2 DATE 1 APR 1940
-2 PLAC Cleveland, Cuyahoga, Ohio
-3 MAP
-4 LATI N41.499496
-4 LONG W81.695412
-2 SOUR @S18@
-3 PAGE Year: 1940; Census Place: Cleveland, Cuyahoga, Ohio; Roll: T627_3233; Page: 61A; Enumeration District: 92-745
-3 DATA
-4 TEXT Record for Jochil Hecht
-1 RESI https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/26832
-2 CONC 4
-2 DATE 1938
+1 RESI Occupation: hausier = Peddler. https://www.digital.wienbibliothek.at/w
+2 CONC brobv/periodical/pageview/203065. https://www.digital.wienbibliothek.a
+2 CONC t/wbrobv/periodical/pageview/268324
+2 DATE BET 1928 AND 1938
 2 PLAC 1020, Othmargasse 44, Vienna, Austria
+2 SOUR @S50@
+3 PAGE Microfilm Serial: T715, 1897-1957; Line: 8; Page Number: 116
 2 OBJE @M6354@
+2 OBJE @M6346@
 1 RESI Per Maximillian's birth record.
 2 DATE 21 AUG 1905
 2 PLAC 1020, Hanovergasse 8, Vienna, Austria
-1 RESI Occupation: hausier = Peddler.Vienna address book. https://www.digital
-2 CONC .wienbibliothek.at/wbrobv/periodical/pageview/203065
-2 DATE 1932
-2 PLAC 1020, Othmargasse 44, Vienna, Austria
-2 OBJE @M6346@
 1 RESI Per Sigfried's, birth record.
 2 DATE 16 OCT 1910
 2 PLAC 1200 Hirschvogelgasse 3, Vienna, Austria
@@ -1874,6 +1857,7 @@
 1 OBJE @M6346@
 1 OBJE @M6354@
 1 OBJE @M6446@
+1 OBJE @M2898@
 1 FAMS @F4259@
 0 @I11931@ INDI
 1 NAME Joseph Elliot /Hecht/
@@ -1941,16 +1925,14 @@
 2 SOUR @S639@
 3 PAGE The National Archives at St. Louis; St. Louis, Missouri; World War II Draft Cards (4th Registration) for the State of Ohio; Record Group Title: Records of the Selective Service System, 1926-1975; Record Group Number: 147
 2 OBJE @M2647@
-1 RESI
-2 DATE 1935
-2 PLAC Shaker Heights, Cuyahoga, Ohio
-3 MAP
-4 LATI N41.473946
-4 LONG W81.537048
+1 RESI Marital Status: Married; Relation to Head: Head
+2 DATE BET 1935 AND 1942
+2 PLAC 19000 Oxford Rd, Shaker Heights, Cuyahoga, Ohio
 2 SOUR @S18@
 3 PAGE Year: 1940; Census Place: Shaker Heights, Cuyahoga, Ohio; Roll: m-t0627-03058; Page: 3A; Enumeration District: 18-278
-1 EVEN At home - house #182 in was Zelechow Wielki, Poland; now Zolochiv, L'v
-2 CONC iv, Ukraine
+2 OBJE @M2638@
+2 OBJE @M1764@
+1 EVEN At home, house #182 was Zelechow Wielki, Poland
 2 TYPE Bris/Naming Ceremony
 2 DATE 11 MAY 1894
 2 PLAC Zolochiv, L'viv, Ukraine
@@ -2003,22 +1985,12 @@
 2 SOUR @S287@
 2 OBJE @M6445@
 1 NAME Josef Elias /Hecht/
-1 RESI Marital Status: Married; Relation to Head: Head
-2 DATE 1940
-2 PLAC 19000 Oxford Rd, Shaker Heights, Cuyahoga, Ohio
-2 SOUR @S18@
-3 PAGE Year: 1940; Census Place: Shaker Heights, Cuyahoga, Ohio; Roll: m-t0627-03058; Page: 3A; Enumeration District: 18-278
-2 OBJE @M2638@
 1 RESI Military Marital Status: Single
 2 DATE 1917
 2 PLAC Pittsburgh, Allegheny, Pennsylvania
 3 MAP
 4 LATI N40.440628
 4 LONG W79.995903
-1 RESI
-2 DATE 1942
-2 PLAC 19000 Oxford Rd, Shaker Heights, Cuyahoga, Ohio
-2 OBJE @M1764@
 1 RESI Marital Status: Married; Relation to Head: Head
 2 DATE 1930
 2 PLAC 3532 East 163rd St, Shaker Heights, Cuyahoga, Ohio
@@ -2114,29 +2086,10 @@
 3 PAGE Database online.
 3 DATA
 4 TEXT Record for Clara Altchouler
-2 SOUR @S596@
-3 PAGE Database online.
-3 DATA
-4 TEXT Record for Clara Altchouler
 2 SOUR @S953@
 3 PAGE Database online.
 3 DATA
 4 TEXT Record for Mrs. Clara Altchouler
-2 SOUR @S874@
-3 DATA
-4 TEXT Record for Clara Altchouler
-2 SOUR @S164@
-2 SOUR @S613@
-3 OBJE @M1796@
-2 SOUR @S50@
-3 PAGE Year: 1921; Arrival: New York, New York, USA; Microfilm Serial: T715, 1897-1957; Line: 11; Page Number: 71
-3 OBJE @M4639@
-2 SOUR @S960@
-3 PAGE The National Archives in Washington, DC; Washington, DC, USA; ARC Title: Naturalization Petition and Record Books For the U.S. District Court For the Northern District of Ohio, Eastern Division, Cleveland, 1907-1946; NAI: M1995; Record Group Title: Records
-2 SOUR @S23@
-3 PAGE Year: 1930; Census Place: Cleveland, Cuyahoga, Ohio; Page: 4A; Enumeration District: 0507; FHL microfilm: 2341513
-3 DATA
-4 TEXT Record for Edward Altchouler
 1 SEX F
 2 SOUR @S952@
 3 PAGE Database online.
@@ -2204,6 +2157,8 @@
 3 MAP
 4 LATI N41.499496
 4 LONG W81.695412
+2 SOUR @S960@
+3 PAGE The National Archives in Washington, DC; Washington, DC, USA; ARC Title: Naturalization Petition and Record Books For the U.S. District Court For the Northern District of Ohio, Eastern Division, Cleveland, 1907-1946; NAI: M1995; Record Group Title: Records
 2 OBJE @M2653@
 1 BURI
 2 DATE 27 MAR 1981
@@ -2262,7 +2217,6 @@
 2 PLAC 3733 East 153rd St., Cleveland, Cuyahoga, Ohio
 2 SOUR @S613@
 3 OBJE @M1955@
-1 NOTE @N4661@
 1 _PHOTO @M175@
 1 OBJE @M399@
 1 OBJE @M1796@
@@ -2434,10 +2388,7 @@
 3 OBJE @M1886@
 1 NATU
 2 DATE 26 JAN 1916
-2 PLAC Pennsylvania
-3 MAP
-4 LATI N40.858330
-4 LONG W76.383354
+2 PLAC 5 Reed St, Pittsburgh, Allegheny, Pennsylvania
 2 OBJE @M1890@
 1 BURI
 2 DATE 6 AUG 1971
@@ -2500,19 +2451,15 @@
 4 TEXT Record for Charles Bodek
 2 OBJE @M2631@
 1 RESI Married; Relation to Head of House: Head
-2 DATE 1 APR 1940
+2 DATE BET 1 APR 1940 AND 1971
 2 PLAC 3610 Glencarin Rd, Shaker Heights, Cuyahoga, Ohio
-2 OBJE @M2629@
-1 RESI Residence Age: 52
-2 DATE 1942
-2 PLAC Cuyahoga County, Ohio
-3 MAP
-4 LATI N41.535934
-4 LONG W81.659721
 2 SOUR @S942@
 3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Record Group Title: Records of the Selective Service System, 1926-1975; Record Group Number: 147
 3 DATA
 4 TEXT Record for Charles Bodek
+2 SOUR @S1648@
+3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: Shaker Heights, Cuya
+2 OBJE @M2629@
 2 OBJE @M2630@
 1 RESI Per Sadie's arrival ship manifest.
 2 DATE MAR 1912
@@ -2520,14 +2467,6 @@
 3 MAP
 4 LATI N40.440628
 4 LONG W79.995903
-1 RESI Relation to Head: Head; Marital Status: Married
-2 DATE 1950
-2 PLAC Shaker Heights, Cuyahoga, Ohio
-3 MAP
-4 LATI N41.473946
-4 LONG W81.537048
-2 SOUR @S1648@
-3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: Shaker Heights, Cuya
 1 RESI Occupation: Hotel Waiter. Married; Relation to Head: Brother-in-law
 2 DATE 1920
 2 PLAC 5406 Butler St, Pittsburgh, Allegheny, Pennsylvania
@@ -2657,8 +2596,8 @@
 2 DATE 1920
 2 PLAC 5406 Butler St, Pittsburgh, Allegheny, Pennsylvania
 2 OBJE @M2626@
-1 EVEN On ship Koln. Listed as Sali Hecht going to "brother Chaim Hecht-Pitts
-2 CONC burgh" Actually, he was her husband Charles Bodek.
+1 EVEN On ship Koln as Sali Hecht going to "brother Chaim Hecht-Pittsburgh" A
+2 CONC ctually, he was her husband Charles Bodek.
 2 TYPE Arrival
 2 DATE 30 MAR 1912
 2 PLAC Baltimore, Maryland
@@ -2705,23 +2644,15 @@
 4 TEXT Record for Charles Bodek
 2 OBJE @M2631@
 1 RESI Married; Relation to Head of House: Wife
-2 DATE 1 APR 1940
+2 DATE BET 1 APR 1940 AND 1971
 2 PLAC 3610 Glencarin Rd, Shaker Heights, Cuyahoga, Ohio
 2 SOUR @S18@
 3 PAGE Year: 1940; Census Place: Shaker Heights, Cuyahoga, Ohio; Roll: T627_3058; Page: 11A; Enumeration District: 18-288
 3 DATA
 4 TEXT Record for Charles Bodek
-2 OBJE @M2629@
-1 RESI Marital Status: Widowed
-2 DATE 1971
-1 RESI Relation to Head: Wife; Marital Status: Married
-2 DATE 1950
-2 PLAC Shaker Heights, Cuyahoga, Ohio
-3 MAP
-4 LATI N41.473946
-4 LONG W81.537048
 2 SOUR @S1648@
 3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: Shaker Heights, Cuya
+2 OBJE @M2629@
 1 RESI Per Maximillian's birth record.
 2 DATE 21 AUG 1905
 2 PLAC 1020, Hanovergasse 8, Vienna, Austria
@@ -3015,12 +2946,10 @@
 3 OBJE @M1917@
 1 RESI Married Relation to Head of House: Head
 2 DATE 1 APR 1940
-2 PLAC Cleveland, Cuyahoga, Ohio
-3 MAP
-4 LATI N41.499496
-4 LONG W81.695412
+2 PLAC 3264 East 139th St, Cleveland, Cuyahoga, Ohio
 2 SOUR @S18@
 3 PAGE Year: 1940; Census Place: Cleveland, Cuyahoga, Ohio; Roll: T627_3233; Page: 61A; Enumeration District: 92-745
+2 OBJE @M2898@
 1 RESI
 2 DATE BET 1984 AND 1993
 2 PLAC Pompano Beach, Broward, Florida
@@ -3097,6 +3026,7 @@
 1 OBJE @M4471@
 1 OBJE @M6318@
 1 OBJE @M6388@
+1 OBJE @M2898@
 1 FAMS @F4343@
 1 FAMS @F4344@
 1 FAMC @F4478@
@@ -3274,7 +3204,6 @@
 3 DATA
 4 TEXT Record for Edward Altchouler
 2 OBJE @M615@
-1 OCCU
 1 BIRT
 2 DATE 6 DEC 1895
 2 PLAC Israel
@@ -3338,12 +3267,6 @@
 2 SOUR @S18@
 3 PAGE Year: 1940; Census Place: Cleveland, Cuyahoga, Ohio; Roll: m-t0627-03233; Page: 9A; Enumeration District: 92-741
 2 OBJE @M683@
-1 RESI
-2 DATE 1942
-2 PLAC Cuyahoga County, Ohio
-3 MAP
-4 LATI N41.535934
-4 LONG W81.659721
 1 RESI Occupation: Peddler.
 2 DATE 1934
 2 PLAC 3733 East 153rd St., Cleveland, Cuyahoga, Ohio
@@ -3351,10 +3274,6 @@
 3 OBJE @M1955@
 1 _MILT
 2 DATE 1942
-2 PLAC Ohio
-3 MAP
-4 LATI N40.208332
-4 LONG W81.324997
 2 SOUR @S639@
 3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Record Group Title: Records of the Selective Service System, 1926-1975; Record Group Number: 147
 1 RESI
@@ -3407,40 +3326,36 @@
 3 DATA
 4 TEXT Record for Walter Blau
 2 OBJE @M811@
-1 RESI per Oskar's birth; the address was 1200 Engelsplatz 4 (later renamed/#
-2 CONC 'd)
-2 DATE 24 MAR 1934
-2 PLAC 1200 Friedrich-Engels-Platz 9-16-18, Vienna, Austria
-2 NOTE @N4942@
 1 EMIG per Austrian records obtained in the 1990s.
 2 DATE ABT 8 AUG 1938
-2 PLAC Brussels, Brussels (Bruxelles), Belgium
+2 PLAC Brussels (Bruxelles), Belgium
 3 MAP
 4 LATI N50.833340
 4 LONG E4.333333
-1 EVEN per Nazi records. https://www.digital.wienbibliothek.at/wbrobv/periodi
-2 CONC cal/pageview/271268
+1 RESI Evicted by Nazis. https://www.digital.wienbibliothek.at/wbrobv/periodi
+2 CONC cal/pageview/271268. https://www.digital.wienbibliothek.at/wbrobv/peri
+2 CONC odical/pageview/271268
+2 DATE BET 1934 AND 30 JUN 1938
+2 PLAC 1200 Friedrich-Engels-Platz 9-16-18, Vienna, Austria
+2 OBJE @M5538@
+2 OBJE @M5537@
+2 OBJE @M5539@
+1 EVEN per Nazi records.
 2 TYPE Nazi persecution
 2 DATE 16 MAY 1938
 2 PLAC 1200 Friedrich-Engels-Platz 9-16-18, Vienna, Austria
+2 OBJE @M6314@
+2 OBJE @M6315@
+2 OBJE @M6316@
 1 DEAT
 2 DATE 28 MAY 2023
 2 PLAC Haifa, Israel
 3 MAP
 4 LATI N32.629745
 4 LONG E35.019947
-1 RESI Address per Vienna Phone book.  Evicted by Nazis on 30 Jun 1938
-2 DATE 30 JUN 1938
-2 PLAC 1200 Friedrich-Engels-Platz 9-16-18, Vienna, Austria
-2 NOTE @N4951@
-2 OBJE @M5537@
-1 RESI Street was renamed/#'d. See note. https://www.digital.wienbibliothek.a
-2 CONC t/wbrobv/periodical/pageview/271268
-2 DATE 1936
-2 PLAC 1200 Friedrich-Engels-Platz 9-16-18, Vienna, Austria
-2 NOTE @N4956@
-2 OBJE @M5538@
-1 OBJE @M2349@
+1 RESI https://www.memento.wien/person/51674/
+2 DATE 1 JUL 1938
+2 PLAC 1020 Schweidlgasse 13-7, Vienna, Austria
 1 OBJE @M2418@
 1 OBJE @M811@
 1 OBJE @M5537@
@@ -3594,18 +3509,19 @@
 2 PLAC Mt. Olive Cemetery, Solon, Cuyahoga, Ohio
 2 OBJE @M2955@
 2 OBJE @M2945@
-1 NATU 1910233-Vol. 75, Pg. 82 Court of Common Pleas, Cuyahoga County, Clevel
-2 CONC and, Ohio Witnesses: David V. Green, 2471 E. 84 St. Louis A. Fisher, 8
-2 CONC 76 Lakeview Rd
+1 NATU 1910233-Vol. 75, Pg. 82 Court of Common Pleas. Witnesses: David V. Gre
+2 CONC en, 2471 E. 84 St. Louis A. Fisher, 876 Lakeview Rd
 2 DATE 26 JUN 1924
-1 RESI
-2 DATE 1942
-2 PLAC 3351 Glencarin Rd, Shaker Heights, Cuyahoga, Ohio
-2 SOUR @S942@
-3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Record Group Title: Records of the Selective Service System, 1926-1975; Record Group Number: 147
-3 DATA
-4 TEXT Record for Jacob Hecht
-3 OBJE @M1983@
+2 PLAC Cleveland, Cuyahoga, Ohio
+3 MAP
+4 LATI N41.499496
+4 LONG W81.695412
+1 RESI Marital Status: Married; Relation to Head: Head
+2 DATE 1930
+2 PLAC 3532 East 163rd St, Cleveland, Cuyahoga, Ohio
+2 SOUR @S23@
+3 PAGE Year: 1930; Census Place: Shaker Heights, Cuyahoga, Ohio; Page: 37B; Enumeration District: 0707; FHL microfilm: 2341522
+2 OBJE @M2636@
 1 OCCU Worked in a steel mill
 2 DATE 1919
 2 PLAC Pittsburgh, Allegheny, Pennsylvania
@@ -3641,16 +3557,15 @@
 2 OBJE @M2946@
 2 OBJE @M6425@
 1 RESI Marital Status: Married; Relation to Head: Head
-2 DATE 1930
-2 PLAC 3532 East 163rd St, Cleveland, Cuyahoga, Ohio
-2 SOUR @S23@
-3 PAGE Year: 1930; Census Place: Shaker Heights, Cuyahoga, Ohio; Page: 37B; Enumeration District: 0707; FHL microfilm: 2341522
-2 OBJE @M2636@
-1 RESI Marital Status: Married; Relation to Head: Head
-2 DATE 1940
+2 DATE BET 1940 AND 1942
 2 PLAC 3351 Glencarin Rd, Shaker Heights, Cuyahoga, Ohio
 2 SOUR @S18@
 3 PAGE Year: 1940; Census Place: Shaker Heights, Cuyahoga, Ohio; Roll: m-t0627-03058; Page: 7B; Enumeration District: 18-285
+2 SOUR @S942@
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Record Group Title: Records of the Selective Service System, 1926-1975; Record Group Number: 147
+3 DATA
+4 TEXT Record for Jacob Hecht
+3 OBJE @M1983@
 2 OBJE @M2650@
 1 RESI Occupation: Window dresser
 2 DATE 1913
@@ -3902,9 +3817,9 @@
 2 OBJE @M903@
 2 OBJE @M2674@
 2 OBJE @M2673@
-1 EMIG per Austrian records obtained in the 1990s.
+1 EMIG
 2 DATE ABT 8 AUG 1938
-2 PLAC Brussels, Brussels (Bruxelles), Belgium
+2 PLAC Brussels (Bruxelles), Belgium
 3 MAP
 4 LATI N50.833340
 4 LONG E4.333333
@@ -3927,20 +3842,14 @@
 1 RESI https://www.memento.wien/person/51674/
 2 DATE 1 JUL 1938
 2 PLAC 1020 Schweidlgasse 13-7, Vienna, Austria
-1 RESI Per Oskar's birth; street was renamed/#'d. https://www.digital.wienbib
-2 CONC liothek.at/wbrobv/periodical/pageview/271268. https://www.digital.wien
-2 CONC bibliothek.at/wbrobv/periodical/pageview/271268. https://www.digital.w
-2 CONC ienbibliothek.at/wbrobv/periodical/pageview/214406
-2 DATE 24 MAR 1934
+1 RESI Evicted by Nazis. https://www.digital.wienbibliothek.at/wbrobv/periodi
+2 CONC cal/pageview/271268. https://www.digital.wienbibliothek.at/wbrobv/peri
+2 CONC odical/pageview/214406
+2 DATE BET 1934 AND 30 JUN 1938
 2 PLAC 1200 Friedrich-Engels-Platz 9-16-18, Vienna, Austria
-2 OBJE @M5539@
 2 OBJE @M5538@
 2 OBJE @M5537@
-1 RESI Evicted by Nazis.
-2 DATE 30 JUN 1938
-2 PLAC 1200 Friedrich-Engels-Platz 9-16-18, Vienna, Austria
-2 NOTE @N4953@
-2 OBJE @M5537@
+2 OBJE @M5539@
 1 _PHOTO @M2344@
 1 OBJE @M903@
 1 OBJE @M596@
@@ -3980,7 +3889,7 @@
 4 LONG E16.616663
 2 OBJE @M6270@
 1 RESI Arrived Belgium around late October 1938.
-2 DATE BET 1938 AND 1944
+2 DATE BET OCT 1938 AND 1944
 2 PLAC Belgium
 1 EVEN Deported to Auschwitz on Transport XXV, the 2nd to last from Mechele
 2 CONC n as prisoner #236. https://beeldbank.kazernedossin.eu/portal/media/2e
@@ -3999,15 +3908,18 @@
 2 OBJE @M461@
 1 EMIG per Austrian records obtained in the 1990s.
 2 DATE 2 AUG 1938
-2 PLAC Brussels, Brussels (Bruxelles), Belgium
+2 PLAC Brussels (Bruxelles), Belgium
 3 MAP
 4 LATI N50.833340
 4 LONG E4.333333
-1 EVEN per Nazi records. https://www.digital.wienbibliothek.at/wbrobv/periodi
-2 CONC cal/pageview/271268
+1 EVEN Evicted by Nazis.
 2 TYPE Nazi persecution
 2 DATE 16 MAY 1938
 2 PLAC 1200 Friedrich-Engels-Platz 9-16-18, Vienna, Austria
+2 NOTE @N5021@
+2 OBJE @M6314@
+2 OBJE @M6315@
+2 OBJE @M6316@
 1 DEAT Murdered by Nazis in the Holocaust. https://beeldbank.kazernedossin.eu
 2 CONC /index.php/search?q=Juliana+AND+OSMAN&amp;view=list/Auschwitz Death Ca
 2 CONC mp/Auschwitz Death Camp
@@ -4016,19 +3928,14 @@
 1 RESI https://www.memento.wien/person/79792/
 2 DATE 1 JUL 1938
 2 PLAC 1020 Schweidlgasse 13-7, Vienna, Austria
-1 RESI Per Oskar's birth; 1200 Engelsplatz 4 was renamed/#'d.
-2 DATE 24 MAR 1934
-2 PLAC 1200 Friedrich-Engels-Platz 9-16-18, Vienna, Austria
-1 RESI Evicted by Nazis
-2 DATE 30 JUN 1938
-2 PLAC 1200 Friedrich-Engels-Platz 9-16-18, Vienna, Austria
-2 NOTE @N4950@
-2 OBJE @M5537@
-1 RESI Street was renamed/#'d. https://www.digital.wienbibliothek.at/wbrobv/p
-2 CONC eriodical/pageview/271268
-2 DATE 1936
+1 RESI Evicted by Nazis. https://www.digital.wienbibliothek.at/wbrobv/periodi
+2 CONC cal/pageview/271268. https://www.digital.wienbibliothek.at/wbrobv/peri
+2 CONC odical/pageview/271268
+2 DATE BET 1934 AND 30 JUN 1938
 2 PLAC 1200 Friedrich-Engels-Platz 9-16-18, Vienna, Austria
 2 OBJE @M5538@
+2 OBJE @M5537@
+2 OBJE @M5539@
 1 NOTE @N4759@
 1 _PHOTO @M728@
 1 OBJE @M1079@
@@ -4098,13 +4005,6 @@
 2 SOUR @S1058@
 3 PAGE The National Archives; Kew, Surrey, England; BT27 Board of Trade: Commercial and Statistical Department and Successors: Outwards Passenger Lists; Reference Number: Series BT27-143730
 3 OBJE @M2985@
-1 RESI
-2 DATE 1951
-2 PLAC St Augustine, St Johns, Florida
-3 MAP
-4 LATI N29.892006
-4 LONG W81.309128
-2 SOUR @S613@
 1 BURI
 2 DATE 27 OCT 1982
 2 PLAC St Augustine, St Johns, Florida
@@ -4115,6 +4015,16 @@
 2 DATE 26 JAN 1944
 2 SOUR @S1007@
 2 SOUR @S1007@
+1 RESI
+2 DATE BET 1947 AND 1951
+2 PLAC St Augustine, St Johns, Florida
+3 MAP
+4 LATI N29.892006
+4 LONG W81.309128
+2 SOUR @S155@
+2 SOUR @S1648@
+3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: St Augustine, St Joh
+2 SOUR @S613@
 1 ADDR per Adele's death record
 2 DATE 8 OCT 1928
 2 PLAC 1020, Othmargasse 44, Vienna, Austria
@@ -4134,21 +4044,6 @@
 2 SOUR @S50@
 3 PAGE Year: 1933; Arrival: New York, New York, USA; Microfilm Serial: T715, 1897-1957; Line: 8; Page Number: 116
 2 OBJE @M3351@
-1 RESI
-2 DATE 1947
-2 PLAC St Augustine, St Johns, Florida
-3 MAP
-4 LATI N29.892006
-4 LONG W81.309128
-2 SOUR @S155@
-1 RESI Relation to Head: Nephew-in-law; Marital Status: Married
-2 DATE 1950
-2 PLAC St Augustine, St Johns, Florida
-3 MAP
-4 LATI N29.892006
-4 LONG W81.309128
-2 SOUR @S1648@
-3 PAGE United States of America, Bureau of the Census; Washington, D.C.; Seventeenth Census of the United States, 1950; Record Group: Records of the Bureau of the Census, 1790-2007; Record Group Number: 29; Residence Date: 1950; Home in 1950: St Augustine, St Joh
 1 _PHOTO @M399@
 1 OBJE @M2911@
 1 OBJE @M3351@
@@ -4293,12 +4188,6 @@
 3 DATA
 4 TEXT (null)
 2 OBJE @M2834@
-1 RESI
-2 DATE 1938
-2 PLAC Vienna, Austria
-3 MAP
-4 LATI N47.491405
-4 LONG E13.726327
 1 EVEN Sailed on the Ship S. S. Isle de France
 2 TYPE Departure
 2 DATE 20 JUL 1938
@@ -4322,19 +4211,17 @@
 3 MAP
 4 LATI N40.714432
 4 LONG W74.006096
-2 SOUR @S2648@
-3 PAGE National Archives at Boston; Waltham, Massachusetts; ARC Title: Petitions and Records of Naturalization, 2/1842 - Ca. 1991; NAI Number: 3432872; Record Group Title: Records of District Courts of the United States, 1685-2009; Record Group Number: Rg 21
-3 OBJE @M4958@
 2 SOUR @S2934@
 3 PAGE The National Archives in Washington, DC; Washington, DC, USA; Passenger and Crew Lists of Vessels Arriving at New York, New York, 1897-1957; Microfilm Serial or NAID: T715; RG Title: Records of the Immigration and Naturalization Service, 1787-2004; RG: 85
 3 DATA
 4 TEXT (null)
+2 OBJE @M709@
 1 EVEN Rachel bat Yehiel
 2 TYPE Hebrew Name
 2 DATE 1908
-1 ADDR per Adele's death record
-2 DATE 8 OCT 1928
-2 PLAC 1020, Othmargasse 44, Vienna, Austria
+1 RESI
+2 DATE BET 1977 AND 1982
+2 PLAC 2900 NW 47th Terrace, Lauderdale Lakes, Broward, Florida
 1 NATU
 2 DATE 9 FEB 1939
 2 OBJE @M229@
@@ -4352,15 +4239,9 @@
 3 PAGE Fort Lauderdale News; Publication Date: 27 Jul 1982; Publication Place: Fort Lauderdale, Florida, USA; URL: https://www.newspapers.com/image/233911170/?article=fd5d2843-8638-44b4-acb0-a6d401d05e31&focus=0.2288047,0.77578783,0.32957894,0.8209313&xid=3355
 2 SOUR @S4@
 2 OBJE @M410@
-1 RESI
-2 DATE BET 1977 AND 1982
-2 PLAC 2900 NW 47th Terrace, Lauderdale Lakes, Broward, Florida
 1 RESI Marital Status: Married Relation to Head of House: Wife
 2 DATE 1 APR 1940
-2 PLAC Cleveland, Cuyahoga, Ohio
-3 MAP
-4 LATI N41.499496
-4 LONG W81.695412
+2 PLAC 3264 East 139th St, Cleveland, Cuyahoga, Ohio
 2 SOUR @S18@
 3 PAGE Year: 1940; Census Place: Cleveland, Cuyahoga, Ohio; Roll: T627_3233; Page: 61A; Enumeration District: 92-745
 2 OBJE @M2898@
@@ -4369,9 +4250,6 @@
 2 PLAC 77 Rawson Rd, Brookline, Norfolk, Massachusetts
 2 SOUR @S454@
 3 PAGE Social Security Administration; Washington D.C., USA; Social Security Death Index, Master File
-1 RESI
-2 DATE 1933
-2 PLAC 1020, Othmargasse 44, Vienna, Austria
 1 RESI 130 Sarly Street, Relation to Head: Wife; Married
 2 DATE 1 APR 1950
 2 PLAC Providence, Rhode Island
@@ -4383,7 +4261,7 @@
 3 OBJE @M3417@
 1 RESI Occupation: kontorist = clerk. https://www.digital.wienbibliothek.at/w
 2 CONC brobv/periodical/pageview/203065
-2 DATE 1932
+2 DATE BET 1928 AND 1933
 2 PLAC 1020, Othmargasse 44, Vienna, Austria
 2 OBJE @M6346@
 1 RESI Per Sigfried's birth record.
@@ -4395,6 +4273,9 @@
 3 MAP
 4 LATI N41.871796
 4 LONG W71.579788
+2 SOUR @S2648@
+3 PAGE National Archives at Boston; Waltham, Massachusetts; ARC Title: Petitions and Records of Naturalization, 2/1842 - Ca. 1991; NAI Number: 3432872; Record Group Title: Records of District Courts of the United States, 1685-2009; Record Group Number: Rg 21
+3 OBJE @M4958@
 2 OBJE @M2097@
 1 _PHOTO @M130@
 1 OBJE @M410@
@@ -4415,6 +4296,7 @@
 1 OBJE @M2834@
 1 OBJE @M5897@
 1 OBJE @M6346@
+1 OBJE @M709@
 1 FAMS @F4343@
 1 FAMS @F3878@
 1 FAMC @F4259@
@@ -5105,10 +4987,10 @@
 1 WIFE @I12024@
 1 MARR
 2 DATE 25 OCT 1925
-2 PLAC Cuyahoga County, Ohio
+2 PLAC Cleveland, Cuyahoga, Ohio
 3 MAP
-4 LATI N41.535934
-4 LONG W81.659721
+4 LATI N41.499496
+4 LONG W81.695412
 2 SOUR @S602@
 3 PAGE Cuyahoga County Archive; Cleveland, Ohio; Cuyahoga County, Ohio, Marriage Records, 1810-1973; Volume: Vol 141-142; Page: 248; Year Range: 1925 Jun - 1925 Dec
 2 OBJE @M545@
@@ -5126,12 +5008,6 @@
 3 PAGE New York City Municipal Archives; New York, New York; Borough: Queens
 0 @F4428@ FAM
 1 HUSB @I12292@
-1 DIV
-1 MARR
-2 PLAC Cleveland, Cuyahoga, Ohio
-3 MAP
-4 LATI N41.499496
-4 LONG W81.695412
 0 @F5571@ FAM
 1 HUSB @I12467@
 1 MARR
@@ -5357,8 +5233,8 @@
 0 @F4391@ FAM
 1 HUSB @I12207@
 1 WIFE @I2154@
-1 MARR Page 549; Reel 385
-2 DATE BET 1957 AND 1958
+1 MARR
+2 DATE ABT 1957
 2 PLAC Cleveland, Cuyahoga, Ohio
 3 MAP
 4 LATI N41.499496
@@ -5388,12 +5264,9 @@
 0 @F4389@ FAM
 1 HUSB @I12207@
 1 WIFE @I12293@
-1 MARR 3269 E. 118th St.
+1 MARR
 2 DATE 22 OCT 1922
-2 PLAC Cuyahoga County, Ohio
-3 MAP
-4 LATI N41.535934
-4 LONG W81.659721
+2 PLAC 3269 E. 118th St., Cleveland, Cuyahoga, Ohio
 2 SOUR @S602@
 3 PAGE Cuyahoga County Archive; Cleveland, Ohio; Cuyahoga County, Ohio, Marriage Records, 1810-1973; Volume: Vol 127-128; Page: 220; Year Range: 1922 Jun - 1922 Dec
 2 SOUR @S164@
@@ -6326,70 +6199,1104 @@
 1 ADDR
 1 EMAIL
 1 PHON
-0 @M1796@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1923-Hecht-Cleveland-Directory.jpg
+0 @M17@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930-1976-Blau-Kurt-Siegfried-Grave.jpg
 2 FORM jpg
-2 TITL 1923-Hecht-Cleveland Directory
+2 TITL Blau-Kurt-Siegfried-Grave
+0 @M24@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1914-Jacob-Hecht-Naturalization.jpg
+2 FORM jpg
+2 TITL 1914-Jacob-Hecht-IL-Naturalization-declaration
+2 _TEXT National Archives at Chicago; Chicago, Illinois; ARC Title: Declaratio
+3 CONC ns of Intention for Citizenship, 1903 - 1981; NAI Number: 6756420; Rec
+3 CONC ord Group Title: Records of District Courts of the United States, 1685
+3 CONC -2009; Record Group Number: RG 21
+0 @M34@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Vienna-temple-fnt.jpg
+2 FORM jpg
+2 TITL 1938-Vienna-Temple-fnt
+0 @M44@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1945-Edith-Weiss-Holocaust-1.jpg
+2 FORM jpg
+2 TITL 1945-Edith-Weiss-Holocaust-1
+0 @M54@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1960-1999/1960s/1962/saunders' wedding/1962-Charlie-Bodek.jpg
+2 FORM jpg
+2 TITL 1962-Charlie-Bodek
+0 @M59@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1933-Betti-Blau-Burial.jpg
+2 FORM jpg
+2 TITL 1933-Betti-Blau-Burial
+0 @M65@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1919-Sigfried-Blau-birth.jpg
+2 FORM jpg
+2 TITL 1919-Sigfried-Blau-birth
+0 @M66@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1914-Josef-Blau-birth.jpg
+2 FORM jpg
+2 TITL 1914-Josef-Blau-birth
+0 @M80@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1973-Kurt-Blau.jpg
+2 FORM jpg
+2 TITL 1973-Kurt-Blau
+0 @M109@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1999-Hilde-Weiss-grave.jpg
+2 FORM jpg
+2 TITL 1999-Hilde-Weiss-gravestone
+0 @M130@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Hecht/1933-Rose_Hecht-1st-wedding.jpg
+2 FORM jpg
+2 TITL 1933-Rose_Hecht-1st-wedding
+0 @M153@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1967-Robt Weiss-news.jpg
+2 FORM jpg
+2 TITL 1967-Robt Weiss-news
+0 @M159@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1914-Oskar-Blau-Marriage-Vienna.jpg
+2 FORM jpg
+2 TITL 1914-Oskar-Blau-Marriage-Vienna
+0 @M167@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940s-Richard-Blau.jpg
+2 FORM jpg
+2 TITL 1940s-Richard-Blau
+0 @M175@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1960-1999/1960s/1962/saunders' wedding/1962-Clara-Hecht-Altchouler.jpg
+2 FORM jpg
+2 TITL 1962-Clara-Hecht-Altchouler
+0 @M176@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930-Schindel-Blau-Burial.jpg
+2 FORM jpg
+2 TITL 1930-Schindel-Blau-Burial
+0 @M185@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1906-Karlsbad-Addr-Book-Temple-Jakob-Weiss.jpg
+2 FORM jpg
+2 TITL 1906-Karlsbad-Addr-Book-Temple-Jakob-Weiss
+0 @M229@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1939-Rose-Hecht-Natrl-Petition.jpg
+2 FORM jpg
+2 TITL 1939-Rose-Hecht-Natrl-Petition
+0 @M240@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1925-Clara-Aron-Marriage-cert.jpg
+2 FORM jpg
+2 TITL 1925-Clara-Aron-Marriage-cert
+0 @M286@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1929-Edmund-Juliana-Blau-marriage-Vienna.jpg
+2 FORM jpg
+2 TITL 1929-Edmund-Juliana-Blau-marriage-Vienna
+0 @M316@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1939-Robert Weiss-arrival NY.jpg
+2 FORM jpg
+2 TITL 1939-Robert Weiss-arrival NY
+2 _TEXT Year: 1939; Arrival: New York, New York; Microfilm Serial: T715, 1897-
+3 CONC 1957; Microfilm Roll: Roll 6320; Line: 2; Page Number: 37
+0 @M328@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Hecht/1930s-Rose-Hecht-Weiss-Europe-23.jpg
+2 FORM jpg
+2 TITL 1930s-Rose-Hecht-Weiss-Europe-23
+0 @M333@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1939-Robt-Rose-Weiss-Marriage-Liscense.jpg
+2 FORM jpg
+2 TITL 1939-Robt-Rose-Weiss-Marriage-Liscense
+0 @M345@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1903-Reuven-Hecht-death.jpg
+2 FORM jpg
+2 TITL 1903-Reuven-Hecht-Death
 0 @M366@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1940-1959/1940s/Hecht-Weiss/1946-Liz-George-Weiss-Aunt-Edith.jpg
 2 FORM jpg
 2 TITL 1946-Liz-George-Weiss-Aunt-Edith
 2 _DATE 10/10/1945 8:31:31 AM
-0 @M6419@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1928-Blaus-in-Vienna-address-book.jpg
+0 @M378@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1915-Jakab-Weiss-obit-1.jpg
 2 FORM jpg
-2 TITL 1928-Blaus-in-Vienna-address-book
-2 _DATE 5/17/26, 5:29:51 PM
-0 @M5255@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1896-Map from Elsa's home to Jakob's Temple.jpg
+2 TITL 1915-Jakab-Weiss-obit-1
+0 @M382@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1888-Richard-Blau-Birth-Vienna.jpg
 2 FORM jpg
-2 TITL 1896-Map from Elsa's home to Jakob's Temple
-2 _DATE 8/8/2023 12:42:32 PM
-0 @M333@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1939-Robt-Rose-Weiss-Marriage-Liscense.jpg
+2 TITL 1888-Richard-Blau-Birth-Vienna
+0 @M385@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1931-Elsa-Blau-Weisz-Burial.jpg
 2 FORM jpg
-2 TITL 1939-Robt-Rose-Weiss-Marriage-Liscense
-0 @M4457@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Richard-Blau-escape-1.jpg
+2 TITL 1931-Elsa-Blau-Weisz-Burial
+0 @M399@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1913-Jochil_Hecht-family.jpg
 2 FORM jpg
-2 TITL 1938-Richard-Blau-escape-1
-2 _DATE 9/13/2022 8:24:21 PM
-0 @M6386@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1914-Karlsbad-Addr-Book-Jakob-Weiss.jpg
+2 TITL 1913-Jochil_Hecht-family
+0 @M402@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1931-Oskar-Blau-Burial.jpg
 2 FORM jpg
-2 TITL 1914-Karlsbad-Addr-Book-Jakob-Weiss
-2 _DATE 5/13/26, 1:22:52 PM
+2 TITL 1931-Oskar-Blau-Burial
+0 @M404@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1967-Robt Weiss-biog.jpg
+2 FORM jpg
+2 TITL 1967-Robt Weiss-biog
+0 @M410@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1982-Rose-Hecht-obit.jpg
+2 FORM jpg
+2 TITL 1982-Rose-Hecht-obit
+0 @M424@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Jochel-Hecht-ship.jpg
+2 FORM jpg
+2 TITL 1938-Jochel-Hecht-ship-orig-shrt
 0 @M433@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1944-Josef-Blau-1891-Camp-log.jpg
 2 FORM jpg
 2 TITL 1944-Josef-Blau-1891-Camp-log
-0 @M2628@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1936-Ruth-Bodek-Weiss-Marriage.jpg
+0 @M445@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1960-1999/1960s/1962/saunders' wedding/1962-Aron-Altchouler.jpg
 2 FORM jpg
-2 TITL 1936-Ruth-Bodek-Weiss-Marriage
-2 _DATE 12/28/2021 8:34:09 PM
+2 TITL 1962-Aron-Altchouler
+0 @M461@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1944-Juliana-Osman-transport.jpg
+2 FORM jpg
+2 TITL 1944-Juliana-Osman-transport
+0 @M473@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1947-Laura Hecht-Marvin-Rosenfeld-wedding.jpg
+2 FORM jpg
+2 TITL 1947-Laura Hecht-Marvin Rosenfeld wedding photo
+0 @M545@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1925-Clara-Aron-Marriage-pic.jpg
+2 FORM jpg
+2 TITL 1925-Clara-Aron-Marriage-pic
+0 @M555@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/2000s-Oscar_Blau.jpg
+2 FORM jpg
+2 TITL 2000s-Oscar_Blau
+0 @M586@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1931-Samuel-Blau-death-Vienna-2.jpg
+2 FORM jpg
+2 TITL 1931-Samuel-Blau-death-Vienna
+0 @M593@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1944-Robt Weiss-Naturalization card.jpg
+2 FORM jpg
+2 TITL 1944-Robt Weiss-Naturalization card
+0 @M594@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1899-Weiss-Blau-marriage-Vienna-1.jpg
+2 FORM jpg
+2 TITL 1899-Weiss-Blau-marriage-Vienna-1
+0 @M596@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1894-Edmund-Blau-Birth-Vienna-3.jpg
+2 FORM jpg
+2 TITL 1894-Edmund-Blau-Birth-Vienna-3
+0 @M598@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1937-Heinrich-Blau-Burial.jpg
+2 FORM jpg
+2 TITL 1937-Heinrich-Blau-Burial
+0 @M615@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930 Census Clara Hecht.jpg
+2 FORM jpg
+2 TITL 1930 US Census Altchouler
+0 @M622@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/2010s-Rebecca-Schreiber-Blau.jpg
+2 FORM jpg
+2 TITL 2010s-Rebecca-Schreiber-Blau
+0 @M669@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940s-Grete-Stor-Blau.jpg
+2 FORM jpg
+2 TITL 1940s-Grete-Stor-Blau
+0 @M683@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940 Census Altchouler.jpg
+2 FORM jpg
+2 TITL 1940-US Census-Altchouler
+0 @M708@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1885-Hermine-Blau-death-Vienna.jpg
+2 FORM jpg
+2 TITL 1885-Hermine-Blau-death-Vienna
+0 @M709@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Rose-Hecht-ship.jpg
+2 FORM jpg
+2 TITL 1938-Rose-Hecht-ship-shrt
+0 @M721@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1931-Dec-Robt Weiss-PhD-grad.jpg
+2 FORM jpg
+2 TITL 1931-Dec-Robt Weiss-PhD-grad.
+0 @M728@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930s-Juliana-Osman-Blau.jpg
+2 FORM jpg
+2 TITL 1930s-Juliana-Osman-Blau
+0 @M751@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1944-Robt Weiss-Naturalization Cert.jpg
+2 FORM jpg
+2 TITL 1944-Robt Weiss-Naturalization Cert
+0 @M804@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1960-1999/1960s/1962/saunders' wedding/1962-Jack-Hecht.jpg
+2 FORM jpg
+2 TITL 1962-Jack-Hecht
+0 @M811@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1946-Walter-Blau.jpg
+2 FORM jpg
+2 TITL 1946-Walter-Blau
+0 @M834@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/2001-Cookie-Hecht-grave.jpg
+2 FORM jpg
+2 TITL 2001-Cookie-Hecht-grave
+0 @M840@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1931-Elsa-Blau-Weisz-death-Vienna.jpg
+2 FORM jpg
+2 TITL 1931-Elsa-Blau-Weisz-death-Vienna
+0 @M863@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1882-Heinrich-Blau-Birth-Vienna.jpg
+2 FORM jpg
+2 TITL 1882-Heinrich-Blau-Birth-Vienna
+0 @M864@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1903-Reuven-Hecht-and Sure Kanner-births-cousins.jpg
+2 FORM jpg
+2 TITL 1903-Reuven-Hecht-birth
+0 @M879@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1914-Richard-Blau-Marriage-Vienna.jpg
+2 FORM jpg
+2 TITL 1914-Richard-Blau-Marriage-Vienna
+0 @M883@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1900-Hersch-Hecht-jr-birth.jpg
+2 FORM jpg
+2 TITL 1900-Hersch-Hecht-jr-birth-shrt
+0 @M897@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Edith-weiss-transport-list.jpg
+2 FORM jpg
+2 TITL 1942-Edith-Weiss-transport-list
+0 @M901@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1899-Clara Hecht-birth.jpg
+2 FORM jpg
+2 TITL 1899-Clara Hecht-birth-shrt
+0 @M903@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Edmund-Blau-deportation-2.jpg
+2 FORM jpg
+2 TITL 1942-Edmund-Blau-deportation-2
+0 @M939@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1922-Jacob-Hecht-Marriage.jpg
+2 FORM jpg
+2 TITL 1922 Jacob Hecht Marriage
+0 @M941@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1940-1959/1940s/Hecht-Weiss/1940-Hilda Weiss-Jack-Herman.jpg
+2 FORM jpg
+2 TITL 1940-Hilda Weiss-Jack-Herman
+2 _DATE 10/12/2009 6:19:02 AM
+0 @M949@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1886-Oskar-Blau-Birth-Vienna.jpg
+2 FORM jpg
+2 TITL 1886-Oskar-Blau-Birth-Vienna
+0 @M950@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1921 Clara Hecht arrival-detain.jpg
+2 FORM jpg
+2 TITL 1921-Clara_Hecht-ship-detain
+0 @M968@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1917-Kurt-Blau-birth.jpg
+2 FORM jpg
+2 TITL 1917-Kurt-Blau-birth
+0 @M1002@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1931-Oskar-Blau-death-Vienna.jpg
+2 FORM jpg
+2 TITL 1931-Oskar-Blau-death-Vienna
+0 @M1010@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Hecht/1920-Joe-Hecht.jpg
+2 FORM jpg
+2 TITL 1920s-Joe Hecht
+0 @M1028@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1937-Heinrich-Blau-death-Vienna.jpg
+2 FORM jpg
+2 TITL 1937-Heinrich-Blau-death-Vienna
+0 @M1065@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1931-Samuel-Blau-Burial.jpg
+2 FORM jpg
+2 TITL 1931-Samuel-Blau-Burial
+0 @M1079@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940s-Julianna Osman.jpg
+2 FORM jpg
+2 TITL 1940s-Julianna Osman
+2 _TEXT From Yad Vashem
+0 @M1108@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1928-Adele-Schapira-Hecht-Burial.jpg
+2 FORM jpg
+2 TITL 1928-Adele-Schapira-Hecht-Burial
+0 @M1115@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930s-Josef-Blau.jpg
+2 FORM jpg
+2 TITL 1930s-Josef-Blau
+0 @M1133@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1917-Aron-Altchouler-WWI.jpg
+2 FORM jpg
+2 TITL 1917-Aron-Altchouler-WWI-Draft-Card
+0 @M1135@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Weiss/1910-Jakob-Weiss-Left.jpg
+2 FORM jpg
+2 TITL 1910-Jakob-Weiss-Left
+0 @M1233@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1948-Erika-Blau-family-ship.jpg
+2 FORM jpg
+2 TITL 1948-Erika-Blau-family-ship
+0 @M1241@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1948-Erika-Blau-arrival.jpg
+2 FORM jpg
+2 TITL 1948-Erika-Blau-arrival
+2 _TEXT Year: 1948; Arrival: New York, New York, USA; Microfilm Serial: T715
+3 CONC , 1897-1957; Line: 8; Page Number: 29
+0 @M1273@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1945-Jack-Herman-naturalization.jpg
+2 FORM jpg
+2 TITL 1945-Jack-Herman-naturalization
+0 @M1276@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1941-Jacob-Herman-Naturalization.jpg
+2 FORM jpg
+2 TITL 1941-Jacob-Herman-Naturalization
+2 _TEXT The National Archives at Philadelphia; Philadelphia, Pennsylvania; NA
+3 CONC I Title: Declarations of Intention for Citizenship, 1/19/1842 - 10/29/
+3 CONC 1959; NAI Number: 4713410; Record Group Title: Records of District Cou
+3 CONC rts of the United States, 1685-2009; Record Gro
+0 @M1281@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940-Hilde-Weiss-marriage.jpg
+2 FORM jpg
+2 TITL 1940-Hilde-Weiss-marriage
+2 _TEXT General Register Office; United Kingdom; Volume: 1c; Page: 800
+0 @M1479@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1945-Hilde-Weiss-Naturalization.jpg
+2 FORM jpg
+2 TITL 1945-Hilde-Weiss-Naturalization-Index
+0 @M1488@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940-Hilde-Weiss-marriage-1.jpg
+2 FORM jpg
+2 TITL 1940-Hilde-Weiss-marriage-1
+2 _TEXT General Register Office; United Kingdom; Volume: 1c; Page: 800
+0 @M1501@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1920-Blau-Richard-Vienna Address Book.jpg
+2 FORM jpg
+2 TITL 1920-Blau-Richard-Vienna Address Book
+2 _TEXT Deutsche National Bibliothek; Leipzig, Deutschland; Publisher: A. Höld
+3 CONC er öst. Anzeigeges.m.b.H.; Bestand: 62; Signatur: ZC 3187; Laufende Nu
+3 CONC mmer: 6
+0 @M1507@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940-Blau-Vienna Address Book.jpg
+2 FORM jpg
+2 TITL 1940-Blau-Vienna Address Book
+2 _TEXT Deutsche National Bibliothek; Leipzig, Deutschland; Publisher: Herold
+3 CONC ; Bestand: 81; Signatur: ZC 3187; Laufende Nummer: 25
+0 @M1508@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940s-Edith-Weiss-Naturalization Index.jpg
+2 FORM jpg
+2 TITL 1940s-Edith-Weiss-Naturalization Index
+0 @M1578@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1915-Blau-Vienna Address Book.jpg
+2 FORM jpg
+2 TITL 1915-Blau-Vienna Address Book
+2 _TEXT Deutsche National Bibliothek; Leipzig, Deutschland; Publisher: A. Höld
+3 CONC er öst. Anzeigeges.m.b.H.; Bestand: 57; Signatur: ZC 3187; Laufende Nu
+3 CONC mmer: 2
+0 @M1697@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940-Siegfried-Hecht-WWII.jpg
+2 FORM jpg
+2 TITL 1940-Siegfried-Hecht-WWII Draft Card
+2 _TEXT National Archives at St. Louis; St. Louis, Missouri; WWII Draft Regist
+3 CONC ration Cards for New York City, 10/16/1940 - 03/31/1947; Record Group
+3 CONC : Records of the Selective Service System, 147
+0 @M1764@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Joe-Hecht WWII.jpg
+2 FORM jpg
+2 TITL 1942-WWII Draft Cards-Joe-Hecht
+2 _TEXT The National Archives at St. Louis; St. Louis, Missouri; World War I
+3 CONC I Draft Cards (4th Registration) for the State of Ohio; Record Group T
+3 CONC itle: Records of the Selective Service System, 1926-1975; Record Grou
+3 CONC p Number: 147
+0 @M1796@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1923-Hecht-Cleveland-Directory.jpg
+2 FORM jpg
+2 TITL 1923-Hecht-Cleveland Directory
+0 @M1821@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1916-Jacob-Hecht-Marriage.jpg
+2 FORM jpg
+2 TITL 1916-Jacob-Hecht-Marriage
+0 @M1880@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1927 Bodek Directory.jpg
+2 FORM jpg
+2 TITL 1927 Bodek Directory
+0 @M1884@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1920-Charlie-Bodek-Naturalization Petition.jpg
+2 FORM jpg
+2 TITL 1920-Charlie Bodek - Naturalization Petition
+2 _TEXT The National Archives at Washington, D.C.; Washington, D.C.; ARC Title
+3 CONC : Naturalization Petition and Record Books for the U.S. District Cour
+3 CONC t for the Northern District of Ohio, Eastern Division, Cleveland, 1907
+3 CONC –1946; NAI: M1995; Record Group Title: Records
+0 @M1886@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1907 Charles Bodek arrival.jpg
+2 FORM jpg
+2 TITL 1907-Charlie Bodek-PA-Ship
+2 _TEXT Year: 1907; Arrival: New York, New York, USA; Microfilm Serial: T715
+3 CONC , 1897-1957; Line: 1; Page Number: 73
+0 @M1888@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1921-Charlie-Bodek-Naturalization.jpg
+2 FORM jpg
+2 TITL 1921-Charlie-Bodek-Naturalization
+2 _TEXT National Archives and Records Administration (NARA); Washington, D.C.
+3 CONC ; Index Cards to Naturalization Petitions for the U.S. District Cour
+3 CONC t for the Northern District of Ohio, Eastern Division, Cleveland, 1855
+3 CONC -1967; Microfilm Serial: M1893; Microfilm Roll: 1
+0 @M1890@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1916-Charlie-Bodek-Naturalization-PA.jpg
+2 FORM jpg
+2 TITL 1916 Charlie Bodek, Naturalization - PA
+2 _TEXT The National Archives in Washington, D.C.; Philadelphia, Pennsylvania
+3 CONC ; Record Group Title: Records of District Courts of the United States
+3 CONC ; Record Group Number: 21
+0 @M1904@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1943-Robt Weiss-Naturalization petition.jpg
+2 FORM jpg
+2 TITL 1943-Robt Weiss-Naturalization petition
+0 @M1908@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930-Elsa-Weisz-Vienna-Address-Book.jpg
+2 FORM jpg
+2 TITL 1930-Elsa-Weisz-Vienna Address Book
+2 _TEXT Deutsche National Bibliothek; Leipzig, Deutschland; Publisher: Herold
+3 CONC ; Bestand: 71; Signatur: ZC 3187; Laufende Nummer: 7
+0 @M1917@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Robt-Weiss WWII.jpg
+2 FORM jpg
+2 TITL 1942-WWII Draft Card-Robt-Weiss.jpg
+2 _TEXT The National Archives in St. Louis, Missouri; St. Louis, Missouri; Dra
+3 CONC ft Registration Cards for Ohio, 10/16/1940-03/31/1947; Record Group: R
+3 CONC ecords of the Selective Service System, 147; Box: 1551
+0 @M1919@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1935-Robt-Weiss-Vienna Address Book.jpg
+2 FORM jpg
+2 TITL 1935-Robt-Weiss-Vienna Address Book
+2 _TEXT Deutsche National Bibliothek; Leipzig, Deutschland; Publisher: Herold
+3 CONC ; Bestand: 76; Signatur: ZC 3187; Laufende Nummer: 17
+0 @M1955@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1934-Altchouler-Directory.jpg
+2 FORM jpg
+2 TITL Altchouler-Directory
+0 @M1983@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Jacob-Hecht-WWII.jpg
+2 FORM jpg
+2 TITL 1942-Jacob-Hecht-WWII Draft Card
+2 _TEXT The National Archives at St. Louis; St. Louis, Missouri; Record Grou
+3 CONC p Title: Records of the Selective Service System, 1926-1975; Record Gr
+3 CONC oup Number: 147
+0 @M1985@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1917-Jacob-Hecht-WWI.jpg
+2 FORM jpg
+2 TITL 1917-Jacob-Hecht-WWI Draft Card
+2 _TEXT Registration State: Ohio; Registration County: Cuyahoga; Roll: 1831856
+3 CONC ; Draft Board: 13
+0 @M2078@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1933-Sigfried-Hecht-Canada Border Crossing.jpg
+2 FORM jpg
+2 TITL 1933-Border Crossings from U.S. to Canada
+2 _TEXT Library and Archives Canada; 1908-1935 Border Entries; Roll: T-15384
+0 @M2097@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1945-Rose-Weiss-Naturalization.jpg
+2 FORM jpg
+2 TITL 1945-Rose-Weiss-Naturalization Index
+0 @M2127@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Josef-Blau-Death-by-Nazis.jpg
+2 FORM jpg
+2 TITL 1942-Josef-Blau-Death-by-Nazis
+2 _TEXT Hesse, Germany, Deaths, 1851-1958 Record
+0 @M2320@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1905-Maximillian-Hecht-birth-1.jpg
+2 FORM jpg
+2 TITL 1905-Maximillian-Hecht-birth-1
+0 @M2321@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1903-Reuven-Hecht-death-frt.jpg
+2 FORM jpg
+2 TITL 1903-Reuven-Hecht-death-frt
+0 @M2323@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1905-Max-Hecht-birth-1.jpg
+2 FORM jpg
+2 TITL 1905-Max-Hecht-birth-1
+0 @M2324@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1907-Rosa-Blau-burial-1.jpg
+2 FORM jpg
+2 TITL 1907-Rosa-Blau-burial-1
+0 @M2326@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1901-Hersch-hecht-death-jr.jpg
+2 FORM jpg
+2 TITL 1901-Hersch-Hecht-death
+0 @M2328@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1907-Rosa-Blau-burial.jpg
+2 FORM jpg
+2 TITL 1907-Rosa-Blau-burial
+0 @M2329@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1896-Jacob-Hecht-birth.jpg
+2 FORM jpg
+2 TITL 1896-Jacob-Hecht-birth
+0 @M2330@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1927-Gertrude-Blau-burial.jpg
+2 FORM jpg
+2 TITL 1927-Gertrude-Blau-burial
+0 @M2331@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1901-Hersch-Hecht-death-bk.jpg
+2 FORM jpg
+2 TITL 1901-Hersch-Hecht-death-bk
+0 @M2332@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1901-Hersch-Hecht-death-frt.jpg
+2 FORM jpg
+2 TITL 1901-Hersch-Hecht-death-frt
+0 @M2334@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1928-Adele-Schapira-Hecht-death.jpg
+2 FORM jpg
+2 TITL 1928-Adele-Schapira-Hecht-death
+0 @M2335@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1906-Max-Hecht-burial.jpg
+2 FORM jpg
+2 TITL 1906-Max-Hecht-burial
+0 @M2336@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1903-Reuven-Hecht-death-bk.jpg
+2 FORM jpg
+2 TITL 1903-Reuven-Hecht-death-bk
+0 @M2337@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1905-Max-Hecht-birth-2.jpg
+2 FORM jpg
+2 TITL 1905-Max-Hecht-birth-2
+0 @M2338@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1925-Joe Hecht Arrival-2.jpg
+2 FORM jpg
+2 TITL 1925-Joe Hecht-New York, Passenger List
+2 _TEXT Year: 1925; Arrival: New York, New York, USA; Microfilm Serial: T715
+3 CONC , 1897-1957; Line: 8; Page Number: 54
+0 @M2339@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1914 Jacob Hecht arrival.jpg
+2 FORM jpg
+2 TITL 1914-Jacob-Hecht-ship
+2 _TEXT The National Archives at Washington, D.C.; Washington, D.C.; Records o
+3 CONC f the US Customs Service, RG36; NAI Number: 2655153; Record Group Titl
+3 CONC e: Records of the Immigration and Naturalization Service, 1787-2004; R
+3 CONC ecord Group Number: 85
+0 @M2340@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1920-Joe Hecht-Naturalization-PA.jpg
+2 FORM jpg
+2 TITL 1920-Joe Hecht-Naturalization-PA
+2 _TEXT The National Archives in Washington, D.C.; Washington, D.C.; Record Gr
+3 CONC oup Title: Records of District Courts of the United States; Record Gro
+3 CONC up Number: 21
+0 @M2341@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1925 Jacob Hecht arrival-2.jpg
+2 FORM jpg
+2 TITL 1925-Jacob-Hecht-Ship
+2 _TEXT Year: 1925; Arrival: New York, New York, USA; Microfilm Serial: T715
+3 CONC , 1897-1957; Line: 1; Page Number: 45
+0 @M2344@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Weiss/1930s-Edmund-Blau-fnt.jpg
+2 FORM jpg
+2 TITL 1930s-Edmund-Blau-1-fnt
+0 @M2348@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1891-Josef-Blau-Birth-Vienna.jpg
+2 FORM jpg
+2 TITL 1891-Josef-Blau-Birth-Vienna
+0 @M2360@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1933-Betty-Fuchs-Blau-death-Vienna.jpg
+2 FORM jpg
+2 TITL 1933-Betty-Fuchs-Blau-death-Vienna
+0 @M2362@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1931-Samuel-Blau-death-Vienna-1.jpg
+2 FORM jpg
+2 TITL 1931-Samuel-Blau-death-Vienna
+0 @M2364@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1940-1959/1950s/Hecht-Weiss/1952-Edith-liz-rose-hilda-george-anita-herman.jpg
+2 FORM jpg
+2 TITL 1952-Edith-liz-rose-hilda-george-anita-herman
+0 @M2417@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1928-Ernst-Blau-birth.jpg
+2 FORM jpg
+2 TITL 1928-Ernst-Blau-birth
+0 @M2418@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930-Walter-Blau-birth.jpg
+2 FORM jpg
+2 TITL 1930-Walter-Blau-birth
+0 @M2420@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1946-Edith-in-Vienna.jpg
+2 FORM jpg
+2 TITL 1946-Edith-in-Vienna
+0 @M2422@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1934-Oskar-Blau-birth.jpg
+2 FORM jpg
+2 TITL 1934-Oskar-Blau-birth
+0 @M2424@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1943-Richard-Blau-nazi-transport.jpg
+2 FORM jpg
+2 TITL 1943-Richard-Blau-nazi-transport
+0 @M2432@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1950s-Teresa-Blau.jpg
+2 FORM jpg
+2 TITL 1950s-Teresa-Blau
+2 _DATE 12/4/2021 10:14:50 AM
+0 @M2434@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1885-Hermine-Blau-burial-Vienna.jpg
+2 FORM jpg
+2 TITL 1885-Hermine-Blau-burial-Vienna
+0 @M2444@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1890-Bertha-Schwarz-birth.jpg
+2 FORM jpg
+2 TITL 1890-Bertha-Schwarz-birth
+0 @M2445@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1892-Margarethe-Schwarz-birth-Vienna.jpg
+2 FORM jpg
+2 TITL 1892-Margarethe-Schwarz-birth-Vienna
+0 @M2447@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Erika-Blau.jpg
+2 FORM jpg
+2 TITL 1942-Erika-Blau
+0 @M2448@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1903-Robert-Weisz-birth-Karlsbad.jpg
+2 FORM jpg
+2 TITL 1903-Robert-Weisz-birth-Karlsbad
+0 @M2449@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1911-Aranka-Weisz-birth record.jpg
+2 FORM jpg
+2 TITL 1911-Aranka-Weisz-birth-Karlsbad
+0 @M2450@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1905-Edith-Weisz-birth-Karlsbad.jpg
+2 FORM jpg
+2 TITL 1905-Edith-Weisz-birth-Karlsbad
+0 @M2452@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1911-Aranka-Weisz-death-Karlsbad.jpg
+2 FORM jpg
+2 TITL 1911-Aranka-Weisz-death-Karlsbad
+0 @M2454@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1908-Hilde-Weisz-birth-Karlsbad.jpg
+2 FORM jpg
+2 TITL 1908-Hilde-Weisz-birth-Karlsbad
+0 @M2460@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1939 Hilde-Weiss-England Register.jpg
+2 FORM jpg
+2 TITL 1939 Hilde-Weiss-England Register
+2 _TEXT The National Archives; Kew, London, England; 1939 Register; Reference
+3 CONC : RG 101/1086I
+0 @M2470@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940-Hilde-Jakob-Herman-Arrival-Canada.jpg
+2 FORM jpg
+2 TITL 1940-Hilde-Jakob-Herman-Arrival-Canada
+2 _TEXT The National Archives at Washington, D.C.; Washington, D.C.; Series Ti
+3 CONC tle: Index to Alien Arrivals at Canadian Atlantic and Pacific Seaports
+3 CONC ; NAI Number: 3000080; Record Group Title: Records of the Immigratio
+3 CONC n and Naturalization Service, 1787-2004; Record
+0 @M2473@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940-Hilde-Weisz-UK-WWII Alien Internees.jpg
+2 FORM jpg
+2 TITL 1940-Hilde-Weisz-UK-WWII Alien Internees
+2 _TEXT The National Archives; Kew, London, England; HO 396 WW2 Internees (Ali
+3 CONC ens) Index Cards 1939-1947; Reference Number: HO 396/229
+0 @M2474@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1948-Hilde Weisz Herman-Directory.jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+0 @M2478@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940-Jack-Hilde-Herman-ship.jpg
+2 FORM jpg
+2 TITL 1940-Jack-Hilde-Herman-ship
+2 _TEXT The National Archives at Washington, D.C.; Washington, D.C.; Manifest
+3 CONC s of Passengers Arriving at St. Albans, VT, District through Canadia
+3 CONC n Pacific and Atlantic Ports, 1895-1954; Record Group Title: Records o
+3 CONC f the Immigration and Naturalization Service, 178
+0 @M2482@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1939-Jack-Herman-internee.jpg
+2 FORM jpg
+2 TITL 1939-Jack-Herman-internee
+2 _TEXT The National Archives; Kew, London, England; HO 396 WW2 Internees (Ali
+3 CONC ens) Index Cards 1939-1947; Reference Number: HO 396/229
+0 @M2485@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1939 Jack-Herman-England-Register.jpg
+2 FORM jpg
+2 TITL 1939 Jack-Herman-England-Register
+2 _TEXT The National Archives; Kew, London, England; 1939 Register; Reference
+3 CONC : RG 101/1781C
+0 @M2491@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1935-Blau-Vienna Address Book.jpg
+2 FORM jpg
+2 TITL 1935-Blau-Vienna Address Book
+2 _TEXT Deutsche National Bibliothek; Leipzig, Deutschland; Publisher: Herold
+3 CONC ; Bestand: 76; Signatur: ZC 3187; Laufende Nummer: 17
 0 @M2495@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930-Blau-Vienna Address Book.jpg
 2 FORM jpg
 2 TITL 1930-Blau-Vienna Address Book
 2 _TEXT Deutsche National Bibliothek; Leipzig, Deutschland; Publisher: Herold
 3 CONC ; Bestand: 71; Signatur: ZC 3187; Laufende Nummer: 7
-0 @M167@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940s-Richard-Blau.jpg
+0 @M2512@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1946-Edith-Weisz-Passenger List.jpg
 2 FORM jpg
-2 TITL 1940s-Richard-Blau
-0 @M2362@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1931-Samuel-Blau-death-Vienna-1.jpg
+2 TITL 1946-Edith-Weisz-Passenger List.jpg
+2 _TEXT Arolsen Archives, Digital Archive; Bad Arolsen, Germany; Lists of Pers
+3 CONC ecutees 2.1.1.1
+0 @M2548@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1949-Kurt-Blau-Uruguay.jpg
 2 FORM jpg
-2 TITL 1931-Samuel-Blau-death-Vienna
-0 @M34@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Vienna-temple-fnt.jpg
+2 TITL 1949-Kurt-Blau-Uruguay
+0 @M2549@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1959-Kurt-Blau-Brazil.jpg
 2 FORM jpg
-2 TITL 1938-Vienna-Temple-fnt
-0 @M1065@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1931-Samuel-Blau-Burial.jpg
+2 TITL 1959-Kurt-Blau-Brazil
+0 @M2552@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1968-Kurt-Blau-Italy.jpg
 2 FORM jpg
-2 TITL 1931-Samuel-Blau-Burial
+2 TITL 1968-Kurt-Blau-Italy
+0 @M2602@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1890-Charlie_Bodek-birth.jpg
+2 FORM jpg
+2 TITL 1890-Charlie_Bodek-birth
+0 @M2610@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Weiss/1900-Jacob-Weiss-Vienna.jpg
+2 FORM jpg
+2 TITL 1900-Jacob-Weiss-Vienna
+2 _DATE 3/15/2005 11:33:28 PM
+0 @M2611@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1876-Ernestine_Blau_birth-1.jpg
+2 FORM jpg
+2 TITL 1876-Ernestine_Blau_birth-1
+0 @M2614@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1873-Jakab-Weisz-birth-Romania.jpg
+2 FORM jpg
+2 TITL 1873-Jakab-Weisz-birth-Romania
+2 _DATE 12/28/2021 10:43:04 AM
+0 @M2618@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1906-Weiss-in-Karlsbad-Address-Book.jpg
+2 FORM jpg
+2 TITL 1906-Weiss-in-Karlsbad-Address-Book
+2 _DATE 12/28/2021 10:43:04 AM
+0 @M2626@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1920 Census Jack Joe Sadie Hecht.jpg
+2 FORM jpg
+2 TITL 1920 US Census Jack Joe Sadie Hecht
+2 _DATE 12/28/2021 6:29:25 PM
+0 @M2627@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1978-Sadie-Hecht-Bodek-grave.JPG
+2 FORM jpg
+2 TITL 1978-Sadie-Hecht-Bodek-grave
+2 _DATE 12/28/2021 8:34:09 PM
+0 @M2628@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1936-Ruth-Bodek-Weiss-Marriage.jpg
+2 FORM jpg
+2 TITL 1936-Ruth-Bodek-Weiss-Marriage
+2 _DATE 12/28/2021 8:34:09 PM
+0 @M2629@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940-Census-Sadie Bodek.jpg
+2 FORM jpg
+2 TITL 1940-US-Census-Bodek-Sadie-Hank
+2 _DATE 6/21/2017 8:42:12 PM
+0 @M2630@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Charles-Bodek-WWII.jpg
+2 FORM jpg
+2 TITL 1942-Charles-Bodek-WWII
+2 _DATE 6/21/2017 8:37:11 PM
+2 _TEXT The National Archives at St. Louis; St. Louis, Missouri; Record Grou
+3 CONC p Title: Records of the Selective Service System, 1926-1975; Record Gr
+3 CONC oup Number: 147
+0 @M2631@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930 Census Sadie Bodek.jpg
+2 FORM jpg
+2 TITL 1930-US-Census-Sadie-Bodek-shrt
+2 _DATE 4/21/2012 9:05:59 PM
+0 @M2632@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1960-1999/1960s/1962/saunders' wedding/1962-Sadie-Charlie-Bodek.jpg
+2 FORM jpg
+2 TITL 1962-Sadie-Charlie-Bodek
+2 _DATE 10/12/2009 6:28:46 AM
+0 @M2633@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1960-1999/1960s/1962/saunders' wedding/1962-Sadie-Hecht-Bodek.jpg
+2 FORM jpg
+2 TITL 1962-Sadie-Hecht-Bodek
+2 _DATE 10/12/2009 6:28:46 AM
+0 @M2634@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1912 Sadie Hecht arrival.jpg
+2 FORM jpg
+2 TITL 1912 Sadie Hecht arrival
+2 _DATE 9/6/2017 7:37:17 PM
+0 @M2635@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1905-Maximillian-Hecht-birth.jpg
+2 FORM jpg
+2 TITL 1905-Maximillian-Hecht-birth
+2 _DATE 4/8/2021 8:47:25 PM
+0 @M2636@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930 Census Jack Joe Hecht.jpg
+2 FORM jpg
+2 TITL 1930-US Census-Jack-Joe-Hecht-shrt
+2 _DATE 4/21/2012 9:05:55 PM
+0 @M2638@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940 Census Joe Hecht.jpg
+2 FORM jpg
+2 TITL 1940-US Census-Joe-Hecht
+2 _DATE 9/9/2017 12:06:49 AM
+0 @M2639@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1917-Joe-Hecht WWI.jpg
+2 FORM jpg
+2 TITL 1917-Joe-Hecht-US WW I Draft
+2 _DATE 11/30/2019 1:17:32 PM
+0 @M2640@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1925-Joe-Hecht-Passport-BACK-to-Vienna.jpg
+2 FORM jpg
+2 TITL 1925-Joe-Hecht-Passport-BACK-to-Vienna
+2 _DATE 3/28/2021 1:47:10 PM
+0 @M2642@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1917-Joe-Hecht-intent-Naturalization.jpg
+2 FORM jpg
+2 TITL 1917-Joe-Hecht-intent-Naturalization
+2 _DATE 11/30/2019 1:17:29 PM
+0 @M2643@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1913-Joe Hecht arrival.jpg
+2 FORM jpg
+2 TITL 1913-Joe-Hecht-ship
+2 _DATE 9/16/2017 4:24:36 AM
+0 @M2645@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1954-Joe-Hecht-Grave.jpg
+2 FORM jpg
+2 TITL 1954-Joe-Hecht-Grave
+2 _DATE 12/29/2021 5:57:15 PM
+0 @M2646@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1922-Joe-Hecht_US-naturalization.jpg
+2 FORM jpg
+2 TITL 1922-Joe-Hehct_US-naturalization
+2 _DATE 9/6/2017 10:44:03 PM
+0 @M2647@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1894-Joe_Hecht-birth.jpg
+2 FORM jpg
+2 TITL 1894-Joe_Hecht-birth
+2 _DATE 9/6/2017 6:57:15 PM
+0 @M2648@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1920-Joe-Hecht-marriage-cert.jpg
+2 FORM jpg
+2 TITL 1920-Joe-Hecht-marriage-cert
+2 _DATE 12/29/2021 5:57:15 PM
+0 @M2649@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Hecht/1920-Clara-Hecht.jpg
+2 FORM jpg
+2 TITL 1920-Clara-Hecht
+2 _DATE 12/30/2021 12:13:28 PM
+0 @M2650@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940-US-Census-Jack-Hecht.jpg
+2 FORM jpg
+2 TITL 1940-US-Census-Jack-Hecht
+2 _DATE 9/9/2017 12:06:03 AM
+0 @M2651@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1960-1999/1960s/1962/saunders' wedding/1962-Jack-Esther-Hecht.jpg
+2 FORM jpg
+2 TITL 1962-Jack-Esther-Hecht
+2 _DATE 10/18/2007 9:35:53 PM
+0 @M2653@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1934-Clara Hecht Naturalization.jpg
+2 FORM jpg
+2 TITL 1934-Clara-Hecht-Natrl
+2 _DATE 9/27/2017 8:30:30 PM
+0 @M2654@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1981-Clara-Hecht-Altchouler-grave.jpg
+2 FORM jpg
+2 TITL 1981-Clara-Hecht-Altchouler-grave
+2 _DATE 12/30/2021 12:37:51 PM
+0 @M2655@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1981-Clara-Hecht-Altchouler-obit.jpg
+2 FORM jpg
+2 TITL 1981-Clara-Hecht-Altchouler-obit
+2 _DATE 12/30/2021 12:38:56 PM
+0 @M2657@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Hecht/1930s-Rose-Hecht-Weiss-Europe-03.jpg
+2 FORM jpg
+2 TITL 1930s-Rose-Hecht-Weiss-Europe-03
+2 _DATE 4/29/2007 6:03:50 PM
+0 @M2658@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1935-Rose_Hecht_flat_vienna_3_Hirschvogelgasse-2.jpg
+2 FORM jpg
+2 TITL 1935-Rose_Hecht_flat_vienna_3_Hirschvogelgasse-2
+2 _DATE 5/16/2005 7:43:26 PM
+0 @M2659@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1935-Rose_Hecht_flat_vienna_3_Hirschvogelgasse-1.jpg
+2 FORM jpg
+2 TITL 1935-Rose_Hecht_flat_vienna_3_Hirschvogelgasse-1
+2 _DATE 5/16/2005 7:43:14 PM
+0 @M2662@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1940-1959/1940s/Hecht-Weiss/1940-Jan-Rose&Robert_Weiss_wed.jpg
+2 FORM jpg
+2 TITL 1940-Rose-Robert_Weiss_wed
+2 _DATE 1/15/1940 9:50:19 PM
+0 @M2663@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Hecht/1935-Rose-Hecht-1st-husband-William-Reiss.jpg
+2 FORM jpg
+2 TITL 1935-Rose-Hecht-1st-husband-William-Reiss
+2 _DATE 4/29/1938 5:28:54 PM
+0 @M2665@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1939-Dec-Rose Robt-Weiss marriage.jpg
+2 FORM jpg
+2 TITL 1939-Dec-Rose Robt-Weiss marriage
+2 _DATE 6/21/2017 10:22:08 PM
+0 @M2667@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1935-Hilde-Weiss-Vienna Address Book.jpg
+2 FORM jpg
+2 TITL 1935-Hilde-Weiss-Vienna Address Book
+2 _TEXT Deutsche National Bibliothek; Leipzig, Deutschland; Publisher: Herold
+3 CONC ; Bestand: 76; Signatur: ZC 3187; Laufende Nummer: 17
+0 @M2669@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1894-Edmund-Blau-Birth-Vienna-1.jpg
+2 FORM jpg
+2 TITL 1894-Edmund-Blau-Birth-Vienna-1
+2 _DATE 4/4/2021 10:55:38 AM
+0 @M2671@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Weiss/1930s-Edmund-Blau-back.jpg
+2 FORM jpg
+2 TITL 1930s-Edmund-Blau-1-back
+2 _DATE 12/31/2021 5:26:01 PM
+0 @M2672@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940s-Edmund-Blau.jpg
+2 FORM jpg
+2 TITL 1940s-Edmund-Blau
+2 _DATE 3/30/2021 4:50:00 PM
+0 @M2673@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Edmund Blau-Aug-24.jpg
+2 FORM jpg
+2 TITL 1942-Edmund Blau-Aug-24
+2 _DATE 3/18/2006 4:46:25 AM
+0 @M2674@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Edmund Blau-deportation-list.jpg
+2 FORM jpg
+2 TITL 1942-Edmund Blau-deportation-list
+2 _DATE 3/18/2006 4:46:25 AM
+0 @M2675@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Edmund-Blau-deportation-Drancy.jpg
+2 FORM jpg
+2 TITL 1942-Edmund-Blau-deportation-Drancy
+2 _DATE 4/24/2021 9:51:00 AM
+0 @M2677@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1953-Edmund-Blau-yad-vashem.jpg
+2 FORM jpg
+2 TITL 1953-Edmund-Blau-yad-vashem
+2 _DATE 12/31/2021 5:26:01 PM
+0 @M2696@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930-Erika-Teres-Ilonka-Josef-Blau.jpg
+2 FORM jpg
+2 TITL 1930-Erika-Teres-Ilonka-Josef-Blau
+2 _DATE 12/4/2021 9:29:14 AM
+0 @M2697@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930s-Erika-Blau.jpg
+2 FORM jpg
+2 TITL 1930s-Erika-Blau
+2 _DATE 12/4/2021 9:25:11 AM
+0 @M2698@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930s-Josef-Blau-uncle.jpg
+2 FORM jpg
+2 TITL 1930s-Josef-Blau-uncle
+2 _DATE 12/4/2021 9:21:07 AM
+0 @M2717@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1941-Ilonka-Blau-Berger.jpg
+2 FORM jpg
+2 TITL 1941-Ilonka-Blau-Berger
+2 _DATE 12/4/2021 9:24:17 AM
+0 @M2722@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Josef-Blau-Transport.jpg
+2 FORM jpg
+2 TITL 1942-Josef-Blau-Transport
+2 _DATE 6/19/2021 6:55:16 PM
+0 @M2739@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1945-Erika-Blau-Jack-Johnston-wedding-Italy.jpg
+2 FORM jpg
+2 TITL 1945-Erika-Blau-Jack-Johnston-wedding-Italy
+2 _DATE 12/4/2021 9:30:44 AM
+0 @M2741@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1946-Blaus-Vienna.jpg
+2 FORM jpg
+2 TITL 1946-Blaus-Vienna
+2 _DATE 12/31/2021 5:33:00 PM
+0 @M2821@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1878-Hermine-Blau-birth.jpg
+2 FORM jpg
+2 TITL 1878-Hermine-Blau-birth
+2 _DATE 7/13/2009 10:31:19 PM
+0 @M2823@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1880-Emanuel-Blau-birth.jpg
+2 FORM jpg
+2 TITL 1880-Emanuel-Blau-birth
+2 _DATE 7/13/2009 10:31:19 PM
+0 @M2826@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1891-Hecht-Schapira-wedding.jpg
+2 FORM jpg
+2 TITL 1891-Hecht-Schapira-wedding
+2 _DATE 7/13/2009 10:16:08 PM
+0 @M2832@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1906-Maximillian-Hecht-death.jpg
+2 FORM jpg
+2 TITL 1906-Maximillian-Hecht-death
+2 _DATE 4/8/2021 8:49:25 PM
+0 @M2834@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1908-Rose Hecht-birth.jpg
+2 FORM jpg
+2 TITL 1908-Rose-Hecht-birth
+2 _DATE 7/13/2009 10:17:25 PM
+0 @M2835@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1910 Census Charlie Bodek.jpg
+2 FORM jpg
+2 TITL 1910 US Census Charlie Bodek
+2 _DATE 12/31/2021 6:06:22 PM
+2 _TEXT Year: 1910; Census Place: Pittsburgh Ward 3, Allegheny, Pennsylvania
+3 CONC ; Roll: T624_1299; Page: 7B; Enumeration District: 0313; FHL microfilm
+3 CONC : 1375312
+0 @M2836@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1911-Charlie_Bodek-as-Hecht-arrival.jpg
+2 FORM jpg
+2 TITL 1911-Charlie_Bodek-as-Hecht-ship-shrt
+2 _DATE 9/6/2017 7:14:20 PM
+0 @M2838@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1915-8-8-Jakob-Weiss-obit.jpg
+2 FORM jpg
+2 TITL 1915-8-8-Jakob-Weiss-obit
+2 _DATE 6/5/1935 9:47:44 AM
+0 @M2841@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Hecht/1917-Jachil-Siggy-Hecht.jpg
+2 FORM jpg
+2 TITL 1917-Jachil-Siggy-Hecht
+2 _DATE 12/31/2021 6:06:22 PM
+0 @M2842@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1918-Aron-Altchouler-WWI.jpg
+2 FORM jpg
+2 TITL 1918-Aron-Altchouler-US-WWI-Service
+2 _DATE 12/31/2021 6:06:22 PM
+0 @M2843@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1919-Heinrich-Blau-marriage.jpg
+2 FORM jpg
+2 TITL 1919-Heinrich-Blau-marriage
+2 _DATE 12/31/2021 6:06:22 PM
+0 @M2844@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1920-Aron-Altchouler-Naturalization-1.jpg
+2 FORM jpg
+2 TITL 1920-Aron-Altchouler-Naturalization-1
+2 _DATE 9/26/2017 6:36:51 PM
+0 @M2845@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1920-Aron-Altchouler-Naturalization-2.jpg
+2 FORM jpg
+2 TITL 1920-Aron-Altchouler-Naturalization-2
+2 _DATE 12/31/2021 6:06:22 PM
+0 @M2846@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Weiss/1930s-Hilda Weiss-1.jpg
+2 FORM jpg
+2 TITL 1930s-Hilda Weiss
+2 _DATE 10/12/2009 11:33:06 AM
+0 @M2847@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Weiss/1930s-Hilda Weiss-3.jpg
+2 FORM jpg
+2 TITL 1930s-Hilda Weiss
+2 _DATE 10/12/2009 6:07:27 AM
+0 @M2848@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Weiss/1930s-Hilda Weiss-2.jpg
+2 FORM jpg
+2 TITL 1930s-Hilda Weiss
+2 _DATE 10/12/2009 6:08:32 AM
+0 @M2851@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1921-Aron-Altchouler-1st-marriage.jpg
+2 FORM jpg
+2 TITL 1921-Aron-Altchouler-1st-marriage
+2 _DATE 12/31/2021 6:06:22 PM
+0 @M2852@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1921-Charles-Bodek-as-Hecht_US-nat.jpg
+2 FORM jpg
+2 TITL 1921-Charles-Bodek-as-Hecht_nat
+0 @M2853@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1922-Aron-Altchouler-US-passport-app.jpg
+2 FORM jpg
+2 TITL 1922-Aron-Altchouler-US-passport-app
+2 _DATE 9/26/2017 6:23:47 PM
+0 @M2856@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1928-Adele-Hecht-grave-section-10B-row9.jpg
+2 FORM jpg
+2 TITL 1928-Adele-Hecht-grave-section-10B-row9
+2 _DATE 12/31/2021 6:06:22 PM
+0 @M2859@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930s-Charlie-Bodek-US-Directory.jpg
+2 FORM jpg
+2 TITL 1930s-Charlie-Bodek-US-Directory
+2 _DATE 12/31/2021 6:06:22 PM
 0 @M2861@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930s-Hecht-Cookie-Naturalization.jpg
 2 FORM jpg
@@ -6399,727 +7306,51 @@
 3 CONC ns for Naturalization, 1880 - 1975; NAI Number: 2111793; Record Grou
 3 CONC p Title: Records of District Courts of the United States, 1685 - 2009
 3 CONC ; Record Group Number: RG 21
-0 @M1697@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940-Siegfried-Hecht-WWII.jpg
-2 FORM jpg
-2 TITL 1940-Siegfried-Hecht-WWII Draft Card
-2 _TEXT National Archives at St. Louis; St. Louis, Missouri; WWII Draft Regist
-3 CONC ration Cards for New York City, 10/16/1940 - 03/31/1947; Record Group
-3 CONC : Records of the Selective Service System, 147
-0 @M2329@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1896-Jacob-Hecht-birth.jpg
-2 FORM jpg
-2 TITL 1896-Jacob-Hecht-birth
-0 @M5921@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1978-Sadie-Hecht-obit.jpg
-2 FORM jpg
-2 TITL 1978-Sadie-Hecht-obit
-0 @M6420@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Blaus-in-Vienna-address-book.jpg
-2 FORM jpg
-2 TITL 1938-Blaus-in-Vienna-address-book
-2 _DATE 5/17/26, 5:35:00 PM
-0 @M1764@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Joe-Hecht WWII.jpg
-2 FORM jpg
-2 TITL 1942-WWII Draft Cards-Joe-Hecht
-2 _TEXT The National Archives at St. Louis; St. Louis, Missouri; World War I
-3 CONC I Draft Cards (4th Registration) for the State of Ohio; Record Group T
-3 CONC itle: Records of the Selective Service System, 1926-1975; Record Grou
-3 CONC p Number: 147
-0 @M2662@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1940-1959/1940s/Hecht-Weiss/1940-Jan-Rose&Robert_Weiss_wed.jpg
-2 FORM jpg
-2 TITL 1940-Rose-Robert_Weiss_wed
-2 _DATE 1/15/1940 9:50:19 PM
-0 @M3294@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1925-Blau-Portrait-Vienna.jpg
-2 FORM jpg
-2 TITL 1925-Blau-Portrait-Vienna
-2 _DATE 3/8/2009 1:26:11 AM
-0 @M6387@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1949-Oscar Blau's Israel arrival.jpg
-2 FORM jpg
-2 TITL 1949-Oscar Blau's Israel arrival
-2 _DATE 5/13/26, 1:24:20 PM
-0 @M2629@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940-Census-Sadie Bodek.jpg
-2 FORM jpg
-2 TITL 1940-US-Census-Bodek-Sadie-Hank
-2 _DATE 6/21/2017 8:42:12 PM
-0 @M2097@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1945-Rose-Weiss-Naturalization.jpg
-2 FORM jpg
-2 TITL 1945-Rose-Weiss-Naturalization Index
-0 @M6354@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Jochil-Hecht-in-Vienna-address-book.jpg
-2 FORM jpg
-2 TITL 1938-Jochil-Hecht-in-Vienna-address-book
-2 _DATE 5/12/26, 6:58:14 PM
-0 @M2330@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1927-Gertrude-Blau-burial.jpg
-2 FORM jpg
-2 TITL 1927-Gertrude-Blau-burial
-0 @M2696@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930-Erika-Teres-Ilonka-Josef-Blau.jpg
-2 FORM jpg
-2 TITL 1930-Erika-Teres-Ilonka-Josef-Blau
-2 _DATE 12/4/2021 9:29:14 AM
-0 @M1133@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1917-Aron-Altchouler-WWI.jpg
-2 FORM jpg
-2 TITL 1917-Aron-Altchouler-WWI-Draft-Card
-0 @M2663@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Hecht/1935-Rose-Hecht-1st-husband-William-Reiss.jpg
-2 FORM jpg
-2 TITL 1935-Rose-Hecht-1st-husband-William-Reiss
-2 _DATE 4/29/1938 5:28:54 PM
-0 @M1233@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1948-Erika-Blau-family-ship.jpg
-2 FORM jpg
-2 TITL 1948-Erika-Blau-family-ship
-0 @M834@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/2001-Cookie-Hecht-grave.jpg
-2 FORM jpg
-2 TITL 2001-Cookie-Hecht-grave
-0 @M6388@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930-Spring-cuz-Josef, Aunt Charlotte Blau, Robt-Weiss-unk, Vienna.jpg
-2 FORM jpg
-2 TITL 1928-cuz-Josef, Aunt Charlotte Blau, Robt-Weiss-unk, Vienna-1
-2 _DATE 5/13/26, 1:29:40 PM
 0 @M2896@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Rose-Robt-Met-Volkstheater_Wien.jpg
 2 FORM jpg
 2 TITL 1938-Rose-Robt-Met-Volkstheater_Wien
 2 _DATE 12/31/2021 6:06:22 PM
-0 @M4958@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1944 Rose Hecht RI Naturalization.jpg
-2 FORM jpg
-2 TITL 1944 Rose Hecht RI Naturalization
-2 _TEXT National Archives at Boston; Waltham, Massachusetts; ARC Title: Petiti
-3 CONC ons and Records of Naturalization, 2/1842 - Ca. 1991; NAI Number: 3432
-3 CONC 872; Record Group Title: Records of District Courts of the United Stat
-3 CONC es, 1685-2009; Record Group Number: Rg 21
-0 @M2630@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Charles-Bodek-WWII.jpg
-2 FORM jpg
-2 TITL 1942-Charles-Bodek-WWII
-2 _DATE 6/21/2017 8:37:11 PM
-2 _TEXT The National Archives at St. Louis; St. Louis, Missouri; Record Grou
-3 CONC p Title: Records of the Selective Service System, 1926-1975; Record Gr
-3 CONC oup Number: 147
-0 @M2364@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1940-1959/1950s/Hecht-Weiss/1952-Edith-liz-rose-hilda-george-anita-herman.jpg
-2 FORM jpg
-2 TITL 1952-Edith-liz-rose-hilda-george-anita-herman
-0 @M402@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1931-Oskar-Blau-Burial.jpg
-2 FORM jpg
-2 TITL 1931-Oskar-Blau-Burial
-0 @M4659@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1850-Betti-Fuchs-birth.jpg
-2 FORM jpg
-2 TITL 1850-Betti-Fuchs-birth
-2 _DATE 1/15/2023 3:29:11 PM
-0 @M2331@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1901-Hersch-Hecht-death-bk.jpg
-2 FORM jpg
-2 TITL 1901-Hersch-Hecht-death-bk
-0 @M901@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1899-Clara Hecht-birth.jpg
-2 FORM jpg
-2 TITL 1899-Clara Hecht-birth-shrt
-0 @M2697@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930s-Erika-Blau.jpg
-2 FORM jpg
-2 TITL 1930s-Erika-Blau
-2 _DATE 12/4/2021 9:25:11 AM
-0 @M5524@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1917-Rosa-Blau-death.jpg
-2 FORM jpg
-2 TITL 1917-Rosa-Blau-death
-2 _DATE 12/4/2024 12:43:20 PM
-0 @M968@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1917-Kurt-Blau-birth.jpg
-2 FORM jpg
-2 TITL 1917-Kurt-Blau-birth
 0 @M2897@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940s-Aron-Clara-Altchouler-US-Directory.jpg
 2 FORM jpg
 2 TITL 1940s-Aron-Clara-Altchouler-US-Directory
 2 _DATE 12/31/2021 6:06:22 PM
-0 @M2631@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930 Census Sadie Bodek.jpg
-2 FORM jpg
-2 TITL 1930-US-Census-Sadie-Bodek-shrt
-2 _DATE 4/21/2012 9:05:59 PM
-0 @M669@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940s-Grete-Stor-Blau.jpg
-2 FORM jpg
-2 TITL 1940s-Grete-Stor-Blau
-0 @M2332@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1901-Hersch-Hecht-death-frt.jpg
-2 FORM jpg
-2 TITL 1901-Hersch-Hecht-death-frt
-0 @M2698@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930s-Josef-Blau-uncle.jpg
-2 FORM jpg
-2 TITL 1930s-Josef-Blau-uncle
-2 _DATE 12/4/2021 9:21:07 AM
-0 @M2432@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1950s-Teresa-Blau.jpg
-2 FORM jpg
-2 TITL 1950s-Teresa-Blau
-2 _DATE 12/4/2021 10:14:50 AM
-0 @M1135@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Weiss/1910-Jakob-Weiss-Left.jpg
-2 FORM jpg
-2 TITL 1910-Jakob-Weiss-Left
-0 @M1002@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1931-Oskar-Blau-death-Vienna.jpg
-2 FORM jpg
-2 TITL 1931-Oskar-Blau-death-Vienna
-0 @M2665@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1939-Dec-Rose Robt-Weiss marriage.jpg
-2 FORM jpg
-2 TITL 1939-Dec-Rose Robt-Weiss marriage
-2 _DATE 6/21/2017 10:22:08 PM
-0 @M1501@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1920-Blau-Richard-Vienna Address Book.jpg
-2 FORM jpg
-2 TITL 1920-Blau-Richard-Vienna Address Book
-2 _TEXT Deutsche National Bibliothek; Leipzig, Deutschland; Publisher: A. Höld
-3 CONC er öst. Anzeigeges.m.b.H.; Bestand: 62; Signatur: ZC 3187; Laufende Nu
-3 CONC mmer: 6
 0 @M2898@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940 Census Hecht-Weiss.jpg
 2 FORM jpg
 2 TITL 1940-US-Census-Hecht-Weiss
 2 _DATE 6/21/2017 9:52:55 PM
-0 @M2632@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1960-1999/1960s/1962/saunders' wedding/1962-Sadie-Charlie-Bodek.jpg
-2 FORM jpg
-2 TITL 1962-Sadie-Charlie-Bodek
-2 _DATE 10/12/2009 6:28:46 AM
-0 @M404@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1967-Robt Weiss-biog.jpg
-2 FORM jpg
-2 TITL 1967-Robt Weiss-biog
-0 @M903@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Edmund-Blau-deportation-2.jpg
-2 FORM jpg
-2 TITL 1942-Edmund-Blau-deportation-2
-0 @M2832@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1906-Maximillian-Hecht-death.jpg
-2 FORM jpg
-2 TITL 1906-Maximillian-Hecht-death
-2 _DATE 4/8/2021 8:49:25 PM
-0 @M6424@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1917-Jack Hecht-Cleveland Directory.jpg
-2 FORM jpg
-2 TITL 1917-Jack Hecht-Cleveland Directory
-2 _DATE 5/21/26, 1:09:14 PM
-0 @M2633@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1960-1999/1960s/1962/saunders' wedding/1962-Sadie-Hecht-Bodek.jpg
-2 FORM jpg
-2 TITL 1962-Sadie-Hecht-Bodek
-2 _DATE 10/12/2009 6:28:46 AM
-0 @M804@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1960-1999/1960s/1962/saunders' wedding/1962-Jack-Hecht.jpg
-2 FORM jpg
-2 TITL 1962-Jack-Hecht
-0 @M2334@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1928-Adele-Schapira-Hecht-death.jpg
-2 FORM jpg
-2 TITL 1928-Adele-Schapira-Hecht-death
-0 @M2434@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1885-Hermine-Blau-burial-Vienna.jpg
-2 FORM jpg
-2 TITL 1885-Hermine-Blau-burial-Vienna
-0 @M6425@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1988-Jacob-Hecht-obit-1.jpg
-2 FORM jpg
-2 TITL 1988-Jacob-Hecht-obit-1
-2 _DATE 5/21/26, 8:03:33 PM
-0 @M2667@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1935-Hilde-Weiss-Vienna Address Book.jpg
-2 FORM jpg
-2 TITL 1935-Hilde-Weiss-Vienna Address Book
-2 _TEXT Deutsche National Bibliothek; Leipzig, Deutschland; Publisher: Herold
-3 CONC ; Bestand: 76; Signatur: ZC 3187; Laufende Nummer: 17
-0 @M2634@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1912 Sadie Hecht arrival.jpg
-2 FORM jpg
-2 TITL 1912 Sadie Hecht arrival
-2 _DATE 9/6/2017 7:37:17 PM
-0 @M6359@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1916-Hermine-Blau-birth.jpg
-2 FORM jpg
-2 TITL 1916-Hermine-Blau-birth
-2 _DATE 5/12/26, 8:48:54 PM
-0 @M2335@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1906-Max-Hecht-burial.jpg
-2 FORM jpg
-2 TITL 1906-Max-Hecht-burial
-0 @M2834@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1908-Rose Hecht-birth.jpg
-2 FORM jpg
-2 TITL 1908-Rose-Hecht-birth
-2 _DATE 7/13/2009 10:17:25 PM
-0 @M240@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1925-Clara-Aron-Marriage-cert.jpg
-2 FORM jpg
-2 TITL 1925-Clara-Aron-Marriage-cert
-0 @M6426@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1935-Sunrise Brewing Co.jpg
-2 FORM jpg
-2 TITL 1935-Sunrise Brewing Co
-2 _DATE 5/21/26, 8:43:15 PM
-0 @M2934@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1965-Ernst-Blau-Vienna Address Book.jpg
-2 FORM jpg
-2 TITL 1965-Ernst-Blau-Vienna Address Book
-2 _DATE 12/31/2021 6:06:22 PM
-0 @M473@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1947-Laura Hecht-Marvin-Rosenfeld-wedding.jpg
-2 FORM jpg
-2 TITL 1947-Laura Hecht-Marvin Rosenfeld wedding photo
 0 @M2901@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Aron-Altchouler-WWII.jpg
 2 FORM jpg
 2 TITL 1942-Aron-Altchouler-WWII
 2 _DATE 11/30/2019 1:17:33 PM
-0 @M2635@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1905-Maximillian-Hecht-birth.jpg
-2 FORM jpg
-2 TITL 1905-Maximillian-Hecht-birth
-2 _DATE 4/8/2021 8:47:25 PM
-0 @M939@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1922-Jacob-Hecht-Marriage.jpg
-2 FORM jpg
-2 TITL 1922 Jacob Hecht Marriage
-0 @M2602@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1890-Charlie_Bodek-birth.jpg
-2 FORM jpg
-2 TITL 1890-Charlie_Bodek-birth
-0 @M2336@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1903-Reuven-Hecht-death-bk.jpg
-2 FORM jpg
-2 TITL 1903-Reuven-Hecht-death-bk
-0 @M2835@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1910 Census Charlie Bodek.jpg
-2 FORM jpg
-2 TITL 1910 US Census Charlie Bodek
-2 _DATE 12/31/2021 6:06:22 PM
-2 _TEXT Year: 1910; Census Place: Pittsburgh Ward 3, Allegheny, Pennsylvania
-3 CONC ; Roll: T624_1299; Page: 7B; Enumeration District: 0313; FHL microfilm
-3 CONC : 1375312
-0 @M5529@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1925-Blaus-in-Vienna-directory of houses.jpg
-2 FORM jpg
-2 TITL 1925-Blaus-in-Vienna-directory of houses
-2 _DATE 12/7/2024 12:36:42 PM
-0 @M1904@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1943-Robt Weiss-Naturalization petition.jpg
-2 FORM jpg
-2 TITL 1943-Robt Weiss-Naturalization petition
-0 @M6427@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1934-Jack Hecht opens Cedar Gardens.jpg
-2 FORM jpg
-2 TITL 1934-Jack Hecht opens Cedar Gardens
-2 _DATE 5/22/26, 3:54:54 PM
-0 @M2669@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1894-Edmund-Blau-Birth-Vienna-1.jpg
-2 FORM jpg
-2 TITL 1894-Edmund-Blau-Birth-Vienna-1
-2 _DATE 4/4/2021 10:55:38 AM
-0 @M4465@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Robt-Weiss-escape-7.jpg
-2 FORM jpg
-2 TITL 1938-Robt-Weiss-escape-7
-2 _DATE 9/13/2022 8:24:21 PM
-0 @M840@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1931-Elsa-Blau-Weisz-death-Vienna.jpg
-2 FORM jpg
-2 TITL 1931-Elsa-Blau-Weisz-death-Vienna
-0 @M2636@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930 Census Jack Joe Hecht.jpg
-2 FORM jpg
-2 TITL 1930-US Census-Jack-Joe-Hecht-shrt
-2 _DATE 4/21/2012 9:05:55 PM
-0 @M175@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1960-1999/1960s/1962/saunders' wedding/1962-Clara-Hecht-Altchouler.jpg
-2 FORM jpg
-2 TITL 1962-Clara-Hecht-Altchouler
-0 @M2470@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940-Hilde-Jakob-Herman-Arrival-Canada.jpg
-2 FORM jpg
-2 TITL 1940-Hilde-Jakob-Herman-Arrival-Canada
-2 _TEXT The National Archives at Washington, D.C.; Washington, D.C.; Series Ti
-3 CONC tle: Index to Alien Arrivals at Canadian Atlantic and Pacific Seaports
-3 CONC ; NAI Number: 3000080; Record Group Title: Records of the Immigratio
-3 CONC n and Naturalization Service, 1787-2004; Record
-0 @M2337@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1905-Max-Hecht-birth-2.jpg
-2 FORM jpg
-2 TITL 1905-Max-Hecht-birth-2
-0 @M2836@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1911-Charlie_Bodek-as-Hecht-arrival.jpg
-2 FORM jpg
-2 TITL 1911-Charlie_Bodek-as-Hecht-ship-shrt
-2 _DATE 9/6/2017 7:14:20 PM
-0 @M1273@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1945-Jack-Herman-naturalization.jpg
-2 FORM jpg
-2 TITL 1945-Jack-Herman-naturalization
-0 @M109@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1999-Hilde-Weiss-grave.jpg
-2 FORM jpg
-2 TITL 1999-Hilde-Weiss-gravestone
-0 @M6428@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1936-Jewish New Year at Cedar Gardens.jpg
-2 FORM jpg
-2 TITL 1936-Jewish New Year at Cedar Gardens
-2 _DATE 5/22/26, 3:55:04 PM
-0 @M708@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1885-Hermine-Blau-death-Vienna.jpg
-2 FORM jpg
-2 TITL 1885-Hermine-Blau-death-Vienna
-0 @M176@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930-Schindel-Blau-Burial.jpg
-2 FORM jpg
-2 TITL 1930-Schindel-Blau-Burial
-0 @M941@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1940-1959/1940s/Hecht-Weiss/1940-Hilda Weiss-Jack-Herman.jpg
-2 FORM jpg
-2 TITL 1940-Hilda Weiss-Jack-Herman
-2 _DATE 10/12/2009 6:19:02 AM
-0 @M2338@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1925-Joe Hecht Arrival-2.jpg
-2 FORM jpg
-2 TITL 1925-Joe Hecht-New York, Passenger List
-2 _TEXT Year: 1925; Arrival: New York, New York, USA; Microfilm Serial: T715
-3 CONC , 1897-1957; Line: 8; Page Number: 54
-0 @M6429@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1936-Hecht's Cedar Gardens anti-union.jpg
-2 FORM jpg
-2 TITL 1936-Hecht's Cedar Gardens anti-union
-2 _DATE 5/22/26, 3:55:12 PM
-0 @M2671@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Weiss/1930s-Edmund-Blau-back.jpg
-2 FORM jpg
-2 TITL 1930s-Edmund-Blau-1-back
-2 _DATE 12/31/2021 5:26:01 PM
-0 @M1507@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940-Blau-Vienna Address Book.jpg
-2 FORM jpg
-2 TITL 1940-Blau-Vienna Address Book
-2 _TEXT Deutsche National Bibliothek; Leipzig, Deutschland; Publisher: Herold
-3 CONC ; Bestand: 81; Signatur: ZC 3187; Laufende Nummer: 25
-0 @M5897@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1982-rose-hecht-weiss-grave.JPG
-2 FORM jpg
-2 TITL 1982-rose-hecht-weiss-grave
-2 _DATE 5/14/25, 1:12:11 PM
-0 @M1241@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1948-Erika-Blau-arrival.jpg
-2 FORM jpg
-2 TITL 1948-Erika-Blau-arrival
-2 _TEXT Year: 1948; Arrival: New York, New York, USA; Microfilm Serial: T715
-3 CONC , 1897-1957; Line: 8; Page Number: 29
-0 @M1108@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1928-Adele-Schapira-Hecht-Burial.jpg
-2 FORM jpg
-2 TITL 1928-Adele-Schapira-Hecht-Burial
-0 @M4467@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Robt-Weiss-escape-5.jpg
-2 FORM jpg
-2 TITL 1938-Robt-Weiss-escape-5
-2 _DATE 9/13/2022 8:24:21 PM
 0 @M2904@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1945-Edith Weiss-Holocaust-1.jpg
 2 FORM jpg
 2 TITL 1945-Edith Weiss-Holocaust-1
 2 _DATE 6/13/2021 4:02:12 PM
-0 @M2638@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940 Census Joe Hecht.jpg
-2 FORM jpg
-2 TITL 1940-US Census-Joe-Hecht
-2 _DATE 9/9/2017 12:06:49 AM
-0 @M44@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1945-Edith-Weiss-Holocaust-1.jpg
-2 FORM jpg
-2 TITL 1945-Edith-Weiss-Holocaust-1
-0 @M3270@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1910 Census Aron Bodek.jpg
-2 FORM jpg
-2 TITL 1910-US-Census-Aron-Bodek
-2 _DATE 1/27/2021 3:59:19 PM
-0 @M410@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1982-Rose-Hecht-obit.jpg
-2 FORM jpg
-2 TITL 1982-Rose-Hecht-obit
-0 @M2339@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1914 Jacob Hecht arrival.jpg
-2 FORM jpg
-2 TITL 1914-Jacob-Hecht-ship
-2 _TEXT The National Archives at Washington, D.C.; Washington, D.C.; Records o
-3 CONC f the US Customs Service, RG36; NAI Number: 2655153; Record Group Titl
-3 CONC e: Records of the Immigration and Naturalization Service, 1787-2004; R
-3 CONC ecord Group Number: 85
-0 @M4135@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1949-Hilde Weisz Herman-Directory.jpg
-2 FORM jpg
-2 TITL U.S. City Directories, 1822-1995
-0 @M2838@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1915-8-8-Jakob-Weiss-obit.jpg
-2 FORM jpg
-2 TITL 1915-8-8-Jakob-Weiss-obit
-2 _DATE 6/5/1935 9:47:44 AM
-0 @M5532@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1933-Hilde-Weiss-in-Vienna-address-book.jpg
-2 FORM jpg
-2 TITL 1933-Hilde-Weiss-in-Vienna-address-book
-2 _DATE 12/8/2024 12:20:07 PM
-0 @M6430@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1937-Cedar Gardens-new-white-family-manager.jpg
-2 FORM jpg
-2 TITL 1937-Cedar Gardens-new-white-family-manager
-2 _DATE 5/22/26, 4:06:16 PM
-0 @M2938@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1971-Charlie-Bodek-grave.jpg
-2 FORM jpg
-2 TITL 1971-Charlie-Bodek-grave
-2 _DATE 12/31/2021 6:06:22 PM
-0 @M2672@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940s-Edmund-Blau.jpg
-2 FORM jpg
-2 TITL 1940s-Edmund-Blau
-2 _DATE 3/30/2021 4:50:00 PM
-0 @M1508@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940s-Edith-Weiss-Naturalization Index.jpg
-2 FORM jpg
-2 TITL 1940s-Edith-Weiss-Naturalization Index
-0 @M5898@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1993-Robert-Weiss-grave.jpg
-2 FORM jpg
-2 TITL 1993-Robert-Weiss-grave
-2 _DATE 5/14/25, 1:20:33 PM
-0 @M4468@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Robt-Weiss-escape-4.jpg
-2 FORM jpg
-2 TITL 1938-Robt-Weiss-escape-4
-2 _DATE 9/13/2022 8:24:21 PM
-0 @M5366@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1931-Oskar-Blau-grave.JPG
-2 FORM jpg
-2 TITL 1931-Oskar-Blau-grave
-2 _DATE 10/19/2023 1:28:10 PM
 0 @M2905@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1945-Edith-Weiss-Holocaust-2.jpg
 2 FORM jpg
 2 TITL 1945-Edith-Weiss-Terezin
 2 _DATE 4/13/2021 7:21:51 PM
-0 @M2639@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1917-Joe-Hecht WWI.jpg
-2 FORM jpg
-2 TITL 1917-Joe-Hecht-US WW I Draft
-2 _DATE 11/30/2019 1:17:32 PM
-0 @M2739@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1945-Erika-Blau-Jack-Johnston-wedding-Italy.jpg
-2 FORM jpg
-2 TITL 1945-Erika-Blau-Jack-Johnston-wedding-Italy
-2 _DATE 12/4/2021 9:30:44 AM
-0 @M2473@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940-Hilde-Weisz-UK-WWII Alien Internees.jpg
-2 FORM jpg
-2 TITL 1940-Hilde-Weisz-UK-WWII Alien Internees
-2 _TEXT The National Archives; Kew, London, England; HO 396 WW2 Internees (Ali
-3 CONC ens) Index Cards 1939-1947; Reference Number: HO 396/229
-0 @M2340@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1920-Joe Hecht-Naturalization-PA.jpg
-2 FORM jpg
-2 TITL 1920-Joe Hecht-Naturalization-PA
-2 _TEXT The National Archives in Washington, D.C.; Washington, D.C.; Record Gr
-3 CONC oup Title: Records of District Courts of the United States; Record Gro
-3 CONC up Number: 21
-0 @M378@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1915-Jakab-Weiss-obit-1.jpg
-2 FORM jpg
-2 TITL 1915-Jakab-Weiss-obit-1
-0 @M1276@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1941-Jacob-Herman-Naturalization.jpg
-2 FORM jpg
-2 TITL 1941-Jacob-Herman-Naturalization
-2 _TEXT The National Archives at Philadelphia; Philadelphia, Pennsylvania; NA
-3 CONC I Title: Declarations of Intention for Citizenship, 1/19/1842 - 10/29/
-3 CONC 1959; NAI Number: 4713410; Record Group Title: Records of District Cou
-3 CONC rts of the United States, 1685-2009; Record Gro
-0 @M1010@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Hecht/1920-Joe-Hecht.jpg
-2 FORM jpg
-2 TITL 1920s-Joe Hecht
-0 @M1908@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930-Elsa-Weisz-Vienna-Address-Book.jpg
-2 FORM jpg
-2 TITL 1930-Elsa-Weisz-Vienna Address Book
-2 _TEXT Deutsche National Bibliothek; Leipzig, Deutschland; Publisher: Herold
-3 CONC ; Bestand: 71; Signatur: ZC 3187; Laufende Nummer: 7
-0 @M6431@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1937-Cedar Gardens-sells-half-to-BIL.jpg
-2 FORM jpg
-2 TITL 1937-Cedar Gardens-sells-half-to-BIL
-2 _DATE 5/22/26, 4:16:27 PM
-0 @M2673@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Edmund Blau-Aug-24.jpg
-2 FORM jpg
-2 TITL 1942-Edmund Blau-Aug-24
-2 _DATE 3/18/2006 4:46:25 AM
-0 @M345@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1903-Reuven-Hecht-death.jpg
-2 FORM jpg
-2 TITL 1903-Reuven-Hecht-Death
-0 @M4469@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Robt-Weiss-escape-3.jpg
-2 FORM jpg
-2 TITL 1938-Robt-Weiss-escape-3
-2 _DATE 9/13/2022 8:24:21 PM
 0 @M2906@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1945-Edith-Weiss-Holocaust-3.jpg
 2 FORM jpg
 2 TITL 1945-Edith-Weiss-Vienna
 2 _DATE 12/31/2021 6:06:22 PM
-0 @M445@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1960-1999/1960s/1962/saunders' wedding/1962-Aron-Altchouler.jpg
-2 FORM jpg
-2 TITL 1962-Aron-Altchouler
-0 @M2640@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1925-Joe-Hecht-Passport-BACK-to-Vienna.jpg
-2 FORM jpg
-2 TITL 1925-Joe-Hecht-Passport-BACK-to-Vienna
-2 _DATE 3/28/2021 1:47:10 PM
-0 @M811@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1946-Walter-Blau.jpg
-2 FORM jpg
-2 TITL 1946-Walter-Blau
-0 @M545@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1925-Clara-Aron-Marriage-pic.jpg
-2 FORM jpg
-2 TITL 1925-Clara-Aron-Marriage-pic
-0 @M2474@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1948-Hilde Weisz Herman-Directory.jpg
-2 FORM jpg
-2 TITL U.S. City Directories, 1822-1995
-0 @M2341@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1925 Jacob Hecht arrival-2.jpg
-2 FORM jpg
-2 TITL 1925-Jacob-Hecht-Ship
-2 _TEXT Year: 1925; Arrival: New York, New York, USA; Microfilm Serial: T715
-3 CONC , 1897-1957; Line: 1; Page Number: 45
-0 @M5534@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1926-Weisz-fam-Vienna-address-book.jpg
-2 FORM jpg
-2 TITL 1926-Weisz-fam-Vienna-address-book
-2 _DATE 12/8/2024 12:58:50 PM
-0 @M6432@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940-Cedar Gardens-Unionizing.jpg
-2 FORM jpg
-2 TITL 1940-Cedar Gardens-Unionizing
-2 _DATE 5/22/26, 4:36:05 PM
-0 @M5268@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1899-Jakob-Weiss-directory.jpg
-2 FORM jpg
-2 TITL 1899-Jakob-Weiss-directory
-2 _DATE 8/13/2023 1:24:57 PM
-0 @M2674@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Edmund Blau-deportation-list.jpg
-2 FORM jpg
-2 TITL 1942-Edmund Blau-deportation-list
-2 _DATE 3/18/2006 4:46:25 AM
-0 @M80@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1973-Kurt-Blau.jpg
-2 FORM jpg
-2 TITL 1973-Kurt-Blau
-0 @M4470@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Robt-Weiss-escape-2.jpg
-2 FORM jpg
-2 TITL 1938-Robt-Weiss-escape-2
-2 _DATE 9/13/2022 8:24:21 PM
-0 @M3040@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1919-Margarethe-Schwarz-marriage.jpg
-2 FORM jpg
-2 TITL 1919-Margarethe-Schwarz-marriage
 0 @M2907@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1947-Edith Weiss-Holocaust-3.jpg
 2 FORM jpg
 2 TITL 1947-Edith Weiss-Holocaust-3
 2 _DATE 6/13/2021 4:25:19 PM
-0 @M2741@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1946-Blaus-Vienna.jpg
-2 FORM jpg
-2 TITL 1946-Blaus-Vienna
-2 _DATE 12/31/2021 5:33:00 PM
-0 @M2841@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Hecht/1917-Jachil-Siggy-Hecht.jpg
-2 FORM jpg
-2 TITL 1917-Jachil-Siggy-Hecht
-2 _DATE 12/31/2021 6:06:22 PM
-0 @M879@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1914-Richard-Blau-Marriage-Vienna.jpg
-2 FORM jpg
-2 TITL 1914-Richard-Blau-Marriage-Vienna
-0 @M6433@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1875-Samuel-Blau-Betti-Fuchs-marriage.jpg
-2 FORM jpg
-2 TITL 1875-Samuel-Blau-Betti-Fuchs-marriage
-2 _DATE 5/26/26, 12:35:57 PM
-0 @M2675@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Edmund-Blau-deportation-Drancy.jpg
-2 FORM jpg
-2 TITL 1942-Edmund-Blau-deportation-Drancy
-2 _DATE 4/24/2021 9:51:00 AM
-0 @M4471@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Robt-Weiss-escape-1.jpg
-2 FORM jpg
-2 TITL 1938-Robt-Weiss-escape-1
-2 _DATE 9/13/2022 8:24:21 PM
 0 @M2908@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1947-Edith Weiss-Holocaust-4.jpg
 2 FORM jpg
 2 TITL 1947-Edith Weiss-Holocaust-4
 2 _DATE 6/13/2021 4:27:43 PM
-0 @M6267@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1894-Edmund-Blau-Birth-Vienna-2.jpg
-2 FORM jpg
-2 TITL 1894-Edmund-Blau-Birth-Vienna-2
-2 _DATE 5/9/26, 6:24:35 PM
-0 @M2642@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1917-Joe-Hecht-intent-Naturalization.jpg
-2 FORM jpg
-2 TITL 1917-Joe-Hecht-intent-Naturalization
-2 _DATE 11/30/2019 1:17:29 PM
-0 @M1079@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940s-Julianna Osman.jpg
-2 FORM jpg
-2 TITL 1940s-Julianna Osman
-2 _TEXT From Yad Vashem
-0 @M1578@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1915-Blau-Vienna Address Book.jpg
-2 FORM jpg
-2 TITL 1915-Blau-Vienna Address Book
-2 _TEXT Deutsche National Bibliothek; Leipzig, Deutschland; Publisher: A. Höld
-3 CONC er öst. Anzeigeges.m.b.H.; Bestand: 57; Signatur: ZC 3187; Laufende Nu
-3 CONC mmer: 2
-0 @M2842@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1918-Aron-Altchouler-WWI.jpg
-2 FORM jpg
-2 TITL 1918-Aron-Altchouler-US-WWI-Service
-2 _DATE 12/31/2021 6:06:22 PM
-0 @M4472@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Anna-Schepan-escape-2.jpg
-2 FORM jpg
-2 TITL 1938-Anna-Schepan-escape-2
-2 _DATE 9/13/2022 8:24:21 PM
 0 @M2909@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1947-Edith-Weiss-Ship.jpg
 2 FORM jpg
@@ -7127,488 +7358,115 @@
 2 _DATE 6/18/2021 3:01:31 PM
 2 _TEXT Year: 1947; Arrival: New York, New York, USA; Microfilm Serial: T715
 3 CONC , 1897-1957; Line: 5; Page Number: 181
-0 @M2643@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1913-Joe Hecht arrival.jpg
-2 FORM jpg
-2 TITL 1913-Joe-Hecht-ship
-2 _DATE 9/16/2017 4:24:36 AM
-0 @M1479@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1945-Hilde-Weiss-Naturalization.jpg
-2 FORM jpg
-2 TITL 1945-Hilde-Weiss-Naturalization-Index
-0 @M2610@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Weiss/1900-Jacob-Weiss-Vienna.jpg
-2 FORM jpg
-2 TITL 1900-Jacob-Weiss-Vienna
-2 _DATE 3/15/2005 11:33:28 PM
-0 @M2344@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Weiss/1930s-Edmund-Blau-fnt.jpg
-2 FORM jpg
-2 TITL 1930s-Edmund-Blau-1-fnt
-0 @M2078@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1933-Sigfried-Hecht-Canada Border Crossing.jpg
-2 FORM jpg
-2 TITL 1933-Border Crossings from U.S. to Canada
-2 _TEXT Library and Archives Canada; 1908-1935 Border Entries; Roll: T-15384
-0 @M2843@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1919-Heinrich-Blau-marriage.jpg
-2 FORM jpg
-2 TITL 1919-Heinrich-Blau-marriage
-2 _DATE 12/31/2021 6:06:22 PM
-0 @M6069@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1910-Sigfried Hecht-birth.jpg
-2 FORM jpg
-2 TITL 1910-Sigfried Hecht-birth
-2 _DATE 12/4/2024 6:16:08 PM
-0 @M382@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1888-Richard-Blau-Birth-Vienna.jpg
-2 FORM jpg
-2 TITL 1888-Richard-Blau-Birth-Vienna
-0 @M2444@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1890-Bertha-Schwarz-birth.jpg
-2 FORM jpg
-2 TITL 1890-Bertha-Schwarz-birth
-0 @M4639@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1921 Clara Hecht arrival.jpg
-2 FORM jpg
-2 TITL 1921 Clara Hecht arrival-1
-2 _TEXT Year: 1921; Arrival: New York, New York, USA; Microfilm Serial: T715
-3 CONC , 1897-1957; Line: 11; Page Number: 71
-0 @M5537@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Edmund-Blau-in-Vienna-address-book.jpg
-2 FORM jpg
-2 TITL 1938-Edmund-Blau-in-Vienna-address-book
-2 _DATE 12/8/2024 3:18:24 PM
-0 @M2943@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1988-Aron-Altchouler-grave.jpg
-2 FORM jpg
-2 TITL 1988-Aron-Altchouler-grave
-2 _DATE 12/31/2021 6:06:22 PM
-0 @M615@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930 Census Clara Hecht.jpg
-2 FORM jpg
-2 TITL 1930 US Census Altchouler
-0 @M2677@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1953-Edmund-Blau-yad-vashem.jpg
-2 FORM jpg
-2 TITL 1953-Edmund-Blau-yad-vashem
-2 _DATE 12/31/2021 5:26:01 PM
-0 @M4473@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Anna-Schepan-escape-1.jpg
-2 FORM jpg
-2 TITL 1938-Anna-Schepan-escape-1
-2 _DATE 9/13/2022 8:24:21 PM
 0 @M2910@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1940-1959/1950s/Hecht-Weiss/1950-Altchouler-TV.jpg
 2 FORM jpg
 2 TITL 1950-Altchouler-TV
 2 _DATE 9/17/2017 5:00:45 PM
-0 @M316@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1939-Robert Weiss-arrival NY.jpg
-2 FORM jpg
-2 TITL 1939-Robert Weiss-arrival NY
-2 _TEXT Year: 1939; Arrival: New York, New York; Microfilm Serial: T715, 1897-
-3 CONC 1957; Microfilm Roll: Roll 6320; Line: 2; Page Number: 37
-0 @M6369@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1957-Kurt-Blau-Caracas Venezuela.jpg
-2 FORM jpg
-2 TITL 1957-Kurt-Blau-Caracas Venezuela
-2 _DATE 5/12/26, 9:58:43 PM
-0 @M2611@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1876-Ernestine_Blau_birth-1.jpg
-2 FORM jpg
-2 TITL 1876-Ernestine_Blau_birth-1
-0 @M2478@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940-Jack-Hilde-Herman-ship.jpg
-2 FORM jpg
-2 TITL 1940-Jack-Hilde-Herman-ship
-2 _TEXT The National Archives at Washington, D.C.; Washington, D.C.; Manifest
-3 CONC s of Passengers Arriving at St. Albans, VT, District through Canadia
-3 CONC n Pacific and Atlantic Ports, 1895-1954; Record Group Title: Records o
-3 CONC f the Immigration and Naturalization Service, 178
-0 @M17@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930-1976-Blau-Kurt-Siegfried-Grave.jpg
-2 FORM jpg
-2 TITL Blau-Kurt-Siegfried-Grave
-0 @M2977@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1952-Jochel Hecht-grave.JPG
-2 FORM jpg
-2 TITL 1952 Jochil Hecht grave
-2 _DATE 1/2/2022 1:24:09 PM
-0 @M2844@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1920-Aron-Altchouler-Naturalization-1.jpg
-2 FORM jpg
-2 TITL 1920-Aron-Altchouler-Naturalization-1
-2 _DATE 9/26/2017 6:36:51 PM
-0 @M2445@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1892-Margarethe-Schwarz-birth-Vienna.jpg
-2 FORM jpg
-2 TITL 1892-Margarethe-Schwarz-birth-Vienna
-0 @M1281@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940-Hilde-Weiss-marriage.jpg
-2 FORM jpg
-2 TITL 1940-Hilde-Weiss-marriage
-2 _TEXT General Register Office; United Kingdom; Volume: 1c; Page: 800
-0 @M5538@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1936-Edmund-Blau-in-Vienna-address-book.jpg
-2 FORM jpg
-2 TITL 1936-Edmund-Blau-in-Vienna-address-book
-2 _DATE 12/9/2024 4:59:21 PM
-0 @M2944@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1988-Aron-Altchouler-obit.jpg
-2 FORM jpg
-2 TITL 1988-Aron-Altchouler-obit
-2 _DATE 12/31/2021 6:06:22 PM
-0 @M1115@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930s-Josef-Blau.jpg
-2 FORM jpg
-2 TITL 1930s-Josef-Blau
-0 @M1880@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1927 Bodek Directory.jpg
-2 FORM jpg
-2 TITL 1927 Bodek Directory
 0 @M2911@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1950 Directory Fred Hecht.jpg
 2 FORM jpg
 2 TITL 1950s-Fred-Hecht-FL-Directory
 2 _DATE 11/30/2019 1:17:30 PM
-0 @M6270@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1901-Julianna-Oszmann-birth.jpg
-2 FORM jpg
-2 TITL 1901-Julianna-Oszmann-birth
-2 _DATE 5/9/26, 6:30:56 PM
-0 @M2645@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1954-Joe-Hecht-Grave.jpg
-2 FORM jpg
-2 TITL 1954-Joe-Hecht-Grave
-2 _DATE 12/29/2021 5:57:15 PM
-0 @M2512@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1946-Edith-Weisz-Passenger List.jpg
-2 FORM jpg
-2 TITL 1946-Edith-Weisz-Passenger List.jpg
-2 _TEXT Arolsen Archives, Digital Archive; Bad Arolsen, Germany; Lists of Pers
-3 CONC ecutees 2.1.1.1
-0 @M949@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1886-Oskar-Blau-Birth-Vienna.jpg
-2 FORM jpg
-2 TITL 1886-Oskar-Blau-Birth-Vienna
-0 @M683@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940 Census Altchouler.jpg
-2 FORM jpg
-2 TITL 1940-US Census-Altchouler
-0 @M2845@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1920-Aron-Altchouler-Naturalization-2.jpg
-2 FORM jpg
-2 TITL 1920-Aron-Altchouler-Naturalization-2
-2 _DATE 12/31/2021 6:06:22 PM
-0 @M5539@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1934-Edmund-Blau-in-Vienna-address-book.jpg
-2 FORM jpg
-2 TITL 1934-Edmund-Blau-in-Vienna-address-book
-2 _DATE 12/9/2024 5:11:54 PM
-0 @M883@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1900-Hersch-Hecht-jr-birth.jpg
-2 FORM jpg
-2 TITL 1900-Hersch-Hecht-jr-birth-shrt
-0 @M2945@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1988-Jacob-Hecht-grave.jpg
-2 FORM jpg
-2 TITL 1988-Jacob-Hecht-grave
-2 _DATE 12/31/2021 6:06:22 PM
-0 @M5506@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Edmund Blau-Nazi-deportation.jpg
-2 FORM jpg
-2 TITL 1942-Edmund Blau-Nazi-deportation
-2 _DATE 11/21/2024 3:18:11 PM
-0 @M2646@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1922-Joe-Hecht_US-naturalization.jpg
-2 FORM jpg
-2 TITL 1922-Joe-Hehct_US-naturalization
-2 _DATE 9/6/2017 10:44:03 PM
-0 @M185@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1906-Karlsbad-Addr-Book-Temple-Jakob-Weiss.jpg
-2 FORM jpg
-2 TITL 1906-Karlsbad-Addr-Book-Temple-Jakob-Weiss
-0 @M950@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1921 Clara Hecht arrival-detain.jpg
-2 FORM jpg
-2 TITL 1921-Clara_Hecht-ship-detain
-0 @M6338@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940-Hilde-Weiss-crossing from Cananda.jpg
-2 FORM jpg
-2 TITL 1940-Hilde-Weiss-crossing from Cananda
-2 _DATE 5/12/26, 12:27:51 PM
-0 @M2846@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Weiss/1930s-Hilda Weiss-1.jpg
-2 FORM jpg
-2 TITL 1930s-Hilda Weiss
-2 _DATE 10/12/2009 11:33:06 AM
-0 @M385@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1931-Elsa-Blau-Weisz-Burial.jpg
-2 FORM jpg
-2 TITL 1931-Elsa-Blau-Weisz-Burial
-0 @M2447@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Erika-Blau.jpg
-2 FORM jpg
-2 TITL 1942-Erika-Blau
-0 @M751@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1944-Robt Weiss-Naturalization Cert.jpg
-2 FORM jpg
-2 TITL 1944-Robt Weiss-Naturalization Cert
-0 @M2946@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1988-Jacob-Hecht-obit.jpg
-2 FORM jpg
-2 TITL 1988-Jacob-Hecht-obit
-2 _DATE 12/31/2021 6:06:22 PM
-0 @M2647@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1894-Joe_Hecht-birth.jpg
-2 FORM jpg
-2 TITL 1894-Joe_Hecht-birth
-2 _DATE 9/6/2017 6:57:15 PM
-0 @M2614@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1873-Jakab-Weisz-birth-Romania.jpg
-2 FORM jpg
-2 TITL 1873-Jakab-Weisz-birth-Romania
-2 _DATE 12/28/2021 10:43:04 AM
-0 @M286@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1929-Edmund-Juliana-Blau-marriage-Vienna.jpg
-2 FORM jpg
-2 TITL 1929-Edmund-Juliana-Blau-marriage-Vienna
-0 @M153@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1967-Robt Weiss-news.jpg
-2 FORM jpg
-2 TITL 1967-Robt Weiss-news
-0 @M2348@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1891-Josef-Blau-Birth-Vienna.jpg
-2 FORM jpg
-2 TITL 1891-Josef-Blau-Birth-Vienna
-0 @M3246@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/2001-Cookie-Hecht-obit.jpg
-2 FORM jpg
-2 TITL 2001-Cookie-Hecht-obit
-0 @M2847@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Weiss/1930s-Hilda Weiss-3.jpg
-2 FORM jpg
-2 TITL 1930s-Hilda Weiss
-2 _DATE 10/12/2009 6:07:27 AM
-0 @M5042@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1907 Charlie Bodek departure.jpg
-2 FORM jpg
-2 TITL 1907 Charlie Bodek departure
-2 _TEXT Staatsarchiv Hamburg; Hamburg, Deutschland; Hamburger Passagierlisten
-3 CONC ; Volume: 373-7 I, VIII A 1 Band 190; Page: 1478; Microfilm No.: K_180
-3 CONC 0
-0 @M2448@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1903-Robert-Weisz-birth-Karlsbad.jpg
-2 FORM jpg
-2 TITL 1903-Robert-Weisz-birth-Karlsbad
-0 @M2548@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1949-Kurt-Blau-Uruguay.jpg
-2 FORM jpg
-2 TITL 1949-Kurt-Blau-Uruguay
-0 @M586@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1931-Samuel-Blau-death-Vienna-2.jpg
-2 FORM jpg
-2 TITL 1931-Samuel-Blau-death-Vienna
-0 @M2648@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1920-Joe-Hecht-marriage-cert.jpg
-2 FORM jpg
-2 TITL 1920-Joe-Hecht-marriage-cert
-2 _DATE 12/29/2021 5:57:15 PM
-0 @M54@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1960-1999/1960s/1962/saunders' wedding/1962-Charlie-Bodek.jpg
-2 FORM jpg
-2 TITL 1962-Charlie-Bodek
-0 @M1983@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Jacob-Hecht-WWII.jpg
-2 FORM jpg
-2 TITL 1942-Jacob-Hecht-WWII Draft Card
-2 _TEXT The National Archives at St. Louis; St. Louis, Missouri; Record Grou
-3 CONC p Title: Records of the Selective Service System, 1926-1975; Record Gr
-3 CONC oup Number: 147
-0 @M6373@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1784-1949-Karlsbad-IKG index link.jpg
-2 FORM jpg
-2 TITL Karlsbad-IKG index link
-2 _DATE 5/12/26, 10:18:39 PM
-0 @M2482@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1939-Jack-Herman-internee.jpg
-2 FORM jpg
-2 TITL 1939-Jack-Herman-internee
-2 _TEXT The National Archives; Kew, London, England; HO 396 WW2 Internees (Ali
-3 CONC ens) Index Cards 1939-1947; Reference Number: HO 396/229
-0 @M2349@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/Walter-Oskar-Blau.jpg
-2 FORM jpg
-2 TITL Walter-Oskar-Blau
-0 @M2848@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Weiss/1930s-Hilda Weiss-2.jpg
-2 FORM jpg
-2 TITL 1930s-Hilda Weiss
-2 _DATE 10/12/2009 6:08:32 AM
-0 @M2449@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1911-Aranka-Weisz-birth record.jpg
-2 FORM jpg
-2 TITL 1911-Aranka-Weisz-birth-Karlsbad
-0 @M1917@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Robt-Weiss WWII.jpg
-2 FORM jpg
-2 TITL 1942-WWII Draft Card-Robt-Weiss.jpg
-2 _TEXT The National Archives in St. Louis, Missouri; St. Louis, Missouri; Dra
-3 CONC ft Registration Cards for Ohio, 10/16/1940-03/31/1947; Record Group: R
-3 CONC ecords of the Selective Service System, 147; Box: 1551
-0 @M2549@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1959-Kurt-Blau-Brazil.jpg
-2 FORM jpg
-2 TITL 1959-Kurt-Blau-Brazil
-0 @M1884@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1920-Charlie-Bodek-Naturalization Petition.jpg
-2 FORM jpg
-2 TITL 1920-Charlie Bodek - Naturalization Petition
-2 _TEXT The National Archives at Washington, D.C.; Washington, D.C.; ARC Title
-3 CONC : Naturalization Petition and Record Books for the U.S. District Cour
-3 CONC t for the Northern District of Ohio, Eastern Division, Cleveland, 1907
-3 CONC –1946; NAI: M1995; Record Group Title: Records
 0 @M2915@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1955-Ernst-Blau-Vienna Address Book.jpg
 2 FORM jpg
 2 TITL 1955-Ernst-Blau-Vienna Address Book
 2 _DATE 12/31/2021 6:06:22 PM
-0 @M5110@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Josef-Blau-younger-yad-vashem-death.jpg
-2 FORM jpg
-2 TITL 1942-Josef-Blau-younger-yad-vashem-death
-0 @M2649@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Hecht/1920-Clara-Hecht.jpg
-2 FORM jpg
-2 TITL 1920-Clara-Hecht
-2 _DATE 12/30/2021 12:13:28 PM
-0 @M2450@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1905-Edith-Weisz-birth-Karlsbad.jpg
-2 FORM jpg
-2 TITL 1905-Edith-Weisz-birth-Karlsbad
-0 @M2417@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1928-Ernst-Blau-birth.jpg
-2 FORM jpg
-2 TITL 1928-Ernst-Blau-birth
-0 @M721@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1931-Dec-Robt Weiss-PhD-grad.jpg
-2 FORM jpg
-2 TITL 1931-Dec-Robt Weiss-PhD-grad.
 0 @M2916@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1955-Sarah-Miller-Hecht-grave.jpg
 2 FORM jpg
 2 TITL 1955-Sarah-Miller-Hecht-grave
 2 _DATE 12/31/2021 6:06:22 PM
-0 @M2650@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940-US-Census-Jack-Hecht.jpg
+0 @M2926@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1963-Anna-Rubinoff-Hecht-grave.jpg
 2 FORM jpg
-2 TITL 1940-US-Census-Jack-Hecht
-2 _DATE 9/9/2017 12:06:03 AM
-0 @M5477@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1891-Elsa-Blau-school-report card.jpg
-2 FORM jpg
-2 TITL 1891-Elsa-Blau-school-report card
-2 _DATE 10/14/2024 1:37:36 PM
-0 @M1985@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1917-Jacob-Hecht-WWI.jpg
-2 FORM jpg
-2 TITL 1917-Jacob-Hecht-WWI Draft Card
-2 _TEXT Registration State: Ohio; Registration County: Cuyahoga; Roll: 1831856
-3 CONC ; Draft Board: 13
-0 @M6375@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1917 Charlie Bodek as Hecht WWI Card.jpg
-2 FORM jpg
-2 TITL 1917 Charlie Bodek as Hecht WWI Card
-2 _DATE 5/12/26, 10:21:57 PM
-0 @M555@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/2000s-Oscar_Blau.jpg
-2 FORM jpg
-2 TITL 2000s-Oscar_Blau
-0 @M2717@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1941-Ilonka-Blau-Berger.jpg
-2 FORM jpg
-2 TITL 1941-Ilonka-Blau-Berger
-2 _DATE 12/4/2021 9:24:17 AM
-0 @M4646@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1892-Anna-Maria-Schepan-baptism.jpg
-2 FORM jpg
-2 TITL 1892-Anna-Maria-Schepan-baptism
-2 _TEXT Archiv de Erzdiözese Wien; Wien, Österreich; Katholische Kirchenbücher
-3 CONC ; Pfarre: Erdberg, St Peter und Paul; Signatur: 9024; Laufendenummer
-3 CONC : 01-31
-0 @M1919@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1935-Robt-Weiss-Vienna Address Book.jpg
-2 FORM jpg
-2 TITL 1935-Robt-Weiss-Vienna Address Book
-2 _TEXT Deutsche National Bibliothek; Leipzig, Deutschland; Publisher: Herold
-3 CONC ; Bestand: 76; Signatur: ZC 3187; Laufende Nummer: 17
-0 @M622@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/2010s-Rebecca-Schreiber-Blau.jpg
-2 FORM jpg
-2 TITL 2010s-Rebecca-Schreiber-Blau
-0 @M2418@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930-Walter-Blau-birth.jpg
-2 FORM jpg
-2 TITL 1930-Walter-Blau-birth
-0 @M1886@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1907 Charles Bodek arrival.jpg
-2 FORM jpg
-2 TITL 1907-Charlie Bodek-PA-Ship
-2 _TEXT Year: 1907; Arrival: New York, New York, USA; Microfilm Serial: T715
-3 CONC , 1897-1957; Line: 1; Page Number: 73
-0 @M5245@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1876-Blau's-home-Langenzersdorf-2022.jpg
-2 FORM jpg
-2 TITL 1876-Blau's-home-Langenzersdorf-2022
-2 _DATE 7/25/2023 4:27:02 PM
-0 @M2651@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1960-1999/1960s/1962/saunders' wedding/1962-Jack-Esther-Hecht.jpg
-2 FORM jpg
-2 TITL 1962-Jack-Esther-Hecht
-2 _DATE 10/18/2007 9:35:53 PM
-0 @M2618@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1906-Weiss-in-Karlsbad-Address-Book.jpg
-2 FORM jpg
-2 TITL 1906-Weiss-in-Karlsbad-Address-Book
-2 _DATE 12/28/2021 10:43:04 AM
-0 @M2485@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1939 Jack-Herman-England-Register.jpg
-2 FORM jpg
-2 TITL 1939 Jack-Herman-England-Register
-2 _TEXT The National Archives; Kew, London, England; 1939 Register; Reference
-3 CONC : RG 101/1781C
-0 @M24@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1914-Jacob-Hecht-Naturalization.jpg
-2 FORM jpg
-2 TITL 1914-Jacob-Hecht-IL-Naturalization-declaration
-2 _TEXT National Archives at Chicago; Chicago, Illinois; ARC Title: Declaratio
-3 CONC ns of Intention for Citizenship, 1903 - 1981; NAI Number: 6756420; Rec
-3 CONC ord Group Title: Records of District Courts of the United States, 1685
-3 CONC -2009; Record Group Number: RG 21
-0 @M2851@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1921-Aron-Altchouler-1st-marriage.jpg
-2 FORM jpg
-2 TITL 1921-Aron-Altchouler-1st-marriage
+2 TITL 1963-Anna-Rubinoff-Hecht-grave
 2 _DATE 12/31/2021 6:06:22 PM
-0 @M2452@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1911-Aranka-Weisz-death-Karlsbad.jpg
+0 @M2934@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1965-Ernst-Blau-Vienna Address Book.jpg
 2 FORM jpg
-2 TITL 1911-Aranka-Weisz-death-Karlsbad
-0 @M6443@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1950-Census-Jos Hecht, Rollins.jpg
+2 TITL 1965-Ernst-Blau-Vienna Address Book
+2 _DATE 12/31/2021 6:06:22 PM
+0 @M2938@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1971-Charlie-Bodek-grave.jpg
 2 FORM jpg
-2 TITL 1950-Census-Jos Hecht, Rollins
-2 _DATE 6/19/26, 12:04:54 PM
-0 @M2552@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1968-Kurt-Blau-Italy.jpg
+2 TITL 1971-Charlie-Bodek-grave
+2 _DATE 12/31/2021 6:06:22 PM
+0 @M2943@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1988-Aron-Altchouler-grave.jpg
 2 FORM jpg
-2 TITL 1968-Kurt-Blau-Italy
-0 @M1488@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940-Hilde-Weiss-marriage-1.jpg
+2 TITL 1988-Aron-Altchouler-grave
+2 _DATE 12/31/2021 6:06:22 PM
+0 @M2944@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1988-Aron-Altchouler-obit.jpg
 2 FORM jpg
-2 TITL 1940-Hilde-Weiss-marriage-1
-2 _TEXT General Register Office; United Kingdom; Volume: 1c; Page: 800
+2 TITL 1988-Aron-Altchouler-obit
+2 _DATE 12/31/2021 6:06:22 PM
+0 @M2945@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1988-Jacob-Hecht-grave.jpg
+2 FORM jpg
+2 TITL 1988-Jacob-Hecht-grave
+2 _DATE 12/31/2021 6:06:22 PM
+0 @M2946@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1988-Jacob-Hecht-obit.jpg
+2 FORM jpg
+2 TITL 1988-Jacob-Hecht-obit
+2 _DATE 12/31/2021 6:06:22 PM
+0 @M2955@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/2021-Hecht-MtOliveMap.jpg
+2 FORM jpg
+2 TITL MtOliveMap-6-1-2013-Mark20
+2 _DATE 6/21/2013 1:47:39 PM
+0 @M2959@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930-VIenna-Addressbook-Blaus.jpg
+2 FORM jpg
+2 TITL 1930-VIenna-Addressbook-Blaus
+2 _DATE 4/6/2021 8:09:09 PM
+0 @M2977@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1952-Jochel Hecht-grave.JPG
+2 FORM jpg
+2 TITL 1952 Jochil Hecht grave
+2 _DATE 1/2/2022 1:24:09 PM
+0 @M2985@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1933 Siegfried Hecht departure.jpg
+2 FORM jpg
+2 TITL 1933-Siegfried-Hecht-ship
+2 _TEXT The National Archives; Kew, Surrey, England; BT27 Board of Trade: Comm
+3 CONC ercial and Statistical Department and Successors: Outwards Passenger L
+3 CONC ists; Reference Number: Series BT27-143730
+0 @M3040@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1919-Margarethe-Schwarz-marriage.jpg
+2 FORM jpg
+2 TITL 1919-Margarethe-Schwarz-marriage
+0 @M3246@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/2001-Cookie-Hecht-obit.jpg
+2 FORM jpg
+2 TITL 2001-Cookie-Hecht-obit
+0 @M3255@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1882-Heinrich-Blau-birth.jpg
+2 FORM jpg
+2 TITL 1882-Heinrich-Blau-birth
+2 _DATE 7/13/2009 10:32:32 PM
+0 @M3270@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1910 Census Aron Bodek.jpg
+2 FORM jpg
+2 TITL 1910-US-Census-Aron-Bodek
+2 _DATE 1/27/2021 3:59:19 PM
+0 @M3294@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1925-Blau-Portrait-Vienna.jpg
+2 FORM jpg
+2 TITL 1925-Blau-Portrait-Vienna
+2 _DATE 3/8/2009 1:26:11 AM
+0 @M3351@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1933 Sigfried Hecht arrival.jpg
+2 FORM jpg
+2 TITL 1933-Sigfried-Hecht-ship
+0 @M3356@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940-Jacob-Herman-WWII.jpg
+2 FORM jpg
+2 TITL 1940-Jacob-Herman-WWII Draft Card
+2 _DATE 2/10/2022 9:07:49 AM
 0 @M3417@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1950 Census Weiss.jpg
 2 FORM jpg
@@ -7617,432 +7475,408 @@
 3 CONC nteenth Census of the United States, 1950; Record Group: Records of th
 3 CONC e Bureau of the Census, 1790-2007; Record Group Number: 29; Residenc
 3 CONC e Date: 1950; Home in 1950: Providence, Providen
-0 @M6377@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1911-09-04-Elsa Weisz on Karlsbad Spa List.jpg
+0 @M4135@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1949-Hilde Weisz Herman-Directory.jpg
 2 FORM jpg
-2 TITL 1911-09-04-Elsa Weisz on Karlsbad Spa List
-2 _DATE 5/12/26, 10:36:05 PM
-0 @M424@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Jochel-Hecht-ship.jpg
+2 TITL U.S. City Directories, 1822-1995
+0 @M4451@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Josef-Blau-escape-2.jpg
 2 FORM jpg
-2 TITL 1938-Jochel-Hecht-ship-orig-shrt
-0 @M2985@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1933 Siegfried Hecht departure.jpg
+2 TITL 1938-Josef-Blau-escape-2
+2 _DATE 9/13/2022 8:24:21 PM
+0 @M4452@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Josef-Blau-escape-1.jpg
 2 FORM jpg
-2 TITL 1933-Siegfried-Hecht-ship
-2 _TEXT The National Archives; Kew, Surrey, England; BT27 Board of Trade: Comm
-3 CONC ercial and Statistical Department and Successors: Outwards Passenger L
-3 CONC ists; Reference Number: Series BT27-143730
-0 @M1821@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1916-Jacob-Hecht-Marriage.jpg
+2 TITL 1938-Josef-Blau-escape-1
+2 _DATE 9/13/2022 8:24:21 PM
+0 @M4456@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Richard-Blau-escape-2.jpg
 2 FORM jpg
-2 TITL 1916-Jacob-Hecht-Marriage
-0 @M2852@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1921-Charles-Bodek-as-Hecht_US-nat.jpg
+2 TITL 1938-Richard-Blau-escape-2
+2 _DATE 9/13/2022 8:24:21 PM
+0 @M4457@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Richard-Blau-escape-1.jpg
 2 FORM jpg
-2 TITL 1921-Charles-Bodek-as-Hecht_nat
+2 TITL 1938-Richard-Blau-escape-1
+2 _DATE 9/13/2022 8:24:21 PM
+0 @M4465@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Robt-Weiss-escape-7.jpg
+2 FORM jpg
+2 TITL 1938-Robt-Weiss-escape-7
+2 _DATE 9/13/2022 8:24:21 PM
+0 @M4467@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Robt-Weiss-escape-5.jpg
+2 FORM jpg
+2 TITL 1938-Robt-Weiss-escape-5
+2 _DATE 9/13/2022 8:24:21 PM
+0 @M4468@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Robt-Weiss-escape-4.jpg
+2 FORM jpg
+2 TITL 1938-Robt-Weiss-escape-4
+2 _DATE 9/13/2022 8:24:21 PM
+0 @M4469@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Robt-Weiss-escape-3.jpg
+2 FORM jpg
+2 TITL 1938-Robt-Weiss-escape-3
+2 _DATE 9/13/2022 8:24:21 PM
+0 @M4470@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Robt-Weiss-escape-2.jpg
+2 FORM jpg
+2 TITL 1938-Robt-Weiss-escape-2
+2 _DATE 9/13/2022 8:24:21 PM
+0 @M4471@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Robt-Weiss-escape-1.jpg
+2 FORM jpg
+2 TITL 1938-Robt-Weiss-escape-1
+2 _DATE 9/13/2022 8:24:21 PM
+0 @M4472@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Anna-Schepan-escape-2.jpg
+2 FORM jpg
+2 TITL 1938-Anna-Schepan-escape-2
+2 _DATE 9/13/2022 8:24:21 PM
+0 @M4473@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Anna-Schepan-escape-1.jpg
+2 FORM jpg
+2 TITL 1938-Anna-Schepan-escape-1
+2 _DATE 9/13/2022 8:24:21 PM
+0 @M4639@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1921 Clara Hecht arrival.jpg
+2 FORM jpg
+2 TITL 1921 Clara Hecht arrival-1
+2 _TEXT Year: 1921; Arrival: New York, New York, USA; Microfilm Serial: T715
+3 CONC , 1897-1957; Line: 11; Page Number: 71
+0 @M4646@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1892-Anna-Maria-Schepan-baptism.jpg
+2 FORM jpg
+2 TITL 1892-Anna-Maria-Schepan-baptism
+2 _TEXT Archiv de Erzdiözese Wien; Wien, Österreich; Katholische Kirchenbücher
+3 CONC ; Pfarre: Erdberg, St Peter und Paul; Signatur: 9024; Laufendenummer
+3 CONC : 01-31
 0 @M4648@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1950-Anna-Schepan-Blau-Vienna Address Book.jpg
 2 FORM jpg
 2 TITL 1950-Anna-Schepan-Blau-Vienna Address Book
 2 _TEXT Deutsche National Bibliothek; Leipzig, Deutschland; Publisher: Herold
 3 CONC ; Signatur: ZC 3187; Laufende Nummer: 4
-0 @M2320@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1905-Maximillian-Hecht-birth-1.jpg
-2 FORM jpg
-2 TITL 1905-Maximillian-Hecht-birth-1
-0 @M3351@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1933 Sigfried Hecht arrival.jpg
-2 FORM jpg
-2 TITL 1933-Sigfried-Hecht-ship
-0 @M2420@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1946-Edith-in-Vienna.jpg
-2 FORM jpg
-2 TITL 1946-Edith-in-Vienna
-0 @M1888@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1921-Charlie-Bodek-Naturalization.jpg
-2 FORM jpg
-2 TITL 1921-Charlie-Bodek-Naturalization
-2 _TEXT National Archives and Records Administration (NARA); Washington, D.C.
-3 CONC ; Index Cards to Naturalization Petitions for the U.S. District Cour
-3 CONC t for the Northern District of Ohio, Eastern Division, Cleveland, 1855
-3 CONC -1967; Microfilm Serial: M1893; Microfilm Roll: 1
-0 @M2653@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1934-Clara Hecht Naturalization.jpg
-2 FORM jpg
-2 TITL 1934-Clara-Hecht-Natrl
-2 _DATE 9/27/2017 8:30:30 PM
-0 @M59@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1933-Betti-Blau-Burial.jpg
-2 FORM jpg
-2 TITL 1933-Betti-Blau-Burial
-0 @M159@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1914-Oskar-Blau-Marriage-Vienna.jpg
-2 FORM jpg
-2 TITL 1914-Oskar-Blau-Marriage-Vienna
-0 @M1955@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1934-Altchouler-Directory.jpg
-2 FORM jpg
-2 TITL Altchouler-Directory
-0 @M2853@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1922-Aron-Altchouler-US-passport-app.jpg
-2 FORM jpg
-2 TITL 1922-Aron-Altchouler-US-passport-app
-2 _DATE 9/26/2017 6:23:47 PM
-0 @M2454@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1908-Hilde-Weisz-birth-Karlsbad.jpg
-2 FORM jpg
-2 TITL 1908-Hilde-Weisz-birth-Karlsbad
 0 @M4649@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940-Blau-Vienna Address Book.jpg
 2 FORM jpg
 2 TITL 1940-Blaus-Vienna Address Book
 2 _TEXT Deutsche National Bibliothek; Leipzig, Deutschland; Publisher: Herold
 3 CONC ; Bestand: 81; Signatur: ZC 3187; Laufende Nummer: 25
-0 @M2321@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1903-Reuven-Hecht-death-frt.jpg
+0 @M4659@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1850-Betti-Fuchs-birth.jpg
 2 FORM jpg
-2 TITL 1903-Reuven-Hecht-death-frt
-0 @M6445@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1954-Jos-Hecht-obit.jpg
+2 TITL 1850-Betti-Fuchs-birth
+2 _DATE 1/15/2023 3:29:11 PM
+0 @M4958@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1944 Rose Hecht RI Naturalization.jpg
 2 FORM jpg
-2 TITL 1954-Jos-Hecht-obit
-2 _DATE 6/20/26, 2:43:19 PM
-0 @M2654@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1981-Clara-Hecht-Altchouler-grave.jpg
+2 TITL 1944 Rose Hecht RI Naturalization
+2 _TEXT National Archives at Boston; Waltham, Massachusetts; ARC Title: Petiti
+3 CONC ons and Records of Naturalization, 2/1842 - Ca. 1991; NAI Number: 3432
+3 CONC 872; Record Group Title: Records of District Courts of the United Stat
+3 CONC es, 1685-2009; Record Group Number: Rg 21
+0 @M5042@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1907 Charlie Bodek departure.jpg
 2 FORM jpg
-2 TITL 1981-Clara-Hecht-Altchouler-grave
-2 _DATE 12/30/2021 12:37:51 PM
-0 @M6346@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1932-Hechts-in-Vienna-address-book.jpg
+2 TITL 1907 Charlie Bodek departure
+2 _TEXT Staatsarchiv Hamburg; Hamburg, Deutschland; Hamburger Passagierlisten
+3 CONC ; Volume: 373-7 I, VIII A 1 Band 190; Page: 1478; Microfilm No.: K_180
+3 CONC 0
+0 @M5110@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Josef-Blau-younger-yad-vashem-death.jpg
 2 FORM jpg
-2 TITL 1932-Hechts-in-Vienna-address-book
-2 _DATE 5/12/26, 6:19:58 PM
-0 @M6446@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1952-Yochel-Hecht-obit.jpg
+2 TITL 1942-Josef-Blau-younger-yad-vashem-death
+0 @M5245@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1876-Blau's-home-Langenzersdorf-2022.jpg
 2 FORM jpg
-2 TITL 1952-Yochel-Hecht-obit
-2 _DATE 6/21/26, 12:08:11 PM
-0 @M2821@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1878-Hermine-Blau-birth.jpg
+2 TITL 1876-Blau's-home-Langenzersdorf-2022
+2 _DATE 7/25/2023 4:27:02 PM
+0 @M5255@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1896-Map from Elsa's home to Jakob's Temple.jpg
 2 FORM jpg
-2 TITL 1878-Hermine-Blau-birth
-2 _DATE 7/13/2009 10:31:19 PM
-0 @M2422@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1934-Oskar-Blau-birth.jpg
+2 TITL 1896-Map from Elsa's home to Jakob's Temple
+2 _DATE 8/8/2023 12:42:32 PM
+0 @M5268@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1899-Jakob-Weiss-directory.jpg
 2 FORM jpg
-2 TITL 1934-Oskar-Blau-birth
-0 @M1890@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1916-Charlie-Bodek-Naturalization-PA.jpg
+2 TITL 1899-Jakob-Weiss-directory
+2 _DATE 8/13/2023 1:24:57 PM
+0 @M5366@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1931-Oskar-Blau-grave.JPG
 2 FORM jpg
-2 TITL 1916 Charlie Bodek, Naturalization - PA
-2 _TEXT The National Archives in Washington, D.C.; Philadelphia, Pennsylvania
-3 CONC ; Record Group Title: Records of District Courts of the United States
-3 CONC ; Record Group Number: 21
-0 @M593@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1944-Robt Weiss-Naturalization card.jpg
+2 TITL 1931-Oskar-Blau-grave
+2 _DATE 10/19/2023 1:28:10 PM
+0 @M5477@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1891-Elsa-Blau-school-report card.jpg
 2 FORM jpg
-2 TITL 1944-Robt Weiss-Naturalization card
-0 @M2655@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1981-Clara-Hecht-Altchouler-obit.jpg
+2 TITL 1891-Elsa-Blau-school-report card
+2 _DATE 10/14/2024 1:37:36 PM
+0 @M5506@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Edmund Blau-Nazi-deportation.jpg
 2 FORM jpg
-2 TITL 1981-Clara-Hecht-Altchouler-obit
-2 _DATE 12/30/2021 12:38:56 PM
-0 @M4451@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Josef-Blau-escape-2.jpg
+2 TITL 1942-Edmund Blau-Nazi-deportation
+2 _DATE 11/21/2024 3:18:11 PM
+0 @M5524@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1917-Rosa-Blau-death.jpg
 2 FORM jpg
-2 TITL 1938-Josef-Blau-escape-2
-2 _DATE 9/13/2022 8:24:21 PM
-0 @M6347@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1935-Hermine-Blau-ship to Israel.jpg
+2 TITL 1917-Rosa-Blau-death
+2 _DATE 12/4/2024 12:43:20 PM
+0 @M5529@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1925-Blaus-in-Vienna-directory of houses.jpg
 2 FORM jpg
-2 TITL 1935-Hermine-Blau-ship to Israel
-2 _DATE 5/12/26, 6:21:36 PM
-0 @M2722@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Josef-Blau-Transport.jpg
+2 TITL 1925-Blaus-in-Vienna-directory of houses
+2 _DATE 12/7/2024 12:36:42 PM
+0 @M5532@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1933-Hilde-Weiss-in-Vienna-address-book.jpg
 2 FORM jpg
-2 TITL 1942-Josef-Blau-Transport
-2 _DATE 6/19/2021 6:55:16 PM
-0 @M2323@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1905-Max-Hecht-birth-1.jpg
+2 TITL 1933-Hilde-Weiss-in-Vienna-address-book
+2 _DATE 12/8/2024 12:20:07 PM
+0 @M5534@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1926-Weisz-fam-Vienna-address-book.jpg
 2 FORM jpg
-2 TITL 1905-Max-Hecht-birth-1
-0 @M6447@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1946-Mina Blau Meller-Immigration App for family.pdf
-2 FORM pdf
-2 TITL 1945-Mina Blau Meller-Immigration App for family
-2 _DATE 6/21/26, 12:52:28 PM
-0 @M2955@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/2021-Hecht-MtOliveMap.jpg
+2 TITL 1926-Weisz-fam-Vienna-address-book
+2 _DATE 12/8/2024 12:58:50 PM
+0 @M5537@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Edmund-Blau-in-Vienna-address-book.jpg
 2 FORM jpg
-2 TITL MtOliveMap-6-1-2013-Mark20
-2 _DATE 6/21/2013 1:47:39 PM
+2 TITL 1938-Edmund-Blau-in-Vienna-address-book
+2 _DATE 12/8/2024 3:18:24 PM
+0 @M5538@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1936-Edmund-Blau-in-Vienna-address-book.jpg
+2 FORM jpg
+2 TITL 1936-Edmund-Blau-in-Vienna-address-book
+2 _DATE 12/9/2024 4:59:21 PM
+0 @M5539@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1934-Edmund-Blau-in-Vienna-address-book.jpg
+2 FORM jpg
+2 TITL 1934-Edmund-Blau-in-Vienna-address-book
+2 _DATE 12/9/2024 5:11:54 PM
+0 @M5897@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1982-rose-hecht-weiss-grave.JPG
+2 FORM jpg
+2 TITL 1982-rose-hecht-weiss-grave
+2 _DATE 5/14/25, 1:12:11 PM
+0 @M5898@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1993-Robert-Weiss-grave.jpg
+2 FORM jpg
+2 TITL 1993-Robert-Weiss-grave
+2 _DATE 5/14/25, 1:20:33 PM
+0 @M5921@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1978-Sadie-Hecht-obit.jpg
+2 FORM jpg
+2 TITL 1978-Sadie-Hecht-obit
+0 @M6069@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1910-Sigfried Hecht-birth.jpg
+2 FORM jpg
+2 TITL 1910-Sigfried Hecht-birth
+2 _DATE 12/4/2024 6:16:08 PM
+0 @M6267@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1894-Edmund-Blau-Birth-Vienna-2.jpg
+2 FORM jpg
+2 TITL 1894-Edmund-Blau-Birth-Vienna-2
+2 _DATE 5/9/26, 6:24:35 PM
+0 @M6270@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1901-Julianna-Oszmann-birth.jpg
+2 FORM jpg
+2 TITL 1901-Julianna-Oszmann-birth
+2 _DATE 5/9/26, 6:30:56 PM
 0 @M6314@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Edmund-Blau-escape-1.jpg
 2 FORM jpg
 2 TITL 1938-Edmund-Blau-escape-1
 2 _DATE 5/10/26, 11:41:57 AM
-0 @M594@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1899-Weiss-Blau-marriage-Vienna-1.jpg
-2 FORM jpg
-2 TITL 1899-Weiss-Blau-marriage-Vienna-1
-0 @M461@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1944-Juliana-Osman-transport.jpg
-2 FORM jpg
-2 TITL 1944-Juliana-Osman-transport
-0 @M328@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Hecht/1930s-Rose-Hecht-Weiss-Europe-23.jpg
-2 FORM jpg
-2 TITL 1930s-Rose-Hecht-Weiss-Europe-23
-0 @M4452@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Josef-Blau-escape-1.jpg
-2 FORM jpg
-2 TITL 1938-Josef-Blau-escape-1
-2 _DATE 9/13/2022 8:24:21 PM
-0 @M3255@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1882-Heinrich-Blau-birth.jpg
-2 FORM jpg
-2 TITL 1882-Heinrich-Blau-birth
-2 _DATE 7/13/2009 10:32:32 PM
-0 @M2856@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1928-Adele-Hecht-grave-section-10B-row9.jpg
-2 FORM jpg
-2 TITL 1928-Adele-Hecht-grave-section-10B-row9
-2 _DATE 12/31/2021 6:06:22 PM
-0 @M2324@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1907-Rosa-Blau-burial-1.jpg
-2 FORM jpg
-2 TITL 1907-Rosa-Blau-burial-1
-0 @M6448@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1946-Nov 15-Erika Blau-swim.jpg
-2 FORM jpg
-2 TITL 1946-Nov 15-Erika Blau-swim
-2 _DATE 6/21/26, 2:40:03 PM
 0 @M6315@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Edmund-Blau-escape-2.jpg
 2 FORM jpg
 2 TITL 1938-Edmund-Blau-escape-2
 2 _DATE 5/10/26, 11:41:57 AM
-0 @M2823@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1880-Emanuel-Blau-birth.jpg
-2 FORM jpg
-2 TITL 1880-Emanuel-Blau-birth
-2 _DATE 7/13/2009 10:31:19 PM
-0 @M229@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1939-Rose-Hecht-Natrl-Petition.jpg
-2 FORM jpg
-2 TITL 1939-Rose-Hecht-Natrl-Petition
-0 @M2424@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1943-Richard-Blau-nazi-transport.jpg
-2 FORM jpg
-2 TITL 1943-Richard-Blau-nazi-transport
-0 @M728@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930s-Juliana-Osman-Blau.jpg
-2 FORM jpg
-2 TITL 1930s-Juliana-Osman-Blau
-0 @M2657@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Hecht/1930s-Rose-Hecht-Weiss-Europe-03.jpg
-2 FORM jpg
-2 TITL 1930s-Rose-Hecht-Weiss-Europe-03
-2 _DATE 4/29/2007 6:03:50 PM
-0 @M2491@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1935-Blau-Vienna Address Book.jpg
-2 FORM jpg
-2 TITL 1935-Blau-Vienna Address Book
-2 _TEXT Deutsche National Bibliothek; Leipzig, Deutschland; Publisher: Herold
-3 CONC ; Bestand: 76; Signatur: ZC 3187; Laufende Nummer: 17
-0 @M130@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Hecht/1933-Rose_Hecht-1st-wedding.jpg
-2 FORM jpg
-2 TITL 1933-Rose_Hecht-1st-wedding
-0 @M3356@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940-Jacob-Herman-WWII.jpg
-2 FORM jpg
-2 TITL 1940-Jacob-Herman-WWII Draft Card
-2 _DATE 2/10/2022 9:07:49 AM
-0 @M1028@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1937-Heinrich-Blau-death-Vienna.jpg
-2 FORM jpg
-2 TITL 1937-Heinrich-Blau-death-Vienna
 0 @M6316@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Edmund-Blau-escape-3.jpg
 2 FORM jpg
 2 TITL 1938-Edmund-Blau-escape-3
 2 _DATE 5/10/26, 11:41:57 AM
-0 @M596@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1894-Edmund-Blau-Birth-Vienna-3.jpg
-2 FORM jpg
-2 TITL 1894-Edmund-Blau-Birth-Vienna-3
-0 @M2658@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1935-Rose_Hecht_flat_vienna_3_Hirschvogelgasse-2.jpg
-2 FORM jpg
-2 TITL 1935-Rose_Hecht_flat_vienna_3_Hirschvogelgasse-2
-2 _DATE 5/16/2005 7:43:26 PM
-0 @M2326@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1901-Hersch-hecht-death-jr.jpg
-2 FORM jpg
-2 TITL 1901-Hersch-Hecht-death
 0 @M6317@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1933-Robt-Weiss-in-Vienna-address-book.jpg
 2 FORM jpg
 2 TITL 1933-Robt-Weiss-in-Vienna-address-book
 2 _DATE 5/10/26, 12:57:05 PM
-0 @M863@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1882-Heinrich-Blau-Birth-Vienna.jpg
-2 FORM jpg
-2 TITL 1882-Heinrich-Blau-Birth-Vienna
-0 @M6417@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1926-Blaus-in-Vienna-address-book.jpg
-2 FORM jpg
-2 TITL 1926-Blaus-in-Vienna-address-book
-2 _DATE 5/17/26, 1:55:09 PM
-0 @M2659@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1935-Rose_Hecht_flat_vienna_3_Hirschvogelgasse-1.jpg
-2 FORM jpg
-2 TITL 1935-Rose_Hecht_flat_vienna_3_Hirschvogelgasse-1
-2 _DATE 5/16/2005 7:43:14 PM
-0 @M65@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1919-Sigfried-Blau-birth.jpg
-2 FORM jpg
-2 TITL 1919-Sigfried-Blau-birth
-0 @M2127@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Josef-Blau-Death-by-Nazis.jpg
-2 FORM jpg
-2 TITL 1942-Josef-Blau-Death-by-Nazis
-2 _TEXT Hesse, Germany, Deaths, 1851-1958 Record
-0 @M6384@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1931-Adele Hecht grave-pic-taken-2009.JPG
-2 FORM jpg
-2 TITL 1931-Adele Hecht grave-pic-taken-2009
-2 _DATE 5/13/26, 1:15:02 PM
-0 @M2626@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1920 Census Jack Joe Sadie Hecht.jpg
-2 FORM jpg
-2 TITL 1920 US Census Jack Joe Sadie Hecht
-2 _DATE 12/28/2021 6:29:25 PM
-0 @M2360@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1933-Betty-Fuchs-Blau-death-Vienna.jpg
-2 FORM jpg
-2 TITL 1933-Betty-Fuchs-Blau-death-Vienna
-0 @M2859@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930s-Charlie-Bodek-US-Directory.jpg
-2 FORM jpg
-2 TITL 1930s-Charlie-Bodek-US-Directory
-2 _DATE 12/31/2021 6:06:22 PM
-0 @M2460@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1939 Hilde-Weiss-England Register.jpg
-2 FORM jpg
-2 TITL 1939 Hilde-Weiss-England Register
-2 _TEXT The National Archives; Kew, London, England; 1939 Register; Reference
-3 CONC : RG 101/1086I
-0 @M897@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Edith-weiss-transport-list.jpg
-2 FORM jpg
-2 TITL 1942-Edith-Weiss-transport-list
-0 @M6451@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Robt-Weiss-Vienna.jpg
-2 FORM jpg
-2 TITL 1938-Robt-Weiss-Vienna
-2 _DATE 11/9/26, 3:02:55 PM
-0 @M2959@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930-VIenna-Addressbook-Blaus.jpg
-2 FORM jpg
-2 TITL 1930-VIenna-Addressbook-Blaus
-2 _DATE 4/6/2021 8:09:09 PM
 0 @M6318@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Robt-Weiss-in-Vienna-address-book.jpg
 2 FORM jpg
 2 TITL 1938-Robt-Weiss-in-Vienna-address-book
 2 _DATE 5/10/26, 1:04:15 PM
-0 @M2826@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1891-Hecht-Schapira-wedding.jpg
+0 @M6338@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940-Hilde-Weiss-crossing from Cananda.jpg
 2 FORM jpg
-2 TITL 1891-Hecht-Schapira-wedding
-2 _DATE 7/13/2009 10:16:08 PM
-0 @M864@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1903-Reuven-Hecht-and Sure Kanner-births-cousins.jpg
+2 TITL 1940-Hilde-Weiss-crossing from Cananda
+2 _DATE 5/12/26, 12:27:51 PM
+0 @M6346@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1932-Hechts-in-Vienna-address-book.jpg
 2 FORM jpg
-2 TITL 1903-Reuven-Hecht-birth
-0 @M6418@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1927-Blaus-in-Vienna-address-book.jpg
+2 TITL 1932-Hechts-in-Vienna-address-book
+2 _DATE 5/12/26, 6:19:58 PM
+0 @M6347@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1935-Hermine-Blau-ship to Israel.jpg
 2 FORM jpg
-2 TITL 1927-Blaus-in-Vienna-address-book
-2 _DATE 5/17/26, 5:17:42 PM
-0 @M2926@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1963-Anna-Rubinoff-Hecht-grave.jpg
+2 TITL 1935-Hermine-Blau-ship to Israel
+2 _DATE 5/12/26, 6:21:36 PM
+0 @M6354@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Jochil-Hecht-in-Vienna-address-book.jpg
 2 FORM jpg
-2 TITL 1963-Anna-Rubinoff-Hecht-grave
-2 _DATE 12/31/2021 6:06:22 PM
-0 @M598@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1937-Heinrich-Blau-Burial.jpg
+2 TITL 1938-Jochil-Hecht-in-Vienna-address-book
+2 _DATE 5/12/26, 6:58:14 PM
+0 @M6359@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1916-Hermine-Blau-birth.jpg
 2 FORM jpg
-2 TITL 1937-Heinrich-Blau-Burial
-0 @M66@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1914-Josef-Blau-birth.jpg
+2 TITL 1916-Hermine-Blau-birth
+2 _DATE 5/12/26, 8:48:54 PM
+0 @M6369@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1957-Kurt-Blau-Caracas Venezuela.jpg
 2 FORM jpg
-2 TITL 1914-Josef-Blau-birth
-0 @M4456@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Richard-Blau-escape-2.jpg
+2 TITL 1957-Kurt-Blau-Caracas Venezuela
+2 _DATE 5/12/26, 9:58:43 PM
+0 @M6373@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1784-1949-Karlsbad-IKG index link.jpg
 2 FORM jpg
-2 TITL 1938-Richard-Blau-escape-2
-2 _DATE 9/13/2022 8:24:21 PM
+2 TITL Karlsbad-IKG index link
+2 _DATE 5/12/26, 10:18:39 PM
+0 @M6375@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1917 Charlie Bodek as Hecht WWI Card.jpg
+2 FORM jpg
+2 TITL 1917 Charlie Bodek as Hecht WWI Card
+2 _DATE 5/12/26, 10:21:57 PM
+0 @M6377@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1911-09-04-Elsa Weisz on Karlsbad Spa List.jpg
+2 FORM jpg
+2 TITL 1911-09-04-Elsa Weisz on Karlsbad Spa List
+2 _DATE 5/12/26, 10:36:05 PM
+0 @M6384@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1931-Adele Hecht grave-pic-taken-2009.JPG
+2 FORM jpg
+2 TITL 1931-Adele Hecht grave-pic-taken-2009
+2 _DATE 5/13/26, 1:15:02 PM
 0 @M6385@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1914-Karlsbad-Addr-Book-Temple-Jakob-Weiss.jpg
 2 FORM jpg
 2 TITL 1914-Karlsbad-Addr-Book-Temple-Jakob-Weiss
 2 _DATE 5/13/26, 1:22:27 PM
-0 @M2627@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1978-Sadie-Hecht-Bodek-grave.JPG
+0 @M6386@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1914-Karlsbad-Addr-Book-Jakob-Weiss.jpg
 2 FORM jpg
-2 TITL 1978-Sadie-Hecht-Bodek-grave
-2 _DATE 12/28/2021 8:34:09 PM
-0 @M399@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1913-Jochil_Hecht-family.jpg
+2 TITL 1914-Karlsbad-Addr-Book-Jakob-Weiss
+2 _DATE 5/13/26, 1:22:52 PM
+0 @M6387@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1949-Oscar Blau's Israel arrival.jpg
 2 FORM jpg
-2 TITL 1913-Jochil_Hecht-family
-0 @M2328@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1907-Rosa-Blau-burial.jpg
+2 TITL 1949-Oscar Blau's Israel arrival
+2 _DATE 5/13/26, 1:24:20 PM
+0 @M6388@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1930-Spring-cuz-Josef, Aunt Charlotte Blau, Robt-Weiss-unk, Vienna.jpg
 2 FORM jpg
-2 TITL 1907-Rosa-Blau-burial
-0 @N4952@ NOTE
-1 CONC Nazi eviction from apartment information: Name: Edmund Blau, sex: male
-2 CONC , Date of birth: 1894-01-08, birthplace: Vienna, native country: Austr
-2 CONC ia, termination date: 1938-06-18, date of eviction: 1938-06-30, distri
-2 CONC ct: 1200, street: Friedrich-Engels-Platz, street number: 9. Notice Jul
-2 CONC i Blau, born 4.2.1901 in Steinamanger, gave up the flat on behalf of h
-2 CONC er husband. DOEW id: XX O 128/38 HM. Deportation: 1942-08-28 to Auschw
-2 CONC itz, Poland.
-2 CONT
-2 CONT 12/8/24 - I CANNOT figure out where I found this reference!
-0 @N4927@ NOTE
-1 CONC Likely survived Holocaust by his mother was not born a Jew.
-0 @N4988@ NOTE
-1 CONC 1200 Rauscherstrasse 6/23
-0 @N4945@ NOTE
-1 CONC This street was renamed several times: 1920-1934: Engelsplatz; 1934-19
-2 CONC 46: Pater-Abel-Platz; 1946: Friedrich-Engels-Platz, AND the addresse
-2 CONC s were renumbered. So 1200 Engelsplatz 4 became 1200 Pater-Abel-Plat
-2 CONC z 9 and then 1200 Friedrich-Engels-Platz 9.
-0 @N4920@ NOTE
-1 CONC Name: Hecht, Yochiel
-2 CONT Date: Apr 23 1952
-2 CONT Source: Cleveland Press, Reel #116
-2 CONT Notes: Hecht, Yochiel, husband of the late Adela, beloved father of Jo
-2 CONC seph, Jacob, Fred, Mrs. Sadie Bodek, Mrs. Clara Altchouler, and Mrs. R
-2 CONC ose Weiss, dear grandfather, and great-grandfather. Services at Berkow
-2 CONC itz & Son Inc. Funeral Chapel, 818 E. 105 St., Tuesday, Apr. 22, a
-2 CONC t 1 p. m. Interment Glenville Cemetery. Please omit flowers. Family a
-2 CONC t the home of Jacob Hecht, 3351 Glencairn Rd., Shaker Heights.
-0 @N4956@ NOTE
-1 CONC This street was renamed several times: 1920-1934: Engelsplatz; 1934-19
-2 CONC 46: Pater-Abel-Platz; 1946: Friedrich-Engels-Platz, AND the addresse
-2 CONC s were renumbered.
-2 CONT
-2 CONT So 1200 Engelsplatz 4 became 1200 Pater-Abel-Platz 9 and then 1200 Fri
-2 CONC edrich-Engels-Platz 9.
-2 CONT
-2 CONT https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/22158
-2 CONC 5
+2 TITL 1928-cuz-Josef, Aunt Charlotte Blau, Robt-Weiss-unk, Vienna-1
+2 _DATE 5/13/26, 1:29:40 PM
+0 @M6417@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1926-Blaus-in-Vienna-address-book.jpg
+2 FORM jpg
+2 TITL 1926-Blaus-in-Vienna-address-book
+2 _DATE 5/17/26, 1:55:09 PM
+0 @M6418@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1927-Blaus-in-Vienna-address-book.jpg
+2 FORM jpg
+2 TITL 1927-Blaus-in-Vienna-address-book
+2 _DATE 5/17/26, 5:17:42 PM
+0 @M6419@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1928-Blaus-in-Vienna-address-book.jpg
+2 FORM jpg
+2 TITL 1928-Blaus-in-Vienna-address-book
+2 _DATE 5/17/26, 5:29:51 PM
+0 @M6420@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Blaus-in-Vienna-address-book.jpg
+2 FORM jpg
+2 TITL 1938-Blaus-in-Vienna-address-book
+2 _DATE 5/17/26, 5:35:00 PM
+0 @M6424@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1917-Jack Hecht-Cleveland Directory.jpg
+2 FORM jpg
+2 TITL 1917-Jack Hecht-Cleveland Directory
+2 _DATE 5/21/26, 1:09:14 PM
+0 @M6425@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1988-Jacob-Hecht-obit-1.jpg
+2 FORM jpg
+2 TITL 1988-Jacob-Hecht-obit-1
+2 _DATE 5/21/26, 8:03:33 PM
+0 @M6426@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1935-Sunrise Brewing Co.jpg
+2 FORM jpg
+2 TITL 1935-Sunrise Brewing Co
+2 _DATE 5/21/26, 8:43:15 PM
+0 @M6427@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1934-Jack Hecht opens Cedar Gardens.jpg
+2 FORM jpg
+2 TITL 1934-Jack Hecht opens Cedar Gardens
+2 _DATE 5/22/26, 3:54:54 PM
+0 @M6428@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1936-Jewish New Year at Cedar Gardens.jpg
+2 FORM jpg
+2 TITL 1936-Jewish New Year at Cedar Gardens
+2 _DATE 5/22/26, 3:55:04 PM
+0 @M6429@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1936-Hecht's Cedar Gardens anti-union.jpg
+2 FORM jpg
+2 TITL 1936-Hecht's Cedar Gardens anti-union
+2 _DATE 5/22/26, 3:55:12 PM
+0 @M6430@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1937-Cedar Gardens-new-white-family-manager.jpg
+2 FORM jpg
+2 TITL 1937-Cedar Gardens-new-white-family-manager
+2 _DATE 5/22/26, 4:06:16 PM
+0 @M6431@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1937-Cedar Gardens-sells-half-to-BIL.jpg
+2 FORM jpg
+2 TITL 1937-Cedar Gardens-sells-half-to-BIL
+2 _DATE 5/22/26, 4:16:27 PM
+0 @M6432@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1940-Cedar Gardens-Unionizing.jpg
+2 FORM jpg
+2 TITL 1940-Cedar Gardens-Unionizing
+2 _DATE 5/22/26, 4:36:05 PM
+0 @M6433@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1875-Samuel-Blau-Betti-Fuchs-marriage.jpg
+2 FORM jpg
+2 TITL 1875-Samuel-Blau-Betti-Fuchs-marriage
+2 _DATE 5/26/26, 12:35:57 PM
+0 @M6443@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1950-Census-Jos Hecht, Rollins.jpg
+2 FORM jpg
+2 TITL 1950-Census-Jos Hecht, Rollins
+2 _DATE 6/19/26, 12:04:54 PM
+0 @M6445@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1954-Jos-Hecht-obit.jpg
+2 FORM jpg
+2 TITL 1954-Jos-Hecht-obit
+2 _DATE 6/20/26, 2:43:19 PM
+0 @M6446@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1952-Yochel-Hecht-obit.jpg
+2 FORM jpg
+2 TITL 1952-Yochel-Hecht-obit
+2 _DATE 6/21/26, 12:08:11 PM
+0 @M6447@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1946-Mina Blau Meller-Immigration App for family.pdf
+2 FORM pdf
+2 TITL 1945-Mina Blau Meller-Immigration App for family
+2 _DATE 6/21/26, 12:52:28 PM
+0 @M6448@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1946-Nov 15-Erika Blau-swim.jpg
+2 FORM jpg
+2 TITL 1946-Nov 15-Erika Blau-swim
+2 _DATE 6/21/26, 2:40:03 PM
+0 @M6451@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Robt-Weiss-Vienna.jpg
+2 FORM jpg
+2 TITL 1938-Robt-Weiss-Vienna
+2 _DATE 11/9/26, 3:02:55 PM
 0 @N4723@ NOTE
 1 CONC Jack remembered that as a child in Vienna, he saw the Emperor riding o
 2 CONC n horseback in a parade.
@@ -8060,38 +7894,23 @@
 2 CONC l one had disintegrated.
 0 @N4759@ NOTE
 1 CONC Submitter's Name: Valter Blau. Date of Registration 22/01/1957.
-0 @N4967@ NOTE
-1 CONC At 08:55, Transport 25 Train 901-20 left Drancy from the Bourget-Dranc
-2 CONC y train station with 1,000 Jews aboard.
-0 @N4942@ NOTE
-1 CONC This street was renamed several times: 1920-1934: Engelsplatz; 1934-19
-2 CONC 46: Pater-Abel-Platz; 1946: Friedrich-Engels-Platz, AND the addresse
-2 CONC s were renumbered. So 1200 Engelsplatz 4 became 1200 Pater-Abel-Plat
-2 CONC z 9 and then 1200 Friedrich-Engels-Platz 9.
-0 @N4953@ NOTE
-1 CONC Nazi eviction from apartment information: surname: Blau, first name: E
-2 CONC dmund, sex: male, date of birth: 1894-01-08, birthplace: Vienna, nativ
-2 CONC e country: Austria, termination date: 1938-06-18, date of eviction: 19
-2 CONC 38-06-30, district: 1200, street: Friedrich-Engels-Platz, street numbe
-2 CONC r: 9, notice Juli Blau, born 4.2.1901 in Steinamanger, gave up the fla
-2 CONC t on behalf of her husband. DOEW id: XX O 128/38 HM, date of deportati
-2 CONC on: 1942-08-28, place of deportation: Auschwitz, country of deportatio
-2 CONC n: Poland
-2 CONT
-2 CONT 12/8/24 - I CANNOT find where I found this reference on the DOEW websi
-2 CONC te!
 0 @N4824@ NOTE
 1 CONC Written in Hebrew on his gravestone. "Yosef Elya / son of Mr. Yechie
 2 CONC l Michel/ passed away 19 Nisan 5714"
-0 @N4928@ NOTE
-1 CONC Likely survived Holocaust by her mother was not born a Jew.
+0 @N4825@ NOTE
+1 CONC The Michel was found on his son, Josef's, gravestone.
 0 @N4885@ NOTE
 1 CONC House #87 is now Donau Str. 6, 2103 Langenzersdorf, Austria.
-0 @N4946@ NOTE
-1 CONC This street was renamed several times: 1920-1934: Engelsplatz; 1934-19
-2 CONC 46: Pater-Abel-Platz; 1946: Friedrich-Engels-Platz, AND the addresse
-2 CONC s were renumbered. So 1200 Engelsplatz 4 became 1200 Pater-Abel-Plat
-2 CONC z 9 and then 1200 Friedrich-Engels-Platz 9.
+0 @N4920@ NOTE
+1 CONC Name: Hecht, Yochiel
+2 CONT Date: Apr 23 1952
+2 CONT Source: Cleveland Press, Reel #116
+2 CONT Notes: Hecht, Yochiel, husband of the late Adela, beloved father of Jo
+2 CONC seph, Jacob, Fred, Mrs. Sadie Bodek, Mrs. Clara Altchouler, and Mrs. R
+2 CONC ose Weiss, dear grandfather, and great-grandfather. Services at Berkow
+2 CONC itz & Son Inc. Funeral Chapel, 818 E. 105 St., Tuesday, Apr. 22, a
+2 CONC t 1 p. m. Interment Glenville Cemetery. Please omit flowers. Family a
+2 CONC t the home of Jacob Hecht, 3351 Glencairn Rd., Shaker Heights.
 0 @N4921@ NOTE
 1 CONC Jochil had served in the Austrian army 3 times, once as a prison guard
 2 CONC . He was a soldier for Austria in WWI. Because he was a veteran, he fi
@@ -8107,13 +7926,26 @@
 2 CONC ed like. Someone asked if he regretted it, he had a funny reply. He an
 2 CONC swered the question with a question. Like. "Would I be lying if I sa
 2 CONC y yes?"
-0 @N4957@ NOTE
-1 CONC This street was renamed several times: 1920-1934: Engelsplatz; 1934-19
-2 CONC 46: Pater-Abel-Platz; 1946: Friedrich-Engels-Platz, AND the addresse
-2 CONC s were renumbered.
-2 CONT
-2 CONT So 1200 Engelsplatz 4 became 1200 Pater-Abel-Platz 9 and then 1200 Fri
-2 CONC edrich-Engels-Platz 9.
+0 @N4923@ NOTE
+1 CONC Born within a week of first cousin, Sure Kanner. They are listed nex
+2 CONC t to each other in the birth records, and their fathers were witnesse
+2 CONC s to the other's birth. Both have their great uncle, Marcus Kneller, l
+2 CONC isted as a witness.
+0 @N4927@ NOTE
+1 CONC Likely survived Holocaust by his mother was not born a Jew.
+0 @N4928@ NOTE
+1 CONC Likely survived Holocaust by her mother was not born a Jew.
+0 @N4965@ NOTE
+1 CONC There were 508 deportees (257 men and 251 women) on the transport.
+0 @N4966@ NOTE
+1 CONC The train arrived Auschwitz Birkenau. Only 71 women were selected fo
+2 CONC r slave labour. The remainder of the souls were murdered by gas immedi
+2 CONC ately upon arrival.
+0 @N4967@ NOTE
+1 CONC At 08:55, Transport 25 Train 901-20 left from the Bourget-Drancy trai
+2 CONC n station with 1,000 Jews aboard.
+0 @N4988@ NOTE
+1 CONC 1200 Rauscherstrasse 6/23
 0 @N4993@ NOTE
 1 CONC In 1934, Jacob (Jack) Hecht opened Cedar Gardens a popular restauran
 2 CONC t and nightclub on 9706 Cedar Ave. Cleveland. It was previously a nigh
@@ -8190,27 +8022,10 @@
 2 CONT - T.D.S. “On the Avenue.” Call and Post. Sep 17, 1936.
 2 CONT - Williams, Bob. “Cedar Gardens Evening Dates Open to All Clubs Wishin
 2 CONC g Treasury Funds.” Call & Post. Aug 12, 1944.
-0 @N4950@ NOTE
-1 CONC Nazi eviction from apartment for info: Edmund Blau, termination date
-2 CONC : 1938-06-18, eviction date: 1938-06-30. Note: Juli Blau gave up the f
-2 CONC lat on behalf of her husband. DOEW id: XX O 128/38 HM, Deported to Aus
-2 CONC chwitz 1942-08-28. 12/8/24 - I CANNOT find where I found this referenc
-2 CONC e.
 0 @N5004@ NOTE
 1 CONC Cause of Death: intestinal obstruction
-0 @N5015@ NOTE
-1 CONC Erika, with about 500 Slovakian and Austrian Jewish refugees fleeing N
-2 CONC azi persecution boarded the Pentcho, an old, slow, decrepit, paddlewhe
-2 CONC el steamer. It was hired by the Revisionist Zionist organization Beta
-2 CONC r as part of the Aliyah Bet immigration effort to get to British Manda
-2 CONC te Palestine. After chugging down the Danube, crossing a stormy Blac
-2 CONC k Sea, the ship had severe mechanical breakdowns. On 9 Oct 1940, in It
-2 CONC alian territory, its boiler exploded into the Aegean Sea. It ran agrou
-2 CONC nd on deserted island Kamilonissi. All passengers and crew got ashore
-2 CONC ; 5 men took the sole lifeboat to seek help, got caught in a storm, bu
-2 CONC t were rescued by a British destroyer.
-0 @N4825@ NOTE
-1 CONC The Michel was found on his son, Josef's, gravestone.
+0 @N5005@ NOTE
+1 CONC Cause of death: myocardial degeneration
 0 @N5008@ NOTE
 1 CONC United States v. CERTAIN PARCELS OF LAND, ETC., 149 F. Supp. 696 (N.D
 2 CONC . Ohio 1957)
@@ -8474,24 +8289,6 @@
 2 CONC r 8, 1956. Rule 3, Federal Rules of Civil Procedure, 28 U.S.C.A.
 2 CONT
 2 CONT The motion to vacate is, therefore, overruled.
-0 @N4965@ NOTE
-1 CONC There were 508 deportees (257 men and 251 women) on the transport.
-0 @N5019@ NOTE
-1 CONC Italian Royal Navy ships picked up the castaways and instead of sendin
-2 CONC g them back to Nazi-occupied Europe, took them to Italian-controlled i
-2 CONC sland of Rhodes, where they were and detained for over a year.
-0 @N4951@ NOTE
-1 CONC Nazi eviction from apartment information: surname: Blau, first name: E
-2 CONC dmund, sex: male, date of birth: 1894-01-08, birthplace: Vienna, nativ
-2 CONC e country: Austria, termination date: 1938-06-18, date of eviction: 19
-2 CONC 38-06-30, district: 1200, street: Friedrich-Engels-Platz, street numbe
-2 CONC r: 9, notice Juli Blau, born 4.2.1901 in Steinamanger, gave up the fla
-2 CONC t on behalf of her husband. DOEW id: XX O 128/38 HM, date of deportati
-2 CONC on: 1942-08-28, place of deportation: Auschwitz, country of deportatio
-2 CONC n: Poland
-2 CONT
-2 CONT 12/8/24 - I CANNOT figure out where I found this reference:
-2 CONT 20 Beziert 111 institute for Jewish children? not sure what this means
 0 @N5012@ NOTE
 1 CONC Robert Weiss was born in Carlsbad, Austria-Hungary (now Karlovy Vary
 2 CONC , Czech Republic). He was the son of Jakab Weisz, the internationall
@@ -8529,18 +8326,24 @@
 2 CONC ious cities for conservative synagogues. 1957-1967 he was with Templ
 2 CONC e Emanuel in Newton, MA as organist; in 1967 he joined Temple Mishka
 2 CONC n Tefillah first as the organist; then also as the choir director.
-0 @N5005@ NOTE
-1 CONC Cause of death: myocardial degeneration
-0 @N4661@ NOTE
-1 CONC Owned a bar in a black neighborhood called the Arcade Gardens on Quinc
-2 CONC y St.
-0 @N4966@ NOTE
-1 CONC On 31/08/1942 Transport 25 Train 901-20 arrived at Auschwitz Birkenau
-2 CONC . Only 71 women were selected for slave labour. The remainder of the s
-2 CONC ouls were murdered by gas immediately upon arrival at Auschwitz.
-0 @N4923@ NOTE
-1 CONC Born within a week of first cousin, Sure Kanner. They are listed nex
-2 CONC t to each other in the birth records, and their fathers were witnesse
-2 CONC s to the other's birth. Both have their great uncle, Marcus Kneller, l
-2 CONC isted as a witness.
+0 @N5015@ NOTE
+1 CONC Erika, with about 500 Slovakian and Austrian Jewish refugees fleeing N
+2 CONC azi persecution boarded the Pentcho, an old, slow, decrepit, paddlewhe
+2 CONC el steamer. It was hired by the Revisionist Zionist organization Beta
+2 CONC r as part of the Aliyah Bet immigration effort to get to British Manda
+2 CONC te Palestine. After chugging down the Danube, crossing a stormy Blac
+2 CONC k Sea, the ship had severe mechanical breakdowns. On 9 Oct 1940, in It
+2 CONC alian territory, its boiler exploded into the Aegean Sea. It ran agrou
+2 CONC nd on deserted island Kamilonissi. All passengers and crew got ashore
+2 CONC ; 5 men took the sole lifeboat to seek help, got caught in a storm, bu
+2 CONC t were rescued by a British destroyer.
+0 @N5019@ NOTE
+1 CONC Italian Royal Navy ships picked up the castaways and instead of sendin
+2 CONC g them back to Nazi-occupied Europe, took them to Italian-controlled i
+2 CONC sland of Rhodes, where they were and detained for over a year.
+0 @N5021@ NOTE
+1 CONC Nazi eviction from apartment for: Edmund Blau, termination date: 1938-
+2 CONC 06-18, eviction date: 1938-06-30. Note: Juli Blau gave up the flat o
+2 CONC n behalf of her husband. DOEW id: XX O 128/38 HM, Deported to Auschwit
+2 CONC z 1942-08-28.
 0 TRLR
