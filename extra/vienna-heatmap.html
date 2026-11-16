@@ -1,17 +1,88 @@
 <!DOCTYPE html>
-<title>Blau & Hecht Family, Vienna</title>
+<title>Family in Vienna, Austria</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Jura:wght@400;500&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <style>
-  /* Layout: a canvas heatmap projected from real lat/lng onto a schematic district
-     grid (no street tiles, since this runtime can't load external map imagery),
-     with a sorted address list beside it for exact detail. Palette, type and card
-     styling match suzfamilytree.net's own style.css tokens. */
+  /* ---- Leaflet's own base CSS, inlined (not linked) so the page has no
+     external stylesheet dependency beyond Google Fonts. Unmodified from
+     leaflet@1.9.4's leaflet.css except for formatting. ---- */
+  .leaflet-pane,.leaflet-tile,.leaflet-marker-icon,.leaflet-marker-shadow,.leaflet-tile-container,.leaflet-pane>svg,.leaflet-pane>canvas,.leaflet-zoom-box,.leaflet-image-layer,.leaflet-layer{position:absolute;left:0;top:0}
+  .leaflet-container{overflow:hidden}
+  .leaflet-tile,.leaflet-marker-icon,.leaflet-marker-shadow{-webkit-user-select:none;user-select:none;-webkit-user-drag:none}
+  .leaflet-tile::selection{background:transparent}
+  .leaflet-marker-icon,.leaflet-marker-shadow{display:block}
+  .leaflet-container .leaflet-overlay-pane svg,.leaflet-container .leaflet-marker-pane img,.leaflet-container .leaflet-shadow-pane img,.leaflet-container .leaflet-tile-pane img,.leaflet-container img.leaflet-image-layer,.leaflet-container .leaflet-tile{max-width:none!important;max-height:none!important}
+  .leaflet-container.leaflet-touch-zoom{touch-action:pan-x pan-y}
+  .leaflet-container.leaflet-touch-drag{touch-action:pinch-zoom}
+  .leaflet-container.leaflet-touch-drag.leaflet-touch-zoom{touch-action:none}
+  .leaflet-tile{filter:inherit;visibility:hidden}
+  .leaflet-tile-loaded{visibility:inherit}
+  .leaflet-zoom-box{width:0;height:0;box-sizing:border-box;z-index:800}
+  .leaflet-overlay-pane svg{user-select:none}
+  .leaflet-pane{z-index:400}
+  .leaflet-tile-pane{z-index:200}
+  .leaflet-overlay-pane{z-index:400}
+  .leaflet-shadow-pane{z-index:500}
+  .leaflet-marker-pane{z-index:600}
+  .leaflet-tooltip-pane{z-index:650}
+  .leaflet-popup-pane{z-index:700}
+  .leaflet-map-pane canvas{z-index:100}
+  .leaflet-map-pane svg{z-index:200}
+  .leaflet-control{position:relative;z-index:800;pointer-events:auto}
+  .leaflet-top,.leaflet-bottom{position:absolute;z-index:1000;pointer-events:none}
+  .leaflet-top{top:0} .leaflet-right{right:0} .leaflet-bottom{bottom:0} .leaflet-left{left:0}
+  .leaflet-control{float:left;clear:both}
+  .leaflet-right .leaflet-control{float:right}
+  .leaflet-top .leaflet-control{margin-top:10px}
+  .leaflet-bottom .leaflet-control{margin-bottom:10px}
+  .leaflet-left .leaflet-control{margin-left:10px}
+  .leaflet-right .leaflet-control{margin-right:10px}
+  .leaflet-fade-anim .leaflet-popup{opacity:0;transition:opacity .2s linear}
+  .leaflet-fade-anim .leaflet-map-pane .leaflet-popup{opacity:1}
+  .leaflet-zoom-animated{transform-origin:0 0}
+  svg.leaflet-zoom-animated{will-change:transform}
+  .leaflet-zoom-anim .leaflet-zoom-animated{transition:transform .25s cubic-bezier(0,0,.25,1)}
+  .leaflet-pan-anim .leaflet-tile,.leaflet-zoom-anim .leaflet-tile{transition:none}
+  .leaflet-zoom-anim .leaflet-zoom-hide{visibility:hidden}
+  .leaflet-interactive{cursor:pointer}
+  .leaflet-grab{cursor:grab}
+  .leaflet-crosshair,.leaflet-crosshair .leaflet-interactive{cursor:crosshair}
+  .leaflet-popup-pane,.leaflet-control{cursor:auto}
+  .leaflet-dragging .leaflet-grab,.leaflet-dragging .leaflet-grab .leaflet-interactive,.leaflet-dragging .leaflet-marker-draggable{cursor:grabbing}
+  .leaflet-marker-icon,.leaflet-marker-shadow,.leaflet-image-layer,.leaflet-pane>svg path,.leaflet-tile-container{pointer-events:none}
+  .leaflet-marker-icon.leaflet-interactive,.leaflet-image-layer.leaflet-interactive,.leaflet-pane>svg path.leaflet-interactive{pointer-events:visiblePainted;pointer-events:auto}
+  .leaflet-container{background:#ddd;outline-offset:1px;font:12px/1.5 sans-serif}
+  .leaflet-container a{color:#0078A8}
+  .leaflet-zoom-box{border:2px dotted #38f;background:rgba(255,255,255,.5)}
+  .leaflet-bar{box-shadow:0 1px 5px rgba(0,0,0,.65);border-radius:4px}
+  .leaflet-bar a{background-color:#fff;border-bottom:1px solid #ccc;width:26px;height:26px;line-height:26px;display:block;text-align:center;text-decoration:none;color:#000}
+  .leaflet-bar a:hover,.leaflet-bar a:focus{background-color:#f4f4f4}
+  .leaflet-bar a:first-child{border-top-left-radius:4px;border-top-right-radius:4px}
+  .leaflet-bar a:last-child{border-bottom-left-radius:4px;border-bottom-right-radius:4px;border-bottom:none}
+  .leaflet-bar a.leaflet-disabled{cursor:default;background-color:#f4f4f4;color:#bbb}
+  .leaflet-control-zoom-in,.leaflet-control-zoom-out{font:bold 18px 'Lucida Console',Monaco,monospace;text-indent:1px}
+  .leaflet-control-zoom-out{font-size:20px}
+  .leaflet-popup{position:absolute;text-align:center;margin-bottom:20px}
+  .leaflet-popup-content-wrapper{padding:1px;text-align:left;border-radius:12px}
+  .leaflet-popup-content{margin:13px 22px 13px 18px;line-height:1.4;font-size:13px;min-height:1px}
+  .leaflet-popup-content p{margin:1.1em 0}
+  .leaflet-popup-tip-container{width:40px;height:20px;position:absolute;left:50%;margin-left:-20px;overflow:hidden;pointer-events:none}
+  .leaflet-popup-tip{width:17px;height:17px;padding:1px;margin:-10px auto 0;pointer-events:auto;transform:rotate(45deg)}
+  .leaflet-popup-content-wrapper,.leaflet-popup-tip{background:#fff;color:#333;box-shadow:0 3px 14px rgba(0,0,0,.4)}
+  .leaflet-popup-close-button{position:absolute;top:0;right:0;border:none;text-align:center;width:24px;height:24px;font:16px/24px Tahoma,Verdana,sans-serif;color:#757575;text-decoration:none;background:transparent}
+  .leaflet-popup-close-button:hover{color:#585858}
+  .leaflet-popup-scrolled{overflow:auto}
+  .leaflet-control-attribution{background:rgba(255,255,255,.9)!important;padding:0 5px;color:#333}
+  .leaflet-control-attribution a{text-decoration:none}
+  .leaflet-control-attribution a:hover{text-decoration:underline}
+  .leaflet-touch .leaflet-control-attribution,.leaflet-touch .leaflet-bar{box-shadow:none}
+
+  /* ---- Page styling: tokens and layout matched to suzfamilytree.net ---- */
   :root{
     --bg:#fff; --card:#f4f6f6; --ink:#1d2127; --dim:#5b6570; --line:#d5dade;
     --slate:#3b4149; --steel:#2f5d8c; --blue:#5a7a9a; --rose:#a37a86;
     --shadow:0 1px 3px rgba(30,40,50,.14);
-    --heat-lo:#5a7a9a; --heat-mid:#3b4149; --heat-hi:#a37a86;
     --head:"Cormorant Garamond","Iowan Old Style",Georgia,serif;
     --geo:"Jura","Segoe UI",system-ui,sans-serif;
     --body:"Open Sans",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
@@ -22,7 +93,6 @@
       --bg:#1b1d21; --card:#24272c; --ink:#e7e9ea; --dim:#9aa3ac; --line:#3a3f46;
       --slate:#c3c9d1; --steel:#7fa6d6; --blue:#8aa6bf; --rose:#c79aa4;
       --shadow:0 1px 3px rgba(0,0,0,.4);
-      --heat-lo:#6f93b8; --heat-mid:#aeb6c1; --heat-hi:#c79aa4;
       color-scheme:dark;
     }
   }
@@ -30,7 +100,6 @@
     --bg:#1b1d21; --card:#24272c; --ink:#e7e9ea; --dim:#9aa3ac; --line:#3a3f46;
     --slate:#c3c9d1; --steel:#7fa6d6; --blue:#8aa6bf; --rose:#c79aa4;
     --shadow:0 1px 3px rgba(0,0,0,.4);
-    --heat-lo:#6f93b8; --heat-mid:#aeb6c1; --heat-hi:#c79aa4;
     color-scheme:dark;
   }
   *{box-sizing:border-box}
@@ -45,46 +114,37 @@
     font:500 2.3rem/1.15 var(--geo);margin:.2rem 0 .4rem;letter-spacing:.01em;color:var(--slate);
     text-wrap:balance;
   }
-  .sub{color:var(--dim);font-size:1.08rem;max-width:62ch;margin:.1rem 0 1rem}
-  .sub b{color:var(--ink);font-weight:600}
+  .sub{color:var(--dim);font-size:1.08rem;margin:.1rem 0 1rem}
   main{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(260px,1fr);gap:1.6rem;align-items:start}
   @media (max-width:820px){ main{grid-template-columns:1fr} }
   .mapcard{
     background:var(--card);border:1px solid var(--line);border-radius:3px;box-shadow:var(--shadow);
     padding:1rem 1rem 1.3rem;min-width:0;
   }
-  .mapframe{position:relative;width:100%;aspect-ratio:4/3;border-radius:3px;overflow:hidden;background:
-    radial-gradient(ellipse at 50% 40%, color-mix(in srgb, var(--heat-lo) 8%, var(--card)) 0%, var(--card) 72%);
+  #map{width:100%;aspect-ratio:4/3;border-radius:3px;background:var(--card)}
+  @media (max-width:820px){ #map{aspect-ratio:1/1} }
+
+  /* custom marker + popup skin, in the site's own palette */
+  .vpin{
+    display:flex;align-items:center;justify-content:center;border-radius:50%;
+    background:color-mix(in srgb, var(--slate) 82%, var(--rose) 0%);
+    border:2px solid #fff;box-shadow:0 1px 4px rgba(0,0,0,.35);
+    color:#fff;font:700 .68rem var(--body);cursor:pointer;
   }
-  canvas#heat{position:absolute;inset:0;width:100%;height:100%;display:block}
-  .districtlabel{
-    position:absolute;transform:translate(-50%,-50%);font:600 .68rem/1 var(--body);
-    color:var(--dim);letter-spacing:.3px;white-space:nowrap;pointer-events:none;
-    text-shadow:0 1px 0 var(--card),0 -1px 0 var(--card),1px 0 0 var(--card),-1px 0 0 var(--card);
-  }
-  .dot{
-    position:absolute;transform:translate(-50%,-50%);border-radius:50%;
-    background:color-mix(in srgb, var(--slate) 75%, transparent);
-    border:1px solid color-mix(in srgb, var(--card) 60%, var(--slate));
-    cursor:pointer;transition:transform .12s ease, box-shadow .12s ease;
-  }
-  .dot:hover,.dot.active{
-    transform:translate(-50%,-50%) scale(1.5);
-    box-shadow:0 0 0 4px color-mix(in srgb, var(--steel) 35%, transparent);
-    z-index:5;
-  }
-  .tip{
-    position:absolute;max-width:230px;background:var(--slate);color:#fff;
-    font-size:.78rem;line-height:1.35;padding:.5rem .6rem;border-radius:3px;
-    pointer-events:none;opacity:0;transition:opacity .1s ease;z-index:10;
-    box-shadow:0 6px 18px rgba(0,0,0,.25);
-  }
-  .tip b{display:block;font:600 .8rem var(--body);margin-bottom:.15rem}
-  .legend{display:flex;align-items:center;gap:.6rem;margin-top:.9rem;font-size:.78rem;color:var(--dim)}
-  .legend .bar{
-    flex:1;height:8px;border-radius:3px;
-    background:linear-gradient(90deg, transparent, var(--heat-lo), var(--heat-mid), var(--heat-hi));
-  }
+  .vpin.big{background:var(--rose)}
+  .leaflet-popup-content-wrapper{background:var(--card);color:var(--ink);border-radius:3px;box-shadow:var(--shadow)}
+  .leaflet-popup-tip{background:var(--card);box-shadow:var(--shadow)}
+  .leaflet-popup-content{font-family:var(--body);margin:.7rem .9rem}
+  .leaflet-popup-content b{font:700 .95rem var(--geo);color:var(--slate);display:block;margin-bottom:.2rem}
+  .leaflet-popup-content .n{font-size:.84rem;color:var(--dim);line-height:1.45}
+  .leaflet-popup-close-button{color:var(--dim)!important}
+  .leaflet-popup-close-button:hover{color:var(--ink)!important}
+  .leaflet-bar a{background:var(--card);color:var(--slate);border-bottom:1px solid var(--line)}
+  .leaflet-bar a:hover{background:var(--bg)}
+  .leaflet-bar{box-shadow:var(--shadow)}
+  .leaflet-control-attribution{background:color-mix(in srgb, var(--bg) 88%, transparent)!important;color:var(--dim);font:.68rem var(--body)}
+  .leaflet-control-attribution a{color:var(--dim)}
+
   .caption{margin-top:.7rem;font-size:.74rem;color:var(--dim);line-height:1.45}
   .side{
     background:var(--card);border:1px solid var(--line);border-radius:3px;box-shadow:var(--shadow);
@@ -94,7 +154,7 @@
   .list{max-height:560px;overflow-y:auto;display:flex;flex-direction:column;gap:.1rem;margin:0 -.3rem;padding-right:.2rem}
   .row{
     display:flex;gap:.6rem;align-items:flex-start;padding:.5rem .5rem;border-radius:3px;
-    cursor:default;border:1px solid transparent;
+    cursor:pointer;border:1px solid transparent;
   }
   .row:hover,.row.active{background:color-mix(in srgb, var(--steel) 8%, transparent);border-color:color-mix(in srgb, var(--steel) 20%, transparent)}
   .row .w{
@@ -113,25 +173,14 @@
 
 <div class="wrap">
   <header>
-    <h1>Blau &amp; Hecht Family, Vienna</h1>
-    <p class="sub">Every address on <b>suzfamilytree.net</b>'s Places page under Vienna, Austria — weighted by
-      how many people and life events happened there. Darker means more of the family passed through.</p>
+    <h1>Family in Vienna, Austria</h1>
+    <p class="sub">Each pin marks a place the family lived, worked, worshipped, or is buried — sized by how many people were there. Click a pin, or a place in the list, for who and when.</p>
   </header>
 
   <main>
     <div class="mapcard">
-      <div class="mapframe" id="frame">
-        <canvas id="heat"></canvas>
-        <!-- district labels, ring, and dots are positioned by script -->
-      </div>
-      <div class="legend">
-        <span>fewer</span>
-        <span class="bar"></span>
-        <span>more</span>
-      </div>
-      <p class="caption">A schematic projection of real coordinates, not a street map — districts (Gemeindebezirke)
-        are labelled by their postal code so the clustering reads correctly even without map tiles. Hover any point
-        for who lived there.</p>
+      <div id="map"></div>
+      <p class="caption">Map data &amp; imagery &copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors.</p>
     </div>
 
     <div class="side">
@@ -183,223 +232,66 @@
     {addr:"Zentralfriedhof Tor IV (new Jewish cemetery), 1110", lat:48.1518716, lng:16.4513235, w:10, note:"Ernestine, Oskar & Samuel Blau, Gertrude Blau, Heinrich Blau, Kurt Blau, Siegfried Blau, Betti Borbola Fuchs, Scheindel Klinghoffer, Adele Schapira — buried 1927–1976"}
   ];
 
-  var districtNames = {
-    "1010":"Innere Stadt","1020":"Leopoldstadt","1030":"Landstraße","1060":"Mariahilf",
-    "1090":"Alsergrund","1110":"Simmering","1150":"Rudolfsheim-Fünfhaus","1160":"Ottakring",
-    "1170":"Hernals","1180":"Währing","1190":"Döbling","1200":"Brigittenau"
-  };
+  var maxW = Math.max.apply(null, points.map(function(p){return p.w;}));
 
-  points.forEach(function(p){ var m = p.addr.match(/\b1\d{3}\b/); p.district = m ? m[0] : null; });
+  function startMap(){
+    var map = L.map('map', { scrollWheelZoom:false });
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: ''
+    }).addTo(map);
 
-  // --- project lat/lng onto a flat x/y (meters), small-area equirectangular ---
-  var latRef = points.reduce(function(s,p){return s+p.lat;},0)/points.length;
-  var lngRef = points.reduce(function(s,p){return s+p.lng;},0)/points.length;
-  var R = 111320;
-  points.forEach(function(p){
-    p.x = (p.lng - lngRef) * Math.cos(latRef*Math.PI/180) * R;
-    p.y = (latRef - p.lat) * R;
-  });
-  var xs = points.map(function(p){return p.x;}), ys = points.map(function(p){return p.y;});
-  var minX=Math.min.apply(null,xs), maxX=Math.max.apply(null,xs);
-  var minY=Math.min.apply(null,ys), maxY=Math.max.apply(null,ys);
-  var padX=(maxX-minX)*0.16+200, padY=(maxY-minY)*0.16+200;
-  minX-=padX; maxX+=padX; minY-=padY; maxY+=padY;
+    var bounds = L.latLngBounds(points.map(function(p){ return [p.lat,p.lng]; }));
+    map.fitBounds(bounds, {padding:[24,24]});
 
-  function toFrac(p){ return { fx:(p.x-minX)/(maxX-minX), fy:(p.y-minY)/(maxY-minY) }; }
-
-  var frame = document.getElementById('frame');
-  var canvas = document.getElementById('heat');
-
-  function colorFor(t){
-    // t in [0,1] -> transparent -> steel blue -> slate -> dusty rose
-    // (the site's own --blue / --slate / --rose tokens, used as a heat scale)
-    var stops = [
-      [0.00, [0,0,0,0]],
-      [0.18, [90,122,154,130]],
-      [0.5,  [59,65,73,195]],
-      [1.0,  [163,122,134,235]]
-    ];
-    for (var i=1;i<stops.length;i++){
-      if (t<=stops[i][0]){
-        var a=stops[i-1], b=stops[i];
-        var span=(b[0]-a[0])||1, lt=(t-a[0])/span;
-        var c=[0,0,0,0];
-        for (var k=0;k<4;k++) c[k]=a[1][k]+(b[1][k]-a[1][k])*lt;
-        return c;
-      }
-    }
-    return stops[stops.length-1][1];
-  }
-
-  function render(){
-    var rect = frame.getBoundingClientRect();
-    var dpr = Math.min(window.devicePixelRatio||1, 2);
-    var W = Math.round(rect.width*dpr), H = Math.round(rect.height*dpr);
-    canvas.width=W; canvas.height=H;
-    var ctx = canvas.getContext('2d');
-    ctx.clearRect(0,0,W,H);
-
-    var off = document.createElement('canvas');
-    off.width=W; off.height=H;
-    var octx = off.getContext('2d');
-    octx.globalCompositeOperation = 'lighter';
-
-    var maxW = Math.max.apply(null, points.map(function(p){return p.w;}));
-    points.forEach(function(p){
-      var f = toFrac(p);
-      var cx = f.fx*W, cy = f.fy*H;
-      var radius = (0.045 + 0.05*Math.sqrt(p.w/maxW)) * Math.min(W,H);
-      var alpha = 0.35 + 0.45*Math.sqrt(p.w/maxW);
-      var g = octx.createRadialGradient(cx,cy,0,cx,cy,radius);
-      g.addColorStop(0, 'rgba(255,255,255,'+alpha+')');
-      g.addColorStop(1, 'rgba(255,255,255,0)');
-      octx.fillStyle = g;
-      octx.beginPath(); octx.arc(cx,cy,radius,0,Math.PI*2); octx.fill();
-    });
-
-    var img = octx.getImageData(0,0,W,H);
-    var d = img.data;
-    for (var i=0;i<d.length;i+=4){
-      var a = d[i+3]/255;
-      if (a<=0.003) { d[i+3]=0; continue; }
-      var c = colorFor(Math.min(a,1));
-      d[i]=c[0]; d[i+1]=c[1]; d[i+2]=c[2]; d[i+3]=Math.min(255, c[3]*Math.min(1,a*1.4));
-    }
-    octx.putImageData(img,0,0);
-    ctx.drawImage(off,0,0);
-
-    layoutOverlay(rect);
-  }
-
-  // districts whose centroids sit close together in the dense core and would
-  // overlap if labelled in place; these get pushed out to a ring with leader lines
-  var CROWDED = ["1010","1020","1030","1060","1090","1180","1200"];
-
-  function layoutOverlay(rect){
-    frame.querySelectorAll('.districtlabel,.ring,.ringlabel,.dot,.tip,svg.leaders').forEach(function(el){ el.remove(); });
-
-    var svgNS = 'http://www.w3.org/2000/svg';
-    var svg = document.createElementNS(svgNS,'svg');
-    svg.setAttribute('class','leaders');
-    svg.setAttribute('width', rect.width); svg.setAttribute('height', rect.height);
-    svg.style.position='absolute'; svg.style.inset='0'; svg.style.pointerEvents='none';
-    frame.appendChild(svg);
-
-    // district centroid labels
-    var byDistrict = {};
-    points.forEach(function(p){
-      if (!p.district) return;
-      (byDistrict[p.district] = byDistrict[p.district] || []).push(p);
-    });
-    var codes = Object.keys(byDistrict);
-
-    var crowdedCodes = codes.filter(function(c){ return CROWDED.indexOf(c)!==-1 && byDistrict[c]; });
-    var coreFx=0, coreFy=0, n=0;
-    crowdedCodes.forEach(function(code){
-      byDistrict[code].forEach(function(p){ var f=toFrac(p); coreFx+=f.fx; coreFy+=f.fy; n++; });
-    });
-    if (n){ coreFx/=n; coreFy/=n; }
-
-    // sort crowded districts by true bearing from the core centroid, then
-    // space them evenly around a ring at that same bearing order
-    var withAngle = crowdedCodes.map(function(code){
-      var arr = byDistrict[code];
-      var fx = arr.reduce(function(s,p){return s+toFrac(p).fx;},0)/arr.length;
-      var fy = arr.reduce(function(s,p){return s+toFrac(p).fy;},0)/arr.length;
-      return { code:code, fx:fx, fy:fy, angle: Math.atan2(fy-coreFy, fx-coreFx) };
-    }).sort(function(a,b){ return a.angle-b.angle; });
-
-    var ringR = Math.min(rect.width, rect.height) * 0.40;
-    withAngle.forEach(function(d, i){
-      var angle = (-Math.PI/2) + (i/withAngle.length) * Math.PI*2; // start at top, go clockwise
-      var lx = coreFx*rect.width + Math.cos(angle)*ringR;
-      var ly = coreFy*rect.height + Math.sin(angle)*ringR;
-      var px = d.fx*rect.width, py = d.fy*rect.height;
-
-      var line = document.createElementNS(svgNS,'line');
-      line.setAttribute('x1', px); line.setAttribute('y1', py);
-      line.setAttribute('x2', lx); line.setAttribute('y2', ly);
-      line.setAttribute('stroke', 'currentColor');
-      line.setAttribute('stroke-width', '1');
-      line.setAttribute('stroke-dasharray', '2,2');
-      line.setAttribute('opacity', '0.35');
-      line.style.color = 'var(--dim)';
-      svg.appendChild(line);
-
-      var el = document.createElement('div');
-      el.className='districtlabel';
-      el.style.left=((lx/rect.width)*100)+'%';
-      el.style.top=((ly/rect.height)*100)+'%';
-      el.textContent = d.code+' '+(districtNames[d.code]||'');
-      frame.appendChild(el);
-    });
-
-    codes.filter(function(c){ return CROWDED.indexOf(c)===-1; }).forEach(function(code){
-      var arr = byDistrict[code];
-      var fx = arr.reduce(function(s,p){return s+toFrac(p).fx;},0)/arr.length;
-      var fy = arr.reduce(function(s,p){return s+toFrac(p).fy;},0)/arr.length;
-      var el = document.createElement('div');
-      el.className='districtlabel';
-      el.style.left=(fx*100)+'%'; el.style.top=((fy*100)-7)+'%';
-      el.textContent = code+' '+(districtNames[code]||'');
-      frame.appendChild(el);
-    });
-
-    var tip = document.createElement('div'); tip.className='tip'; frame.appendChild(tip);
-    var maxW = Math.max.apply(null, points.map(function(p){return p.w;}));
-
-    points.forEach(function(p,idx){
-      var f = toFrac(p);
-      var size = 6 + 10*Math.sqrt(p.w/maxW);
-      var dot = document.createElement('div');
-      dot.className='dot';
-      dot.style.width=size+'px'; dot.style.height=size+'px';
-      dot.style.left=(f.fx*100)+'%'; dot.style.top=(f.fy*100)+'%';
-      dot.dataset.idx = idx;
-      dot.addEventListener('mouseenter', function(){
-        showTip(p, f, rect);
-        highlight(idx, true);
+    var markers = [];
+    points.forEach(function(p, idx){
+      var size = Math.round(16 + 16*Math.sqrt(p.w/maxW));
+      var icon = L.divIcon({
+        className: '',
+        html: '<div class="vpin'+(p.w>=maxW*0.5?' big':'')+'" style="width:'+size+'px;height:'+size+'px;font-size:'+Math.max(9,Math.round(size*0.42))+'px">'+p.w+'</div>',
+        iconSize: [size,size],
+        iconAnchor: [size/2, size/2],
+        popupAnchor: [0, -size/2]
       });
-      dot.addEventListener('mouseleave', function(){ tip.style.opacity=0; highlight(idx, false); });
-      frame.appendChild(dot);
+      var m = L.marker([p.lat, p.lng], { icon: icon }).addTo(map);
+      m.bindPopup('<b>'+p.addr+'</b><span class="n">'+p.note+'</span>');
+      m.on('click', function(){ highlight(idx); });
+      markers.push(m);
     });
 
-    function showTip(p, f, rect){
-      tip.innerHTML = '<b>'+p.addr+'</b>'+p.note;
-      var left = f.fx*rect.width;
-      var top = f.fy*rect.height;
-      var fromRight = left > rect.width*0.6;
-      tip.style.left = fromRight ? '' : (left+10)+'px';
-      tip.style.right = fromRight ? (rect.width-left+10)+'px' : '';
-      tip.style.top = Math.max(0, top-10)+'px';
-      tip.style.opacity = 1;
+    window.addEventListener('resize', function(){ map.invalidateSize(); });
+
+    function highlight(idx){
+      document.querySelectorAll('.row').forEach(function(r){ r.classList.remove('active'); });
+      var row = list.querySelector('.row[data-idx="'+idx+'"]');
+      if (row){ row.classList.add('active'); row.scrollIntoView({block:'nearest'}); }
     }
+
+    // --- sidebar list ---
+    var list = document.getElementById('list');
+    points
+      .map(function(p,idx){ return {p:p, idx:idx}; })
+      .sort(function(a,b){ return b.p.w - a.p.w; })
+      .forEach(function(entry){
+        var row = document.createElement('div');
+        row.className='row'; row.dataset.idx = entry.idx;
+        row.innerHTML = '<span class="w">'+entry.p.w+'</span>'+
+          '<span class="meta"><span class="addr">'+entry.p.addr+'</span>'+
+          '<span class="note">'+entry.p.note+'</span></span>';
+        row.addEventListener('click', function(){
+          map.flyTo([entry.p.lat, entry.p.lng], Math.max(map.getZoom(),15), {duration:.6});
+          markers[entry.idx].openPopup();
+          highlight(entry.idx);
+        });
+        list.appendChild(row);
+      });
   }
 
-  function highlight(idx, on){
-    var dot = frame.querySelector('.dot[data-idx="'+idx+'"]');
-    if (dot) dot.classList.toggle('active', on);
-    var row = list.querySelector('.row[data-idx="'+idx+'"]');
-    if (row) row.classList.toggle('active', on);
+  if (window.L) startMap();
+  else {
+    var s = document.querySelector('script[src*="leaflet"]');
+    if (s) s.addEventListener('load', startMap);
   }
-
-  // --- sidebar list ---
-  var list = document.getElementById('list');
-  points
-    .map(function(p,idx){ return {p:p, idx:idx}; })
-    .sort(function(a,b){ return b.p.w - a.p.w; })
-    .forEach(function(entry){
-      var row = document.createElement('div');
-      row.className='row'; row.dataset.idx = entry.idx;
-      row.innerHTML = '<span class="w">'+entry.p.w+'</span>'+
-        '<span class="meta"><span class="addr">'+entry.p.addr+'</span>'+
-        '<span class="note">'+entry.p.note+'</span></span>';
-      row.addEventListener('mouseenter', function(){ highlight(entry.idx, true); });
-      row.addEventListener('mouseleave', function(){ highlight(entry.idx, false); });
-      list.appendChild(row);
-    });
-
-  window.addEventListener('resize', render);
-  render();
 })();
 </script>
