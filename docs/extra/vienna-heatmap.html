@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<title>Blau & Hecht Family, Vienna</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,500;0,600;1,500&family=Inter:wght@400;500;600&display=swap">
+<style>
+  /* Layout: a canvas heatmap projected from real lat/lng onto a schematic district
+     grid (no street tiles, since this runtime can't load external map imagery),
+     with a sorted address list beside it for exact detail. */
+  :root{
+    --bg:#f3ede1; --panel:#fbf8f1; --ink:#2b2420; --dim:#7a6f62;
+    --line:#ddd2bf; --accent:#8a2f2f; --accent-soft:#b8564f;
+    --gold:#9c7a2e; --heat-lo:#1d4e63; --heat-hi:#c23b22;
+    --font-display:'Fraunces',Georgia,'Times New Roman',serif;
+    --font-body:'Inter',system-ui,-apple-system,sans-serif;
+    color-scheme:light;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#1b1713; --panel:#241f1a; --ink:#ece4d6; --dim:#a79a87;
+      --line:#3a332b; --accent:#d2746b; --accent-soft:#e2978f;
+      --gold:#caa852; --heat-lo:#2d6a85; --heat-hi:#e2552f;
+      color-scheme:dark;
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#1b1713; --panel:#241f1a; --ink:#ece4d6; --dim:#a79a87;
+    --line:#3a332b; --accent:#d2746b; --accent-soft:#e2978f;
+    --gold:#caa852; --heat-lo:#2d6a85; --heat-hi:#e2552f;
+    color-scheme:dark;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 var(--font-body);
+    padding-left:max(16px, env(safe-area-inset-left,0px));
+    padding-right:max(16px, env(safe-area-inset-right,0px));
+  }
+  .wrap{max-width:1180px;margin:0 auto;padding-block:2.2rem 3rem}
+  header{margin-bottom:1.6rem}
+  h1{
+    font:600 2rem/1.15 var(--font-display);margin:0 0 .35rem;letter-spacing:.2px;
+    text-wrap:balance;
+  }
+  .sub{color:var(--dim);font-size:.98rem;max-width:62ch;margin:0}
+  .sub b{color:var(--ink);font-weight:600}
+  main{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(260px,1fr);gap:1.6rem;align-items:start}
+  @media (max-width:820px){ main{grid-template-columns:1fr} }
+  .mapcard{
+    background:var(--panel);border:1px solid var(--line);border-radius:10px;
+    padding:1rem 1rem 1.3rem;min-width:0;
+  }
+  .mapframe{position:relative;width:100%;aspect-ratio:4/3;border-radius:6px;overflow:hidden;background:
+    radial-gradient(ellipse at 50% 40%, color-mix(in srgb, var(--heat-lo) 10%, var(--panel)) 0%, var(--panel) 72%);
+  }
+  canvas#heat{position:absolute;inset:0;width:100%;height:100%;display:block}
+  .districtlabel{
+    position:absolute;transform:translate(-50%,-50%);font:500 .68rem/1 var(--font-body);
+    color:var(--dim);letter-spacing:.3px;white-space:nowrap;pointer-events:none;
+    text-shadow:0 1px 0 var(--panel),0 -1px 0 var(--panel),1px 0 0 var(--panel),-1px 0 0 var(--panel);
+  }
+  .dot{
+    position:absolute;transform:translate(-50%,-50%);border-radius:50%;
+    background:color-mix(in srgb, var(--accent) 70%, transparent);
+    border:1px solid color-mix(in srgb, var(--panel) 60%, var(--accent));
+    cursor:pointer;transition:transform .12s ease, box-shadow .12s ease;
+  }
+  .dot:hover,.dot.active{
+    transform:translate(-50%,-50%) scale(1.5);
+    box-shadow:0 0 0 4px color-mix(in srgb, var(--gold) 35%, transparent);
+    z-index:5;
+  }
+  .tip{
+    position:absolute;max-width:230px;background:var(--ink);color:var(--bg);
+    font-size:.78rem;line-height:1.35;padding:.5rem .6rem;border-radius:6px;
+    pointer-events:none;opacity:0;transition:opacity .1s ease;z-index:10;
+    box-shadow:0 6px 18px rgba(0,0,0,.25);
+  }
+  .tip b{display:block;font:600 .8rem var(--font-body);margin-bottom:.15rem}
+  .legend{display:flex;align-items:center;gap:.6rem;margin-top:.9rem;font-size:.78rem;color:var(--dim)}
+  .legend .bar{
+    flex:1;height:8px;border-radius:4px;
+    background:linear-gradient(90deg, transparent, var(--heat-lo), #d9c24a, var(--heat-hi));
+  }
+  .caption{margin-top:.7rem;font-size:.74rem;color:var(--dim);line-height:1.45}
+  .side{
+    background:var(--panel);border:1px solid var(--line);border-radius:10px;
+    padding:1rem 1.1rem 1.2rem;min-width:0;
+  }
+  .side h2{font:600 1rem var(--font-display);margin:0 0 .7rem;color:var(--ink)}
+  .list{max-height:560px;overflow-y:auto;display:flex;flex-direction:column;gap:.1rem;margin:0 -.3rem;padding-right:.2rem}
+  .row{
+    display:flex;gap:.6rem;align-items:flex-start;padding:.5rem .5rem;border-radius:6px;
+    cursor:default;border:1px solid transparent;
+  }
+  .row:hover,.row.active{background:color-mix(in srgb, var(--accent) 8%, transparent);border-color:color-mix(in srgb, var(--accent) 20%, transparent)}
+  .row .w{
+    flex:0 0 auto;min-width:1.6rem;height:1.6rem;border-radius:50%;display:flex;align-items:center;justify-content:center;
+    font:600 .72rem var(--font-body);background:color-mix(in srgb, var(--accent) 16%, var(--panel));color:var(--accent);
+  }
+  .row .meta{min-width:0}
+  .row .addr{font-weight:600;font-size:.86rem}
+  .row .note{color:var(--dim);font-size:.78rem;line-height:1.4}
+  .list::-webkit-scrollbar{width:8px}
+  .list::-webkit-scrollbar-thumb{background:var(--line);border-radius:4px}
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Blau &amp; Hecht Family, Vienna</h1>
+    <p class="sub">Every address on <b>suzfamilytree.net</b>'s Places page under Vienna, Austria — weighted by
+      how many people and life events happened there. Darker and redder means more of the family passed through.</p>
+  </header>
+
+  <main>
+    <div class="mapcard">
+      <div class="mapframe" id="frame">
+        <canvas id="heat"></canvas>
+        <!-- district labels, ring, and dots are positioned by script -->
+      </div>
+      <div class="legend">
+        <span>fewer</span>
+        <span class="bar"></span>
+        <span>more</span>
+      </div>
+      <p class="caption">A schematic projection of real coordinates, not a street map — districts (Gemeindebezirke)
+        are labelled by their postal code so the clustering reads correctly even without map tiles. Hover any point
+        for who lived there.</p>
+    </div>
+
+    <div class="side">
+      <h2>36 places, sorted by weight</h2>
+      <div class="list" id="list"></div>
+    </div>
+  </main>
+</div>
+
+<script>
+(function(){
+  var points = [
+    {addr:"Johannesgasse 12, 1010", lat:48.2039877, lng:16.3744633, w:1, note:"Ernst Blau — lived 1955, 1965"},
+    {addr:"Förstergasse 7, 1020", lat:48.220907, lng:16.3723986, w:1, note:"Edith Weiss — lived 1942"},
+    {addr:"Heinestraße 12, 1020", lat:48.2210573, lng:16.3841957, w:1, note:"Richard Blau — lived 1938"},
+    {addr:"Leopoldsgasse 3, 1020", lat:48.2213072, lng:16.3750016, w:1, note:"Ernestine Blau — education 1891"},
+    {addr:"Lichtenauergasse 7, 1020", lat:48.2147297, lng:16.3892279, w:1, note:"Heinrich Blau — lived 1937"},
+    {addr:"Novaragasse 12, 1020", lat:48.219298, lng:16.3827959, w:4, note:"Josef 'Joshi' Blau, Richard Blau, Grete Stör — Nazi persecution 1938; Scheindel 'Charlotte' Klinghoffer — lived 1914"},
+    {addr:"Pillersdorfgasse 10, Apt 5, 1020", lat:48.2201127, lng:16.3852834, w:3, note:"Ernestine Blau, Hildegard 'Hilde' Weiss, Robert Weiss — lived 1926–1938"},
+    {addr:"Schweidlgasse 13, 1020", lat:48.2260149, lng:16.3880125, w:5, note:"Richard Blau — lived 1941; Edmund, Oscar & Walter Blau, Juliana Oszman — lived 1938"},
+    {addr:"Zirkusgasse 19, 1020", lat:48.2161206, lng:16.3839164, w:1, note:"Josef Blau — lived 1941"},
+    {addr:"Hanovergasse 8, 1020", lat:48.2301156, lng:16.3696237, w:7, note:"Clara, Jacob, Jochil & Joseph Elliot Hecht, Sadie Hecht, Adele Schapira — lived 1905; Maximilian Hecht — born/died 1905–06"},
+    {addr:"Kleine Pfarrgasse 29, 1020", lat:48.2195274, lng:16.3788987, w:8, note:"Edmund, Ernestine, Heinrich, Oskar, Richard & Samuel Blau, Betti Borbola Fuchs — 1891–1894"},
+    {addr:"Othmargasse 44, 1020", lat:48.2310274, lng:16.369481, w:2, note:"Jochil Hecht, Rose Hecht — lived 1928–1938"},
+    {addr:"Taborstraße 49, 1020", lat:48.2207074, lng:16.3815292, w:2, note:"Ernestine Blau, Jakab Weisz — lived 1899"},
+    {addr:"Löwengasse 19, 1030", lat:48.2100144, lng:16.3912308, w:4, note:"Erika & Ilonka 'Helen' Blau, Josef Blau, Teresa Feldman — lived 1926–1940"},
+    {addr:"Fillgradergasse 15, Apt 5, 1060", lat:48.1992404, lng:16.357717, w:1, note:"Robert Weiss — lived 1932–1939; Nazi persecution 1938–1939"},
+    {addr:"Schmalzhofgasse 3, 1060", lat:48.1956142, lng:16.3474375, w:1, note:"Richard Blau — married 1930"},
+    {addr:"Seegasse 9, 1090", lat:48.2234319, lng:16.3635571, w:1, note:"Anna Maria Schepan — lived 1964"},
+    {addr:"Wilhelminenspital, 1160", lat:48.2123251, lng:16.3011863, w:1, note:"Gertrude Blau — died 1927"},
+    {addr:"Dürauergasse 9, 1170", lat:48.223502, lng:16.3076265, w:1, note:"Kurt Blau — died 1976"},
+    {addr:"Donaustraße 12, 1190", lat:48.2875695, lng:16.3459188, w:3, note:"Erika Blau, Ernst Blau, Anna Maria Schepan — lived 1946"},
+    {addr:"Friedrich-Engels-Platz 9, 1200", lat:48.2465768, lng:16.3787618, w:4, note:"Edmund & Walter Blau, Oscar Blau, Juliana Oszman — lived 1934–1938; Nazi persecution 1938"},
+    {addr:"Hirschvogelgasse 3, 1200", lat:48.2303843, lng:16.3644212, w:8, note:"Clara, Jacob, Jochil & Joseph Elliot Hecht, Rose & Sadie Hecht, Adele Schapira — lived 1910; Sigfried 'Fred' Hecht born 1910"},
+    {addr:"Rauscherstraße 6, Apt 23, 1200", lat:48.2303991, lng:16.3756611, w:16, note:"The Blau family home, 1914–1940: Edmund, Erika, Ernst, Gertrude, Hermine 'Mina', Josef 'Joshi', Kurt, Oskar, Richard, Rosa, Samuel, Siegfried & Walter Blau, Betti Borbola Fuchs, Scheindel Klinghoffer, Anna Maria Schepan"},
+    {addr:"Romanogasse 12, 1200", lat:48.2320968, lng:16.3644859, w:7, note:"Clara, Jacob, Jochil & Joseph Elliot Hecht, Sadie Hecht, Adele Schapira — lived 1908; Rose Hecht born 1908"},
+    {addr:"Treustraße 26, 1200", lat:48.2288357, lng:16.366595, w:1, note:"Anna Maria Schepan — lived 1940–1950"},
+    {addr:"Fünfhaus Synagogue (Turnertempel), 1150", lat:48.192292, lng:16.3352708, w:1, note:"Robert Weiss — occupation 1934–1938"},
+    {addr:"Gymnasium Kundmanngasse, 1030", lat:48.2035786, lng:16.393738, w:1, note:"Robert Weiss — education 1916–1922"},
+    {addr:"Kaufmännisches Spital, 1190", lat:48.2380933, lng:16.330722, w:2, note:"Ernestine Blau, Oskar Blau — died 1931"},
+    {addr:"Leopoldstädter Tempel, 1020", lat:48.2137804, lng:16.3852687, w:5, note:"Heinrich, Josef 'Joshi' & Richard Blau, Scheindel Klinghoffer, Grete Stör — married 1914–1938"},
+    {addr:"Polish Synagogue, 1020", lat:48.2183664, lng:16.3774173, w:2, note:"Ernestine Blau, Jakab Weisz — married 1899"},
+    {addr:"Stadttempel, 1010", lat:48.2116667, lng:16.3747222, w:6, note:"Edmund & Oskar Blau, Rose Hecht, Juliana Oszman, Anna Maria Schepan, Robert Weiss — married/occupation 1914–1939"},
+    {addr:"Rothschild Jewish Hospital, 1180", lat:48.2263694, lng:16.3487578, w:1, note:"Adele Schapira — died 1928"},
+    {addr:"University of Vienna", lat:48.2131702, lng:16.3598848, w:1, note:"Robert Weiss — graduated 1931"},
+    {addr:"Academy for Music and Performing Arts, 1030", lat:48.2018433, lng:16.3848833, w:1, note:"Robert Weiss — graduated 1933"},
+    {addr:"Zentralfriedhof Tor I (old Jewish cemetery), 1110", lat:48.1567179, lng:16.4315541, w:3, note:"Hermine Blau, Rosa Blau, Maximilian Hecht — buried 1885–1917"},
+    {addr:"Zentralfriedhof Tor IV (new Jewish cemetery), 1110", lat:48.1518716, lng:16.4513235, w:10, note:"Ernestine, Oskar & Samuel Blau, Gertrude Blau, Heinrich Blau, Kurt Blau, Siegfried Blau, Betti Borbola Fuchs, Scheindel Klinghoffer, Adele Schapira — buried 1927–1976"}
+  ];
+
+  var districtNames = {
+    "1010":"Innere Stadt","1020":"Leopoldstadt","1030":"Landstraße","1060":"Mariahilf",
+    "1090":"Alsergrund","1110":"Simmering","1150":"Rudolfsheim-Fünfhaus","1160":"Ottakring",
+    "1170":"Hernals","1180":"Währing","1190":"Döbling","1200":"Brigittenau"
+  };
+
+  points.forEach(function(p){ var m = p.addr.match(/\b1\d{3}\b/); p.district = m ? m[0] : null; });
+
+  // --- project lat/lng onto a flat x/y (meters), small-area equirectangular ---
+  var latRef = points.reduce(function(s,p){return s+p.lat;},0)/points.length;
+  var lngRef = points.reduce(function(s,p){return s+p.lng;},0)/points.length;
+  var R = 111320;
+  points.forEach(function(p){
+    p.x = (p.lng - lngRef) * Math.cos(latRef*Math.PI/180) * R;
+    p.y = (latRef - p.lat) * R;
+  });
+  var xs = points.map(function(p){return p.x;}), ys = points.map(function(p){return p.y;});
+  var minX=Math.min.apply(null,xs), maxX=Math.max.apply(null,xs);
+  var minY=Math.min.apply(null,ys), maxY=Math.max.apply(null,ys);
+  var padX=(maxX-minX)*0.16+200, padY=(maxY-minY)*0.16+200;
+  minX-=padX; maxX+=padX; minY-=padY; maxY+=padY;
+
+  function toFrac(p){ return { fx:(p.x-minX)/(maxX-minX), fy:(p.y-minY)/(maxY-minY) }; }
+
+  var frame = document.getElementById('frame');
+  var canvas = document.getElementById('heat');
+
+  function colorFor(t){
+    // t in [0,1] -> transparent -> heat-lo -> gold -> heat-hi
+    var stops = [
+      [0.00, [0,0,0,0]],
+      [0.18, [29,78,99,120]],
+      [0.5,  [217,194,74,200]],
+      [1.0,  [194,59,34,235]]
+    ];
+    for (var i=1;i<stops.length;i++){
+      if (t<=stops[i][0]){
+        var a=stops[i-1], b=stops[i];
+        var span=(b[0]-a[0])||1, lt=(t-a[0])/span;
+        var c=[0,0,0,0];
+        for (var k=0;k<4;k++) c[k]=a[1][k]+(b[1][k]-a[1][k])*lt;
+        return c;
+      }
+    }
+    return stops[stops.length-1][1];
+  }
+
+  function render(){
+    var rect = frame.getBoundingClientRect();
+    var dpr = Math.min(window.devicePixelRatio||1, 2);
+    var W = Math.round(rect.width*dpr), H = Math.round(rect.height*dpr);
+    canvas.width=W; canvas.height=H;
+    var ctx = canvas.getContext('2d');
+    ctx.clearRect(0,0,W,H);
+
+    var off = document.createElement('canvas');
+    off.width=W; off.height=H;
+    var octx = off.getContext('2d');
+    octx.globalCompositeOperation = 'lighter';
+
+    var maxW = Math.max.apply(null, points.map(function(p){return p.w;}));
+    points.forEach(function(p){
+      var f = toFrac(p);
+      var cx = f.fx*W, cy = f.fy*H;
+      var radius = (0.045 + 0.05*Math.sqrt(p.w/maxW)) * Math.min(W,H);
+      var alpha = 0.35 + 0.45*Math.sqrt(p.w/maxW);
+      var g = octx.createRadialGradient(cx,cy,0,cx,cy,radius);
+      g.addColorStop(0, 'rgba(255,255,255,'+alpha+')');
+      g.addColorStop(1, 'rgba(255,255,255,0)');
+      octx.fillStyle = g;
+      octx.beginPath(); octx.arc(cx,cy,radius,0,Math.PI*2); octx.fill();
+    });
+
+    var img = octx.getImageData(0,0,W,H);
+    var d = img.data;
+    for (var i=0;i<d.length;i+=4){
+      var a = d[i+3]/255;
+      if (a<=0.003) { d[i+3]=0; continue; }
+      var c = colorFor(Math.min(a,1));
+      d[i]=c[0]; d[i+1]=c[1]; d[i+2]=c[2]; d[i+3]=Math.min(255, c[3]*Math.min(1,a*1.4));
+    }
+    octx.putImageData(img,0,0);
+    ctx.drawImage(off,0,0);
+
+    layoutOverlay(rect);
+  }
+
+  // districts whose centroids sit close together in the dense core and would
+  // overlap if labelled in place; these get pushed out to a ring with leader lines
+  var CROWDED = ["1010","1020","1030","1060","1090","1180","1200"];
+
+  function layoutOverlay(rect){
+    frame.querySelectorAll('.districtlabel,.ring,.ringlabel,.dot,.tip,svg.leaders').forEach(function(el){ el.remove(); });
+
+    var svgNS = 'http://www.w3.org/2000/svg';
+    var svg = document.createElementNS(svgNS,'svg');
+    svg.setAttribute('class','leaders');
+    svg.setAttribute('width', rect.width); svg.setAttribute('height', rect.height);
+    svg.style.position='absolute'; svg.style.inset='0'; svg.style.pointerEvents='none';
+    frame.appendChild(svg);
+
+    // district centroid labels
+    var byDistrict = {};
+    points.forEach(function(p){
+      if (!p.district) return;
+      (byDistrict[p.district] = byDistrict[p.district] || []).push(p);
+    });
+    var codes = Object.keys(byDistrict);
+
+    var crowdedCodes = codes.filter(function(c){ return CROWDED.indexOf(c)!==-1 && byDistrict[c]; });
+    var coreFx=0, coreFy=0, n=0;
+    crowdedCodes.forEach(function(code){
+      byDistrict[code].forEach(function(p){ var f=toFrac(p); coreFx+=f.fx; coreFy+=f.fy; n++; });
+    });
+    if (n){ coreFx/=n; coreFy/=n; }
+
+    // sort crowded districts by true bearing from the core centroid, then
+    // space them evenly around a ring at that same bearing order
+    var withAngle = crowdedCodes.map(function(code){
+      var arr = byDistrict[code];
+      var fx = arr.reduce(function(s,p){return s+toFrac(p).fx;},0)/arr.length;
+      var fy = arr.reduce(function(s,p){return s+toFrac(p).fy;},0)/arr.length;
+      return { code:code, fx:fx, fy:fy, angle: Math.atan2(fy-coreFy, fx-coreFx) };
+    }).sort(function(a,b){ return a.angle-b.angle; });
+
+    var ringR = Math.min(rect.width, rect.height) * 0.40;
+    withAngle.forEach(function(d, i){
+      var angle = (-Math.PI/2) + (i/withAngle.length) * Math.PI*2; // start at top, go clockwise
+      var lx = coreFx*rect.width + Math.cos(angle)*ringR;
+      var ly = coreFy*rect.height + Math.sin(angle)*ringR;
+      var px = d.fx*rect.width, py = d.fy*rect.height;
+
+      var line = document.createElementNS(svgNS,'line');
+      line.setAttribute('x1', px); line.setAttribute('y1', py);
+      line.setAttribute('x2', lx); line.setAttribute('y2', ly);
+      line.setAttribute('stroke', 'currentColor');
+      line.setAttribute('stroke-width', '1');
+      line.setAttribute('stroke-dasharray', '2,2');
+      line.setAttribute('opacity', '0.35');
+      line.style.color = 'var(--dim)';
+      svg.appendChild(line);
+
+      var el = document.createElement('div');
+      el.className='districtlabel';
+      el.style.left=((lx/rect.width)*100)+'%';
+      el.style.top=((ly/rect.height)*100)+'%';
+      el.textContent = d.code+' '+(districtNames[d.code]||'');
+      frame.appendChild(el);
+    });
+
+    codes.filter(function(c){ return CROWDED.indexOf(c)===-1; }).forEach(function(code){
+      var arr = byDistrict[code];
+      var fx = arr.reduce(function(s,p){return s+toFrac(p).fx;},0)/arr.length;
+      var fy = arr.reduce(function(s,p){return s+toFrac(p).fy;},0)/arr.length;
+      var el = document.createElement('div');
+      el.className='districtlabel';
+      el.style.left=(fx*100)+'%'; el.style.top=((fy*100)-7)+'%';
+      el.textContent = code+' '+(districtNames[code]||'');
+      frame.appendChild(el);
+    });
+
+    var tip = document.createElement('div'); tip.className='tip'; frame.appendChild(tip);
+    var maxW = Math.max.apply(null, points.map(function(p){return p.w;}));
+
+    points.forEach(function(p,idx){
+      var f = toFrac(p);
+      var size = 6 + 10*Math.sqrt(p.w/maxW);
+      var dot = document.createElement('div');
+      dot.className='dot';
+      dot.style.width=size+'px'; dot.style.height=size+'px';
+      dot.style.left=(f.fx*100)+'%'; dot.style.top=(f.fy*100)+'%';
+      dot.dataset.idx = idx;
+      dot.addEventListener('mouseenter', function(){
+        showTip(p, f, rect);
+        highlight(idx, true);
+      });
+      dot.addEventListener('mouseleave', function(){ tip.style.opacity=0; highlight(idx, false); });
+      frame.appendChild(dot);
+    });
+
+    function showTip(p, f, rect){
+      tip.innerHTML = '<b>'+p.addr+'</b>'+p.note;
+      var left = f.fx*rect.width;
+      var top = f.fy*rect.height;
+      var fromRight = left > rect.width*0.6;
+      tip.style.left = fromRight ? '' : (left+10)+'px';
+      tip.style.right = fromRight ? (rect.width-left+10)+'px' : '';
+      tip.style.top = Math.max(0, top-10)+'px';
+      tip.style.opacity = 1;
+    }
+  }
+
+  function highlight(idx, on){
+    var dot = frame.querySelector('.dot[data-idx="'+idx+'"]');
+    if (dot) dot.classList.toggle('active', on);
+    var row = list.querySelector('.row[data-idx="'+idx+'"]');
+    if (row) row.classList.toggle('active', on);
+  }
+
+  // --- sidebar list ---
+  var list = document.getElementById('list');
+  points
+    .map(function(p,idx){ return {p:p, idx:idx}; })
+    .sort(function(a,b){ return b.p.w - a.p.w; })
+    .forEach(function(entry){
+      var row = document.createElement('div');
+      row.className='row'; row.dataset.idx = entry.idx;
+      row.innerHTML = '<span class="w">'+entry.p.w+'</span>'+
+        '<span class="meta"><span class="addr">'+entry.p.addr+'</span>'+
+        '<span class="note">'+entry.p.note+'</span></span>';
+      row.addEventListener('mouseenter', function(){ highlight(entry.idx, true); });
+      row.addEventListener('mouseleave', function(){ highlight(entry.idx, false); });
+      list.appendChild(row);
+    });
+
+  window.addEventListener('resize', render);
+  render();
+})();
+</script>

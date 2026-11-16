@@ -1499,6 +1499,9 @@ class Site:
             shutil.copy2(self.cfg["logo"], assets / self.logo_name)
         else:
             (assets / self.logo_name).write_text(tree_svg(), encoding="utf-8")
+        extra_src = self.cfg["_base"] / "extra"
+        if extra_src.is_dir():
+            shutil.copytree(extra_src, self.out / "extra", dirs_exist_ok=True)
 
     def build(self):
         if self.out.exists():
