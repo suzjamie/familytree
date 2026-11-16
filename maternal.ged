@@ -4430,8 +4430,58 @@
 1 _PHOTO @M622@
 1 FAMS @F3865@
 0 @I12823@ INDI
-1 NAME Living /Blau/
+1 NAME Erika /Blau/
+2 SOUR @S667@
+2 SOUR @S667@
+2 SOUR @S2969@
+3 PAGE Arolsen Archives; Bad Arolsen, Germany; Registration of Liberated Former Persecutees at Various Locations (F18 lists); Reference: DE ITS 3.1.1.3 AU
+3 DATA
+4 TEXT (null)
+2 SOUR @S2969@
+3 PAGE Arolsen Archives; Bad Arolsen, Germany; Registration of Liberated Former Persecutees at Various Locations (F18 lists); Reference: DE ITS 3.1.1.3 AU
+3 DATA
+4 TEXT (null)
+2 SOUR @S2969@
+3 PAGE Arolsen Archives; Bad Arolsen, Germany; Registration of Liberated Former Persecutees at Various Locations (F18 lists); Reference: DE ITS 3.1.1.3 AU
+3 DATA
+4 TEXT (null)
 1 SEX F
+1 BIRT (can't find in Matrikel. Line #502 is blank.)
+2 DATE 28 MAY 1930
+2 PLAC 1200 Rauscherstrasse 6, Apt. 23, Vienna, Austria
+2 SOUR @S667@
+2 SOUR @S667@
+2 SOUR @S2969@
+3 PAGE Arolsen Archives; Bad Arolsen, Germany; Registration of Liberated Former Persecutees at Various Locations (F18 lists); Reference: DE ITS 3.1.1.3 AU
+3 DATA
+4 TEXT (null)
+2 SOUR @S2969@
+3 PAGE Arolsen Archives; Bad Arolsen, Germany; Registration of Liberated Former Persecutees at Various Locations (F18 lists); Reference: DE ITS 3.1.1.3 AU
+3 DATA
+4 TEXT (null)
+2 SOUR @S2969@
+3 PAGE Arolsen Archives; Bad Arolsen, Germany; Registration of Liberated Former Persecutees at Various Locations (F18 lists); Reference: DE ITS 3.1.1.3 AU
+3 DATA
+4 TEXT (null)
+1 RESI https://archive.org/details/aufbau1219461946germ/page/n345/mode/1up?vi
+2 CONC ew=theater
+2 DATE 3 MAY 1946
+2 PLAC 1190 Donaustrasse 12, Apartment 12, Vienna, Austria
+2 NOTE @N4928@
+2 SOUR @S667@
+2 SOUR @S667@
+1 EVEN per Nazi records
+2 TYPE Nazi persecution
+2 DATE 22 JUL 1938
+2 PLAC 1200 Rauscherstrasse 6, Apt. 23, Vienna, Austria
+1 ADDR Won a swim meet in Hakoah - a Jewish Sports League -. https://anno.onb
+2 CONC .ac.at/cgi-content/anno?aid=ovs&datum=19461115&seite=4&zoom=33&query=%
+2 CONC 22Erika%2BBlau%22&ref=anno-search
+2 DATE 14 NOV 1946
+2 PLAC 1190 Donaustrasse 12, Apartment 12, Vienna, Austria
+2 OBJE @M6448@
+1 OBJE @M2741@
+1 OBJE @M4472@
 1 FAMC @F3908@
 0 @I12824@ INDI
 1 NAME Gertrude /Blau/
@@ -4718,8 +4768,10 @@
 1 OBJE @M4456@
 1 FAMS @F4594@
 0 @I18978@ INDI
-1 NAME Living /Meller/
+1 NAME Zvi /Meller/
 1 SEX M
+1 BIRT
+2 DATE 1913
 1 FAMS @F13234@
 0 @I10696@ INDI
 1 NAME John Ross /Johnston/
@@ -4974,12 +5026,9 @@
 2 DATE 17 JAN 1822
 2 PLAC Považská Bystrica, Trenciansky, Slovakia
 2 SOUR @S2446@
-1 BURI Floridsdorf. Group 8, Row 5, Grave 7
+1 BURI Group 8, Row 5, Grave 7
 2 DATE 24 OCT 1880
-2 PLAC Vienna, Austria
-3 MAP
-4 LATI N47.491405
-4 LONG E13.726327
+2 PLAC Jüdischer Friedhof Floridsdorf, 1210 Ruthnergasse 26, Vienna, Austria
 2 NOTE @N4903@
 2 SOUR @S128@
 1 RESI Film: 2062256.7. Image: 19. Pg: 19. Rec: 421 (not online)
@@ -4992,10 +5041,10 @@
 2 CONC amp;cat=92603  Note: from Bistritz, Ungarn. Died in Langenzersdorf. Ag
 2 CONC e: 56./Floridsdorf
 2 DATE 22 OCT 1880
-2 PLAC Vienna, Austria
+2 PLAC Langenzersdorf, Korneuburg, Lower Austria, Austria
 3 MAP
-4 LATI N47.491405
-4 LONG E13.726327
+4 LATI N48.299995
+4 LONG E16.349998
 2 SOUR @S128@
 2 OBJE @M6302@
 1 OBJE @M2439@
@@ -5263,55 +5312,6 @@
 1 OBJE @M6294@
 1 FAMS @F6811@
 1 FAMC @F3931@
-0 @I16571@ INDI
-1 NAME Jakob /Kohn/
-2 SOUR @S2813@
-3 PAGE JewishGen; Hungary, Jewish Census, 1848 Record
-2 SOUR @S2133@
-3 PAGE Archiv de Erzdiözese Wien; Wien, Österreich; Katholische Kirchenbücher; Pfarre: Heiligenstadt; Signatur: 9171; Laufendenummer: 02-15
-1 SEX M
-1 BIRT https://www.familysearch.org/ark:/61903/3:1:33S7-9RFY-93C6?cat=766083&
-2 CONC i=287&cc=1554443&personaUrl=%2Fark%3A%2F61903%2F1%3A1%3A6NMZ-XV53
-2 DATE 13 NOV 1840
-2 PLAC Považská Bystrica, Trenciansky, Slovakia
-2 SOUR @S2813@
-3 PAGE JewishGen; Hungary, Jewish Census, 1848 Record
-2 OBJE @M6223@
-1 RESI A witness on great nephew, Richard Blau's birth record.
-2 DATE 13 JAN 1888
-2 PLAC 1020 Nickelgasse 1, Vienna, Austria
-1 BURI Group 7 Row 5 Grave 079
-2 DATE 13 JAN 1904
-2 PLAC Zentralfriedhof Tor I, 1110 Simmeringer Hauptstrasse 230b, Vienna, Austria
-1 DEAT #65. https://www.familysearch.org/ark:/61903/3:1:33S7-9BKB-9P5?i=9&cc=
-2 CONC 2028320
-2 DATE 11 JAN 1904
-2 PLAC 1020 Nickelgasse 1, Vienna, Austria
-2 OBJE @M6362@
-1 RESI A witness on great nephew, Heinrich Blau's, birth record: #2848 https:
-2 CONC //www.familysearch.org/ark:/61903/3:1:33S7-8B24-4XC?i=193&amp;cc=20283
-2 CONC 20
-2 DATE 20 APR 1882
-2 PLAC Vienna, Austria
-3 MAP
-4 LATI N47.491405
-4 LONG E13.726327
-1 RESI
-2 DATE 1848
-2 PLAC Považská Bystrica, Trenciansky, Slovakia
-2 SOUR @S2813@
-3 PAGE JewishGen; Hungary, Jewish Census, 1848 Record
-1 RESI A witness on great nephew, Philipp Schwarz' birth record.
-2 DATE 7 DEC 1884
-2 PLAC 1020 Nickelgasse 1, Vienna, Austria
-1 OBJE @M382@
-1 OBJE @M863@
-1 OBJE @M2433@
-1 OBJE @M6294@
-1 OBJE @M6300@
-1 OBJE @M6362@
-1 FAMS @F6811@
-1 FAMS @F6799@
 0 @I12320@ INDI
 1 NAME Ernst /Prisner/
 2 SOUR @S1108@
@@ -5747,22 +5747,6 @@
 2 DATE 21 MAR 1920
 2 PLAC Stadttempel, 1010, Seitenstettengasse 4, Vienna, Austria
 2 OBJE @M5541@
-0 @F6811@ FAM
-1 HUSB @I16571@
-1 WIFE @I15813@
-1 MARR #304. https://www.familysearch.org/ark:/61903/3:1:33S7-8B23-JKB
-2 DATE 6 JUL 1873
-2 PLAC Leopoldstädter Tempel, 1020 Tempelgasse 5, Vienna, Austria
-2 OBJE @M6294@
-0 @F3826@ FAM
-1 HUSB @I10669@
-1 WIFE @I10657@
-1 MARR
-2 DATE 19 MAR 1942
-2 PLAC Trencín, Trenciansky, Slovakia
-3 MAP
-4 LATI N48.899998
-4 LONG E18.033331
 0 @F4398@ FAM
 1 HUSB @I12223@
 1 WIFE @I12280@
@@ -5777,6 +5761,21 @@
 2 DATE 24 JUL 1929
 2 PLAC Stadttempel, 1010, Seitenstettengasse 4, Vienna, Austria
 2 OBJE @M286@
+0 @F3826@ FAM
+1 HUSB @I10669@
+1 WIFE @I10657@
+1 MARR
+2 DATE 19 MAR 1942
+2 PLAC Trencín, Trenciansky, Slovakia
+3 MAP
+4 LATI N48.899998
+4 LONG E18.033331
+0 @F6811@ FAM
+1 WIFE @I15813@
+1 MARR #304. https://www.familysearch.org/ark:/61903/3:1:33S7-8B23-JKB
+2 DATE 6 JUL 1873
+2 PLAC Leopoldstädter Tempel, 1020 Tempelgasse 5, Vienna, Austria
+2 OBJE @M6294@
 0 @F4266@ FAM
 1 HUSB @I11931@
 1 WIFE @I12140@
@@ -5831,12 +5830,18 @@
 1 MARR
 2 DATE ABT 1953
 2 PLAC Israel
-0 @F6799@ FAM
-1 HUSB @I16571@
-1 MARR Film: 2004578.4. Image: 6. Pg: 3. Rec: 6 (not online)
-2 DATE 7 AUG 1888
-2 PLAC Námestovo, Zilinsky, Slovakia
-2 OBJE @M6300@
+0 @F3878@ FAM
+1 WIFE @I12352@
+1 MARR
+2 DATE 9 JUL 1933
+2 PLAC Stadttempel, 1010, Seitenstettengasse 4, Vienna, Austria
+2 OBJE @M130@
+1 DIV
+2 DATE BET MAR AND JUL 1939
+2 PLAC Cleveland, Cuyahoga, Ohio
+3 MAP
+4 LATI N41.499496
+4 LONG W81.695412
 0 @F3814@ FAM
 1 HUSB @I10634@
 1 WIFE @I10584@
@@ -5870,18 +5875,6 @@
 2 DATE 13 JUN 1875
 2 PLAC Urmeny, Nitriansky, Slovakia
 2 OBJE @M6433@
-0 @F3878@ FAM
-1 WIFE @I12352@
-1 MARR
-2 DATE 9 JUL 1933
-2 PLAC Stadttempel, 1010, Seitenstettengasse 4, Vienna, Austria
-2 OBJE @M130@
-1 DIV
-2 DATE BET MAR AND JUL 1939
-2 PLAC Cleveland, Cuyahoga, Ohio
-3 MAP
-4 LATI N41.499496
-4 LONG W81.695412
 0 @F4259@ FAM
 1 HUSB @I11906@
 1 WIFE @I10880@
@@ -5977,16 +5970,6 @@
 1 TITL U.S., World War II Draft Registration Cards, 1942
 1 PUBL Name: Ancestry.com Operations, Inc.;
 1 REPO @R20@
-0 @S2813@ SOUR
-1 AUTH JewishGen Hungarian SIG, comp
-1 TITL Hungary, Jewish Census, 1848
-1 PUBL Name: Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date: 2008
-2 CONC ;
-1 REPO @R20@
-1 NOTE
-2 CONC Source information provided with each record. This data is provided i
-3 CONC n partnership with <a target="_blank" href="http://jewishgen.org">Jewi
-3 CONC shGen.org.</a>
 0 @S947@ SOUR
 1 AUTH Ancestry.com
 1 TITL New York, New York, Extracted Death Index, 1862-1948
@@ -6389,6 +6372,12 @@
 3 CONC ; National Archives, Washington, D.C. This data is provided in partner
 3 CONC ship with <a target="_blank" href="http://jewishgen.org">JewishGen.org
 3 CONC .</a>
+0 @S2969@ SOUR
+1 AUTH Ancestry.com
+1 TITL Registration of Liberated Former Persecutees, 1945-1950
+1 PUBL Name: Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date: 20
+2 CONC 25;
+1 REPO @R20@
 0 @S161@ SOUR
 1 AUTH Ancestry.com
 1 TITL England & Wales, Civil Registration Marriage Index, 1916-2005
@@ -6763,12 +6752,6 @@
 1 TITL Illinois, Federal Naturalization Records, 1856-1991
 1 PUBL Name: Ancestry.com Operations, Inc.;
 1 REPO @R20@
-0 @S2133@ SOUR
-1 AUTH Ancestry.com
-1 TITL Vienna, Austria, Catholic Church Registers, 1600-1960
-1 PUBL Name: Ancestry.com Operations, Inc.; Location: Lehi, Utah, USA; Date
-2 CONC : 2019;
-1 REPO @R20@
 0 @S575@ SOUR
 1 AUTH Ancestry.com
 1 TITL British Columbia, Canada, Death Index, 1872-1990
@@ -7073,11 +7056,6 @@
 2 FORM jpg
 2 TITL 1930s-Lotti-Fuchs-Moritz-Schwarz-fnt
 2 _DATE 3/15/1930 9:50:19 PM
-0 @M6223@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1840-Jak Kohn-Jos Frankl Kohn-births.jpg
-2 FORM jpg
-2 TITL 1840-Jak Kohn-Jos Frankl Kohn-births
-2 _DATE 5/9/26, 12:55:55 PM
 0 @M2332@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1901-Hersch-Hecht-death-frt.jpg
 2 FORM jpg
@@ -7347,11 +7325,6 @@
 2 FORM jpg
 2 TITL 1940-Hilda Weiss-Jack-Herman
 2 _DATE 10/12/2009 6:19:02 AM
-0 @M6362@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1904-Jakob-Kohn-death.jpg
-2 FORM jpg
-2 TITL 1904-Jakob-Kohn-death
-2 _DATE 5/12/26, 8:51:50 PM
 0 @M2338@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1925-Joe Hecht Arrival-2.jpg
 2 FORM jpg
@@ -7646,6 +7619,11 @@
 2 FORM jpg
 2 TITL 1947-Edith Weiss-Holocaust-3
 2 _DATE 6/13/2021 4:25:19 PM
+0 @M2741@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1946-Blaus-Vienna.jpg
+2 FORM jpg
+2 TITL 1946-Blaus-Vienna
+2 _DATE 12/31/2021 5:33:00 PM
 0 @M2841@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Pictures/Suz's Fam/1800-1939/Hecht/1917-Jachil-Siggy-Hecht.jpg
 2 FORM jpg
@@ -7664,11 +7642,6 @@
 2 FORM jpg
 2 TITL 1875-Samuel-Blau-Betti-Fuchs-marriage
 2 _DATE 5/26/26, 12:35:57 PM
-0 @M6300@ OBJE
-1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1888-Julie-Fuchs-marriage.jpg
-2 FORM jpg
-2 TITL 1888-Julie-Fuchs-marriage
-2 _DATE 5/9/26, 8:33:24 PM
 0 @M2675@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1942-Edmund-Blau-deportation-Drancy.jpg
 2 FORM jpg
@@ -8526,6 +8499,11 @@
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1907-Rosa-Blau-burial-1.jpg
 2 FORM jpg
 2 TITL 1907-Rosa-Blau-burial-1
+0 @M6448@ OBJE
+1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1946-Nov 15-Erika Blau-swim.jpg
+2 FORM jpg
+2 TITL 1946-Nov 15-Erika Blau-swim
+2 _DATE 6/21/26, 2:40:03 PM
 0 @M6315@ OBJE
 1 FILE /Users/suzja/Library/CloudStorage/OneDrive-Personal/Documents/FTM/JFam Media/1938-Edmund-Blau-escape-2.jpg
 2 FORM jpg
@@ -9187,6 +9165,8 @@
 2 CONC ed like. Someone asked if he regretted it, he had a funny reply. He an
 2 CONC swered the question with a question. Like. "Would I be lying if I sa
 2 CONC y yes?"
+0 @N4928@ NOTE
+1 CONC Likely survived Holocaust by her mother was not born a Jew.
 0 @N5005@ NOTE
 1 CONC Cause of death: myocardial degeneration
 0 @N5012@ NOTE
