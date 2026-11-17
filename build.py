@@ -1308,6 +1308,14 @@ class Site:
             return len(n["items"]) + sum(count(k) for k in n["kids"].values())
 
         def render(name, n, cls):
+            # A region with exactly one place and no sub-regions, whose only address
+            # IS the region's own name (no distinct street address) would otherwise show
+            # that name twice in a row - once as the group header, once as the leaf
+            # below it. Collapse those into the single leaf line instead.
+            if not n["kids"] and len(n["items"]) == 1:
+                addr, pl, owner = n["items"][0]
+                if (addr or owner).lower() == name.lower():
+                    return entry(name, pl)
             rows = "".join(entry(addr or owner, pl)
                            for addr, pl, owner in sorted(n["items"], key=lambda x: (x[0] != "", x[0].lower())))
             kids = "".join(render(k, n["kids"][k], "reg") for k in sorted(n["kids"], key=str.lower))
